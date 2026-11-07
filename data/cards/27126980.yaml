@@ -94,6 +94,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BN01-AE144
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: HA05-KR002
     set_name: 'Hidden Arsenal 5: Steelswarm Invasion'

@@ -1714,6 +1714,31 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ''
+    set_name: Oversized Gift for 7000 People
+    rarities:
+    - Ultra Rare
+  - set_number: KA-05
+    set_name: 'Structure Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: LOB-001
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Ultra Rare
+  - set_number: SDK-001
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Ultra Rare
+  - set_number: 2015-JPP01
+    set_name: Yu-Gi-Oh! World Championship 2015 attendance cards
+    rarities:
+    - Millennium Rare
+  - set_number: SDRB-AE001
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SDK-K001
     set_name: 'Starter Deck: Kaiba'

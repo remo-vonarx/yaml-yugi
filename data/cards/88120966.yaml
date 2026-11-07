@@ -161,6 +161,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: CR05-AE016
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: CPZ1-KR019
     set_name: 'Collectors Pack: ZEXAL Version'

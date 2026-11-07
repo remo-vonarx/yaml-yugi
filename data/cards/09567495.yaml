@@ -87,6 +87,11 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Rare
+  en-HK:
+  - set_number: BLZD-AE109
+    set_name: Blazing Dominion
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP6-KR080
     set_name: World Premiere Pack 2025

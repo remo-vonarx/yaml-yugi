@@ -150,6 +150,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE085
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR085
     set_name: Ancient Sanctuary

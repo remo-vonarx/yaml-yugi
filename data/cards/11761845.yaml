@@ -197,6 +197,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-103
+    set_name: Pharaoh's Servant
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PSV-K103
     set_name: Pharaoh's Servant

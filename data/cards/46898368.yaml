@@ -134,6 +134,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AE033
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: ETCO-KR057
     set_name: Eternity Code

@@ -130,6 +130,11 @@ sets:
     set_name: The New Challengers
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR04-AE038
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: NECH-KR007
     set_name: The New Challengers

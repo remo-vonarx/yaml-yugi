@@ -105,6 +105,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDSS-AE001
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP28-KR001
     set_name: 'Duelist Pack: Duelists of Explosion'

@@ -91,6 +91,11 @@ sets:
     set_name: Battle of Chaos
     rarities:
     - Rare
+  en-HK:
+  - set_number: BLZD-AES19
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BACH-KR048
     set_name: Battle of Chaos

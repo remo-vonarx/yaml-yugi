@@ -169,6 +169,11 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH01-AE022
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR057
     set_name: Burst of Destiny

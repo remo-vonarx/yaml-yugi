@@ -131,6 +131,20 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: AGOV-AE115
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+  - set_number: AGOV-AE115
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Super Rare
+  - set_number: DBPR-AE014
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: AC03-KR001
     set_name: Animation Chronicle 2023

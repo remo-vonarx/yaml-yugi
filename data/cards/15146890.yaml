@@ -126,6 +126,11 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BN01-AE163
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: SD29-KR001
     set_name: 'Structure Deck: Master of Pendulum'

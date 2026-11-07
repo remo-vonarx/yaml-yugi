@@ -115,6 +115,18 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR04-AE184
+    set_name: Creation Pack 04
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR04-AES26
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SR14-KRP02
     set_name: "Structure Deck R: Onslaught of the Fire Kings Second Coming of the Eternal Flames' Ruler Pack"

@@ -112,6 +112,11 @@ sets:
     set_name: 'Promotion Pack 4: Part B'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE038
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: PR04-KR003
     set_name: Promotion Pack 2013 Vol.4

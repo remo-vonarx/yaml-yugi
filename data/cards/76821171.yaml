@@ -91,6 +91,11 @@ sets:
     set_name: 'Deck-Build Pack: Valiant Smashers'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR04-AE085
+    set_name: Creation Pack 04
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DBVS-KR033
     set_name: 'Deck-Build Pack: Valiant Smashers'

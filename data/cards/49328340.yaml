@@ -162,6 +162,12 @@ sets:
     set_name: Advanced Tournament Pack 2016 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: FET-AE043
+    set_name: Flaming Eternity
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: FET-KR043
     set_name: Flaming Eternity

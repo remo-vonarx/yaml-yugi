@@ -191,6 +191,15 @@ sets:
     set_name: 'Structure Deck: Alba Strike'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE032
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: 26AT-AE305
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP15-KR078
     set_name: Extra Pack 2015

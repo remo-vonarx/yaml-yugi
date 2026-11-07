@@ -214,6 +214,11 @@ sets:
     set_name: Animation Chronicle 2023
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE016
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: TDGS-KR049
     set_name: The Duelist Genesis

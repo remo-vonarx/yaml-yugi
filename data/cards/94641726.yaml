@@ -87,6 +87,13 @@ sets:
     set_name: World Premiere Pack 2026
     rarities:
     - Rare
+  en-HK:
+  - set_number: BLZD-AE107
+    set_name: Blazing Dominion
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP7-KR063
     set_name: World Premiere Pack 2026

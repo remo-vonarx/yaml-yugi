@@ -121,6 +121,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE152
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: TSHD-KR059
     set_name: The Shining Darkness

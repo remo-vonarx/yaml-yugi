@@ -89,6 +89,12 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR10-AE064
+    set_name: Creation Pack 10
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: WPP6-KR005
     set_name: World Premiere Pack 2025

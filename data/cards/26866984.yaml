@@ -153,6 +153,16 @@ sets:
     set_name: Winner's Pack 2025 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: ROTA-AE098
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: ROTA-AE098
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: ETCO-KR032
     set_name: Eternity Code

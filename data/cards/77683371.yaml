@@ -78,6 +78,11 @@ sets:
     set_name: Battle of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE009
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: BACH-KR002
     set_name: Battle of Chaos

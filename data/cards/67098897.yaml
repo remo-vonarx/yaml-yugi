@@ -97,6 +97,13 @@ sets:
     - Common
     - Normal Parallel Rare
     - Secret Rare
+  en-HK:
+  - set_number: DBJH-AE020
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: DBJH-KR020
     set_name: 'Deck-Build Pack: Justice Hunters'

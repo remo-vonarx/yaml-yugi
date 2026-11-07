@@ -135,6 +135,16 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: RDS-AE030
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: BPRO-AEC50
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR030
     set_name: Rise of Destiny

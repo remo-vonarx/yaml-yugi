@@ -144,6 +144,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR04-AE191
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: SD24-KR001
     set_name: 'Structure Deck: Onslaught of the Fire Kings'

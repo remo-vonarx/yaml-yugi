@@ -375,6 +375,11 @@ sets:
     set_name: 'Structure Deck: Powercode Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-051
+    set_name: Pharaonic Guardian
+    rarities:
+    - Rare
   ko:
   - set_number: PGD-KR051
     set_name: Pharaonic Guardian

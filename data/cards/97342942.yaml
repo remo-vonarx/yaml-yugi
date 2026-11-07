@@ -177,6 +177,12 @@ sets:
     set_name: 'Memories of the Duel King: Battle City Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE043
+    set_name: Soul of the Duelist
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: SOD-KR043
     set_name: Soul of the Duelist

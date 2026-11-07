@@ -130,6 +130,15 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR01-AE085
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
+  - set_number: CR01-AES14
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: ROTD-KR053
     set_name: Rise of the Duelist

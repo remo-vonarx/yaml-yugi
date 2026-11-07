@@ -123,6 +123,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: TT02-AEB02
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: DBGC-KR013
     set_name: 'Deck-Build Pack: Grand Creators'

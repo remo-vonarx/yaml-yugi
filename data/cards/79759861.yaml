@@ -378,6 +378,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-057
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K057
     set_name: Metal Raiders

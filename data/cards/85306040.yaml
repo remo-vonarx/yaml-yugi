@@ -216,6 +216,16 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: CRV-AE020
+    set_name: Cybernetic Revolution
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SSD1-AE006
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR020
     set_name: Cybernetic Revolution

@@ -178,6 +178,21 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR07-AE097
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES30
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
+  - set_number: BETB-AES12
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DP26-KR006
     set_name: 'Duelist Pack: Duelists of the Abyss'

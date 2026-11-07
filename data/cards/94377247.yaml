@@ -168,6 +168,11 @@ sets:
     set_name: 'Duelist Pack: Battle City'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-016
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR016
     set_name: Labyrinth of Nightmare

@@ -98,6 +98,11 @@ sets:
     set_name: Dimension of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: CR12-AE027
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: DOCS-KR070
     set_name: Dimension of Chaos

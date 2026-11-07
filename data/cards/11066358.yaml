@@ -160,6 +160,11 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD2-AE004
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: EP14-KR001
     set_name: 'Extra Pack: Knights of Order'

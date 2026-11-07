@@ -114,6 +114,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: AGOV-AE116
+    set_name: Age of Overlord
+    rarities:
+    - Rare
   ko:
   - set_number: AC03-KR015
     set_name: Animation Chronicle 2023

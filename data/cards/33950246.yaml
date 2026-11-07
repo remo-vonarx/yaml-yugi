@@ -172,6 +172,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-080
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LON-KR080
     set_name: Labyrinth of Nightmare

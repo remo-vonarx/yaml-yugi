@@ -142,6 +142,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR03-AE028
+    set_name: Creation Pack 03
+    rarities:
+    - Ultra Rare
+  - set_number: CR03-AES05
+    set_name: Creation Pack 03 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SPWR-KR021
     set_name: 'Booster SP: Wing Raiders'

@@ -126,6 +126,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AEC32
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CPL1-KR042
     set_name: 'Collectors Pack: Duelist of Legend Version'

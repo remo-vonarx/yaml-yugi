@@ -87,6 +87,12 @@ sets:
     rarities:
     - Common
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DUAD-AE029
+    set_name: Duelist's Advance
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: DUAD-KR029
     set_name: Duelist's Advance

@@ -172,6 +172,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR01-AE015
+    set_name: Creation Pack 01
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: 20AP-KR051
     set_name: 20th Anniversary Pack 2nd Wave

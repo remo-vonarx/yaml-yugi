@@ -323,6 +323,26 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: AGOV-AE046
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: AGOV-AE046
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AEO37
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+  - set_number: LAVD-AEL40
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: AGOV-KR046
     set_name: Age of Overlord

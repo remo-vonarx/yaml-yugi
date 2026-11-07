@@ -231,6 +231,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SSD1-AE002
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: TP1-K002
     set_name: 'Tournament Pack: 1st Season'

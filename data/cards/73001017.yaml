@@ -146,6 +146,11 @@ sets:
     set_name: 'Structure Deck: Lord of the Storm'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE022
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR022
     set_name: Invasion of Chaos

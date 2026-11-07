@@ -114,6 +114,17 @@ sets:
     set_name: Winner's Pack 2026 Vol.1
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: AGOV-AE107
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  - set_number: ES02-AE069
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 24PP-KRB02
     set_name: Premium Pack 2024 2nd Wave

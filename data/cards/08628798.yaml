@@ -124,6 +124,11 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE057
+    set_name: Flaming Eternity
+    rarities:
+    - Common
   ko:
   - set_number: FET-KR057
     set_name: Flaming Eternity

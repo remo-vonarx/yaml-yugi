@@ -470,6 +470,12 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: EEN-AE037
+    set_name: Elemental Energy
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: EEN-KR037
     set_name: Elemental Energy

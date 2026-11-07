@@ -74,6 +74,15 @@ sets:
     set_name: Crimson Crisis
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE074
+    set_name: Crimson Crisis
+    rarities:
+    - Common
+  - set_number: BPRO-AES17
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRMS-KR074
     set_name: Crimson Crisis

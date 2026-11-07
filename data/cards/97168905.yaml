@@ -154,6 +154,11 @@ sets:
     set_name: 'Duelist Pack: Yusei 2'
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE063
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR063
     set_name: Raging Battle

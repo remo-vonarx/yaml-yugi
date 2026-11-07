@@ -132,6 +132,16 @@ sets:
     set_name: Tournament Pack 2024 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE125
+    set_name: Creation Pack 04
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR04-AES19
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DUEA-KR047
     set_name: Duelist Alliance

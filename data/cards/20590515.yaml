@@ -105,6 +105,11 @@ sets:
     set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE198
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBSS-KR034
     set_name: 'Deck-Build Pack: Secret Slayers'

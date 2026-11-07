@@ -124,6 +124,12 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: TFTV-AE131
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: PHHY-KR045
     set_name: Photon Hypernova

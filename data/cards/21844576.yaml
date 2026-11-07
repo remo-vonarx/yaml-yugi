@@ -351,6 +351,15 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TLM-AE001
+    set_name: The Lost Millennium
+    rarities:
+    - Common
+  - set_number: BN01-AE125
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TLM-KR001
     set_name: The Lost Millennium

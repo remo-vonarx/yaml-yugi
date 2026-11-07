@@ -74,6 +74,11 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Rare
+  en-HK:
+  - set_number: CORI-AE097
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: EXVC-KR033
     set_name: Extreme Victory

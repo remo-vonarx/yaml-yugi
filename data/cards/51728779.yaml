@@ -108,6 +108,11 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR10-AE022
+    set_name: Creation Pack 10
+    rarities:
+    - Super Rare
   ko:
   - set_number: SPDS-KR033
     set_name: 'Booster SP: Destiny Soldiers'

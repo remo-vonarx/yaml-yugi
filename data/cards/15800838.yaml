@@ -293,6 +293,11 @@ sets:
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE056
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR056
     set_name: Soul of the Duelist

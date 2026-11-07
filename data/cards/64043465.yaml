@@ -109,6 +109,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE002
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: MB01-KR003
     set_name: Millennium Deck

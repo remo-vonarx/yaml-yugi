@@ -100,6 +100,11 @@ sets:
     set_name: Duelist Alliance
     rarities:
     - Rare
+  en-HK:
+  - set_number: DUAD-AES08
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EP15-KR057
     set_name: Extra Pack 2015

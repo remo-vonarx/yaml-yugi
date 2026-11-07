@@ -84,6 +84,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC40
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR017
     set_name: Code of the Duelist

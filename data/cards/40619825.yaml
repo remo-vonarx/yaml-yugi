@@ -385,6 +385,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-002
+    set_name: Spell Ruler
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SRL-K002
     set_name: Spell Ruler

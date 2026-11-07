@@ -85,6 +85,11 @@ sets:
     set_name: 'Duelist Pack: Yuma 2: Gogogo & Dododo'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC17
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CBLZ-KR002
     set_name: Cosmo Blazer

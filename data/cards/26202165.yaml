@@ -571,6 +571,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-069
+    set_name: Metal Raiders
+    rarities:
+    - Rare
+  - set_number: SDID-AE011
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K069
     set_name: Metal Raiders

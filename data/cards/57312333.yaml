@@ -117,6 +117,13 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: IMPH-AES12
+    set_name: Immortal Phoenix +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DP18-KR010
     set_name: 'Duelist Pack: Legend Duelist'

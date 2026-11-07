@@ -161,6 +161,16 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH01-AE011
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
+  - set_number: TFTV-AE112
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DABL-KR006
     set_name: Darkwing Blast

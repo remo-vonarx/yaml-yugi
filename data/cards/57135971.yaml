@@ -101,6 +101,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR13-AE023
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: DP18-KR004
     set_name: 'Duelist Pack: Legend Duelist'

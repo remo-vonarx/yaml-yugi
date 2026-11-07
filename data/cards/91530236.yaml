@@ -153,6 +153,11 @@ sets:
     set_name: Limit Over Special Pack Vol.2
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CH02-AE029
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SD39-KRP05
     set_name: 'Structure Deck: Masters of the Spiritual Arts Spirit Art Awakening Pack'

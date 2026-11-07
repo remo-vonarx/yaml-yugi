@@ -187,6 +187,12 @@ sets:
     set_name: Monster Figure Collection Volume 3 promotional cards
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: SOD-AE008
+    set_name: Soul of the Duelist
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: SOD-KR008
     set_name: Soul of the Duelist

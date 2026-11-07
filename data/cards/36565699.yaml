@@ -72,6 +72,11 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Common
+  en-HK:
+  - set_number: DUAD-AES10
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EXVC-KR024
     set_name: Extreme Victory

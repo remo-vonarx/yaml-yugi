@@ -417,6 +417,11 @@ sets:
     rarities:
     - Common
     - Ultimate Rare
+  en-HK:
+  - set_number: DI01-AE002
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: DP06-KRSE1
     set_name: 'Duelist Pack: Jaden Yuki 3 Special Edition'

@@ -236,6 +236,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CRV-AE048
+    set_name: Cybernetic Revolution
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: CRV-KR048
     set_name: Cybernetic Revolution

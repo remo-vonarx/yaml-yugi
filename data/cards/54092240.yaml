@@ -104,6 +104,11 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AEC59
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DABL-KR028
     set_name: Darkwing Blast

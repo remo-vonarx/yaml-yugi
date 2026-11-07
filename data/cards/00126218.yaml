@@ -211,6 +211,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AEC08
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: TP05-KR011
     set_name: Tournament Pack 2010 Vol.5

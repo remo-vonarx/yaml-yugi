@@ -104,6 +104,11 @@ sets:
     set_name: Dimension Force
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC50
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DIFO-KR029
     set_name: Dimension Force

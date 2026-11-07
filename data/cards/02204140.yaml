@@ -386,6 +386,11 @@ sets:
     set_name: 'Structure Deck R: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-033
+    set_name: Pharaonic Guardian
+    rarities:
+    - Super Rare
   ko:
   - set_number: PGD-KR033
     set_name: Pharaonic Guardian

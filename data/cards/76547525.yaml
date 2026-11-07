@@ -115,6 +115,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR11-AE018
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: SPHR-KR022
     set_name: 'Booster SP: High-Speed Riders'

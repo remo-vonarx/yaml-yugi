@@ -104,6 +104,11 @@ sets:
     set_name: Battle of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AE088
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: BACH-KR016
     set_name: Battle of Chaos

@@ -464,6 +464,11 @@ sets:
     set_name: 'Limited Pack GX: Ra Yellow'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DI01-AE001
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: POTD-KR001
     set_name: Power of the Duelist

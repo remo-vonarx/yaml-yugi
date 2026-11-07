@@ -105,6 +105,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BETB-AE103
+    set_name: Beyond the Brave
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SD27-KR041
     set_name: "Structure Deck: HERO's Strike"

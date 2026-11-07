@@ -433,6 +433,15 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: LOB-062
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-001
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K062
     set_name: Legend of Blue Eyes White Dragon

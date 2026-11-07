@@ -123,6 +123,11 @@ sets:
     set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE114
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: CHIM-KR010
     set_name: Chaos Impact

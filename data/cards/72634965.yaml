@@ -129,6 +129,17 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE502
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Super Rare
+  - set_number: ES02-AE003
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CDIP-KR024
     set_name: Cyberdark Impact

@@ -81,6 +81,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: BETB-AEC51
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP26-KR016
     set_name: 'Duelist Pack: Duelists of the Abyss'

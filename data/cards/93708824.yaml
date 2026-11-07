@@ -133,6 +133,12 @@ sets:
     set_name: Doom of Dimensions +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR09-AE038
+    set_name: Creation Pack 09
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: LIOV-KR009
     set_name: Lightning Overdrive

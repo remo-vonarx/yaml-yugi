@@ -76,6 +76,11 @@ sets:
     set_name: 'Collection Pack: Duelist of Revolution Version'
     rarities:
     - Common
+  en-HK:
+  - set_number: ROTA-AE119
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ko:
   - set_number: CP19-KR045
     set_name: 'Collection Pack: Duelist of Revolution Version'

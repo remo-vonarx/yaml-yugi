@@ -202,6 +202,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR04-AE197
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP15-KR061
     set_name: Extra Pack 2015

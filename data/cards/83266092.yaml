@@ -192,6 +192,15 @@ sets:
     set_name: Tournament Pack 2024 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE078
+    set_name: Raging Battle
+    rarities:
+    - Super Rare
+  - set_number: 24AT-AE423
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR078
     set_name: Raging Battle

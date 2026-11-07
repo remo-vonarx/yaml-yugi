@@ -88,6 +88,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: BPRO-AE104
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP7-KR054
     set_name: World Premiere Pack 2026

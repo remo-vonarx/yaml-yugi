@@ -373,6 +373,11 @@ sets:
     set_name: 'Half Deck 2018: DARK'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-007
+    set_name: Magician's Force
+    rarities:
+    - Rare
   ko:
   - set_number: MFC-KR007
     set_name: Magician's Force

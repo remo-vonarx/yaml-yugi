@@ -118,6 +118,21 @@ sets:
     set_name: Infinite Forbidden +1 Bonus Pack
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: INFO-AE081
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+  - set_number: INFO-AE081
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+  - set_number: INFO-AE121
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: MB01-KR001
     set_name: Millennium Deck

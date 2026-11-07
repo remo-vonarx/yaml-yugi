@@ -101,6 +101,11 @@ sets:
     set_name: Storm of Ragnarok
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE136
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: STOR-KR024
     set_name: Storm of Ragnarok

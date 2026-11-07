@@ -252,6 +252,11 @@ sets:
     set_name: 'Structure Deck: Seto Kaiba'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE070
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   ko:
   - set_number: IOC-KR070
     set_name: Invasion of Chaos

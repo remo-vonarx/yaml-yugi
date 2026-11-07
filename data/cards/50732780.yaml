@@ -108,6 +108,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE208
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: WC10-KR002
     set_name: "Yu-Gi-Oh! 5D's World Championship 2010: Reverse of Arcadia promotional cards"

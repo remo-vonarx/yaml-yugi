@@ -140,6 +140,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: PHNI-AE089
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: DABL-KR024
     set_name: Darkwing Blast

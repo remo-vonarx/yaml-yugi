@@ -254,6 +254,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-104
+    set_name: Pharaoh's Servant
+    rarities:
+    - Secret Rare
   ko:
   - set_number: PSV-K104
     set_name: Pharaoh's Servant

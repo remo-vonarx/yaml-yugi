@@ -240,6 +240,16 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR13-AE005
+    set_name: Creation Pack 13
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR13-AES04
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CORE-KR022
     set_name: Clash of Rebellions

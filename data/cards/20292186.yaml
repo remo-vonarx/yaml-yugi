@@ -189,6 +189,11 @@ sets:
     set_name: 'Structure Deck: Alba Strike'
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE102
+    set_name: Tournament Pack 2025 Vol.1 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP14-KR031
     set_name: 'Extra Pack: Knights of Order'

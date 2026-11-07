@@ -88,6 +88,11 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD1-AE012
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: TP1-K008
     set_name: 'Tournament Pack: 1st Season'

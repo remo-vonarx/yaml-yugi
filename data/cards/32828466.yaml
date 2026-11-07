@@ -171,6 +171,11 @@ sets:
     set_name: Limit Over Special Pack Vol.1
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DI01-AE028
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: HC01-KR012
     set_name: History Archive Collection

@@ -133,6 +133,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC37
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SPFE-KR002
     set_name: 'Booster SP: Fusion Enforcers'

@@ -118,6 +118,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE030
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: SD6-KR017
     set_name: "Structure Deck: Spellcaster's Judgment"

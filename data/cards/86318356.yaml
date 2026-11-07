@@ -196,6 +196,15 @@ sets:
     set_name: Duelist Legacy Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-049
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: SDK-045
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K049
     set_name: Legend of Blue Eyes White Dragon

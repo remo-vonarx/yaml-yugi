@@ -134,6 +134,15 @@ sets:
     set_name: 'Deck-Build Pack: Wild Survivors'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: DUNE-AE100
+    set_name: Duelist Nexus
+    rarities:
+    - Super Rare
+  - set_number: DUNE-AE100
+    set_name: Duelist Nexus +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBWS-KR001
     set_name: 'Deck-Build Pack: Wild Survivors'

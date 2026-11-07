@@ -142,6 +142,11 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE041
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR041
     set_name: Soul of the Duelist

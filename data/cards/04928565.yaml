@@ -133,6 +133,18 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Common
+  en-HK:
+  - set_number: CR12-AE091
+    set_name: Creation Pack 12
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR12-AES34
+    set_name: Creation Pack 12 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PHHY-KR008
     set_name: Photon Hypernova

@@ -334,6 +334,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE055
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: SD8-KR036
     set_name: 'Structure Deck: Lord of the Storm'

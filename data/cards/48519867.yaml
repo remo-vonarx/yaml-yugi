@@ -134,6 +134,15 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR13-AE052
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
+  - set_number: CR13-AES21
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DBSS-KR001
     set_name: 'Deck-Build Pack: Secret Slayers'

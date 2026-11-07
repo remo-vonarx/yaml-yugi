@@ -139,6 +139,16 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: INFO-AE099
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: INFO-AE099
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: QCDB-KR005
     set_name: Quarter Century Duelist Box

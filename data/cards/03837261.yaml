@@ -80,6 +80,13 @@ sets:
     set_name: V Jump Fall 2025 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ES02-AE034
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 26PP-KR035
     set_name: Premium Pack 2026

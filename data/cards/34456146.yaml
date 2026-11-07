@@ -94,6 +94,13 @@ sets:
     set_name: Yu-Gi-Oh! OCG Stories Sky Striker Ace Arc Volume 1 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SLF1-AE041
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: 23PP-KRB22
     set_name: Premium Pack 2023 2nd Wave

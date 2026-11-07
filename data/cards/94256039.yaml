@@ -146,6 +146,15 @@ sets:
     set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE050
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: SD16-AE037
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR050
     set_name: Invasion of Chaos

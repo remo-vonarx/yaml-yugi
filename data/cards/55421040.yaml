@@ -75,6 +75,11 @@ sets:
     set_name: World Premiere Pack 2026
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AE116
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: WPP7-KR072
     set_name: World Premiere Pack 2026

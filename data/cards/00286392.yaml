@@ -89,6 +89,11 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: CR01-AE009
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: SD28-KR041
     set_name: 'Structure Deck: Synchron Extreme'

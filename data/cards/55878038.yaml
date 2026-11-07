@@ -275,6 +275,11 @@ sets:
     set_name: 'Structure Deck: Alba Strike'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE018
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: SOFU-KR025
     set_name: Soul Fusion

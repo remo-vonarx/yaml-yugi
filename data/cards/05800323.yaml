@@ -93,6 +93,11 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ALIN-AE041
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: ALIN-KR041
     set_name: Alliance Insight

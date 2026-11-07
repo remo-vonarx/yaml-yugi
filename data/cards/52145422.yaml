@@ -94,6 +94,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BETB-AE107
+    set_name: Beyond the Brave
+    rarities:
+    - Rare
   ko:
   - set_number: DOCS-KR048
     set_name: Dimension of Chaos

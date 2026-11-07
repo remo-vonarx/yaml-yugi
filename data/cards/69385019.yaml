@@ -132,6 +132,16 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: ROTA-AE046
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: ROTA-AE046
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: ROTA-KR046
     set_name: Rage of the Abyss

@@ -287,6 +287,12 @@ sets:
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE005
+    set_name: Flaming Eternity
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: FET-KR005
     set_name: Flaming Eternity

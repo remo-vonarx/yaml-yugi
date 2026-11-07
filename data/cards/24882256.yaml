@@ -95,6 +95,11 @@ sets:
     set_name: '@Ignister Duel Set'
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: CR07-AE017
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: IGAS-KR046
     set_name: Ignition Assault

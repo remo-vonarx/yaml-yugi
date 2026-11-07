@@ -204,6 +204,11 @@ sets:
     set_name: Duel Terminal - Xyz Startup!!
     rarities:
     - Duel Terminal Normal Rare Parallel Rare
+  en-HK:
+  - set_number: AST-AE017
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR017
     set_name: Ancient Sanctuary

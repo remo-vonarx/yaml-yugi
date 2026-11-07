@@ -122,6 +122,11 @@ sets:
     set_name: Legend of Blue Eyes White Dragon (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-011
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K011
     set_name: Legend of Blue Eyes White Dragon

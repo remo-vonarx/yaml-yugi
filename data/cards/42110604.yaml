@@ -195,6 +195,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE034
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: SPHR-KR010
     set_name: 'Booster SP: High-Speed Riders'

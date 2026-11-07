@@ -74,6 +74,11 @@ sets:
     set_name: The Duelist Genesis
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC09
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: TDGS-KR006
     set_name: The Duelist Genesis

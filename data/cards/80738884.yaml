@@ -78,6 +78,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR02-AE137
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: DBWS-KR027
     set_name: 'Deck-Build Pack: Wild Survivors'

@@ -114,6 +114,11 @@ sets:
     set_name: Metal Raiders (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-084
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K084
     set_name: Metal Raiders

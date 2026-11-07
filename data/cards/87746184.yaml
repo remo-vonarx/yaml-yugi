@@ -182,6 +182,11 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CH01-AE043
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: LIOV-KR033
     set_name: Lightning Overdrive

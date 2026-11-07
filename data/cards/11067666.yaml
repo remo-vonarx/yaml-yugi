@@ -114,6 +114,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR02-AE023
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: SD31-KR005
     set_name: 'Structure Deck: Pendulum Evolution'

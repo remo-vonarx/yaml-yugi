@@ -139,6 +139,19 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: DI01-AE009
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
+  - set_number: CR13-AE037
+    set_name: Creation Pack 13
+    rarities:
+    - Common
+  - set_number: CR13-AES15
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: BODE-KR018
     set_name: Burst of Destiny

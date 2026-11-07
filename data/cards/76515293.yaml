@@ -150,6 +150,17 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE051
+    set_name: Rise of Destiny
+    rarities:
+    - Common
+  - set_number: ES02-AE111
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: RDS-KR051
     set_name: Rise of Destiny

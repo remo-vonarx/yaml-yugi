@@ -93,6 +93,11 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE042
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: CROS-KR048
     set_name: Crossed Souls

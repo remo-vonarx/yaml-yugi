@@ -112,6 +112,11 @@ sets:
     set_name: Magic Ruler (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-022
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K022
     set_name: Spell Ruler

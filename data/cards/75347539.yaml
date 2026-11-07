@@ -211,6 +211,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BPRO-AES02
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP00-KR009
     set_name: 'Duelist Pack: Yugi (OCG)'

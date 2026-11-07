@@ -161,6 +161,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: DOOD-AE063
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: DOOD-KR063
     set_name: Doom of Dimensions

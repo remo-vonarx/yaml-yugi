@@ -141,6 +141,11 @@ sets:
     set_name: Yu-Gi-Oh! ARC-V Volume 7 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AES01
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP15-KR024
     set_name: Premium Pack Vol.15

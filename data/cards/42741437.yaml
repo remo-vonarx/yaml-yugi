@@ -194,6 +194,11 @@ sets:
     set_name: 'Deluxe Duel Set: Exosister'
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: TT02-AEB24
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: DBGC-KR017
     set_name: 'Deck-Build Pack: Grand Creators'

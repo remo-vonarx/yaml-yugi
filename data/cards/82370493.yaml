@@ -89,6 +89,11 @@ sets:
     set_name: The Valuable Book EX 6 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AE105
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
   zh-CN:
   - set_number: CORI-SC094
     set_name: Chaos Origins

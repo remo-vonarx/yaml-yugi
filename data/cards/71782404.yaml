@@ -100,6 +100,11 @@ sets:
     set_name: 'Collectors Pack: Duelist of Destiny Version'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR13-AE022
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: CPD1-KR021
     set_name: 'Collectors Pack: Duelist of Destiny Version'

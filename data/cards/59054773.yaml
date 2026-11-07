@@ -130,6 +130,18 @@ sets:
     - Normal Parallel Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR07-AE019
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR07-AES04
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: IGAS-KR050
     set_name: Ignition Assault

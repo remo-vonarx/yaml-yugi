@@ -133,6 +133,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-042
+    set_name: Pharaonic Guardian
+    rarities:
+    - Short Print
   ko:
   - set_number: PGD-KR042
     set_name: Pharaonic Guardian

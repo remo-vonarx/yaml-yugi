@@ -201,6 +201,13 @@ sets:
     rarities:
     - Super Parallel Rare
     - Secret Rare
+  en-HK:
+  - set_number: ES02-AE012
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MVP1-KR018
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack

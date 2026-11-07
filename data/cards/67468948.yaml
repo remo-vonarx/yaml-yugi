@@ -116,6 +116,11 @@ sets:
     set_name: 'Structure Deck R: Surge of Divine Light'
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE021
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR021
     set_name: Enemy of Justice

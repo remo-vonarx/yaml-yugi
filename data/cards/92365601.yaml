@@ -78,6 +78,11 @@ sets:
     set_name: Starter Deck 2013 Enhancement Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AE113
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: ST13-KRV02
     set_name: Starter Deck 2013 Enhancement Pack

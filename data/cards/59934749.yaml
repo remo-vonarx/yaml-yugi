@@ -154,6 +154,14 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Secret Rare (Special Blue Version)
+  en-HK:
+  - set_number: ES01-AE045
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LVP1-KR051
     set_name: LINK VRAINS Pack

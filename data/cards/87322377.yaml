@@ -251,6 +251,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  en-HK:
+  - set_number: MRD-095
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K095
     set_name: Metal Raiders

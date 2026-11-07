@@ -349,6 +349,15 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: LON-062
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Super Rare
+  - set_number: SDID-AE014
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR062
     set_name: Labyrinth of Nightmare

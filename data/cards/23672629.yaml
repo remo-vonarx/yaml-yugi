@@ -115,6 +115,11 @@ sets:
     - Secret Rare
     - 20th Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR05-AE097
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: ETCO-KR044
     set_name: Eternity Code

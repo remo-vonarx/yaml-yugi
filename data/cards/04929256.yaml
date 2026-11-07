@@ -358,6 +358,15 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SOD-AE022
+    set_name: Soul of the Duelist
+    rarities:
+    - Super Rare
+  - set_number: DUAD-AES15
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SOD-KR022
     set_name: Soul of the Duelist

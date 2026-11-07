@@ -118,6 +118,11 @@ sets:
     - Common
     - Normal Parallel Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR03-AE190
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: PP16-KR018
     set_name: Premium Pack Vol.16

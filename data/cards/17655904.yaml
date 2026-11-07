@@ -355,6 +355,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: AST-AE038
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: SDRB-AE023
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR038
     set_name: Ancient Sanctuary

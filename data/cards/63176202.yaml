@@ -158,6 +158,11 @@ sets:
     set_name: Duelist Edition Volume 1
     rarities:
     - Rare
+  en-HK:
+  - set_number: 24AT-AE407
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: STON-KR013
     set_name: Strike of Neos

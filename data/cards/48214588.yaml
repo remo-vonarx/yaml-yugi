@@ -104,6 +104,11 @@ sets:
     set_name: Burst Protocol +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR10-AE056
+    set_name: Creation Pack 10
+    rarities:
+    - Super Rare
   ko:
   - set_number: PHRA-KR065
     set_name: Phantom Rage

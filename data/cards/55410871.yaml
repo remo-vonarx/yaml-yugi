@@ -282,6 +282,14 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ES01-AE018
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: MVP1-KR004
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions Movie Pack

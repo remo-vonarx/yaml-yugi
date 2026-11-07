@@ -150,6 +150,11 @@ sets:
     set_name: Advanced Tournament Pack 2016 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE014
+    set_name: Ancient Sanctuary
+    rarities:
+    - Super Rare
   ko:
   - set_number: AST-KR014
     set_name: Ancient Sanctuary

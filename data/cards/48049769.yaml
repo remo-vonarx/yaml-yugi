@@ -107,6 +107,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CORI-AEC34
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP08-KR014
     set_name: Premium Pack Vol.8

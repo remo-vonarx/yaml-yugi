@@ -166,6 +166,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PSV-031
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K031
     set_name: Pharaoh's Servant

@@ -240,6 +240,11 @@ sets:
     set_name: Advanced Tournament Pack 2013 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BPRO-AEC35
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: YSD3-KR043
     set_name: Starter Deck 2008

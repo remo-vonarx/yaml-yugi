@@ -228,6 +228,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-005
+    set_name: Magician's Force
+    rarities:
+    - Super Rare
   ko:
   - set_number: MFC-KR005
     set_name: Magician's Force

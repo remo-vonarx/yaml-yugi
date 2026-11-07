@@ -102,6 +102,11 @@ sets:
     set_name: Tournament Pack 2019 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE025
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: SDMY-KR022
     set_name: 'Structure Deck: Yugi Muto'

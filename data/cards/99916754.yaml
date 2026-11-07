@@ -129,6 +129,13 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES02-AE041
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: HA04-KR055
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

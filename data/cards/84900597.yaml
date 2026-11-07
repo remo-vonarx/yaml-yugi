@@ -84,6 +84,16 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR09-AE097
+    set_name: Creation Pack 09
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR09-AES35
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP17-KR007
     set_name: Premium Pack Vol.17

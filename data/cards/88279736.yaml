@@ -224,6 +224,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Rare
+  en-HK:
+  - set_number: MRD-135
+    set_name: Metal Raiders
+    rarities:
+    - Rare
   ko:
   - set_number: MRD-K135
     set_name: Metal Raiders

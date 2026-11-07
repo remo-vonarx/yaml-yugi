@@ -157,6 +157,19 @@ sets:
     set_name: 'Tactical-Try Deck: Rescue-ACE'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AE048
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Ultra Rare
+  - set_number: SDSS-AEP02
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Secret Rare
+  - set_number: TT02-AEA34
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: DP28-KR005
     set_name: 'Duelist Pack: Duelists of Explosion'

@@ -246,6 +246,19 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-110
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
+  - set_number: SDK-046
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SSD1-AE010
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K110
     set_name: Legend of Blue Eyes White Dragon

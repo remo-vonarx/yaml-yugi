@@ -94,6 +94,13 @@ sets:
     - Ultimate Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BETB-AE027
+    set_name: Beyond the Brave
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: BETB-KR027
     set_name: Beyond the Brave

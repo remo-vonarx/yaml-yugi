@@ -124,6 +124,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE147
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: DS13-KRD02
     set_name: 'Duelist Set: Version Dark Returner'

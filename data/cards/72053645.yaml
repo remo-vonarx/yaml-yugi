@@ -120,6 +120,11 @@ sets:
     set_name: Tournament Pack 2007 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-020
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K020
     set_name: Spell Ruler

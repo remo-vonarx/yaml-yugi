@@ -108,6 +108,11 @@ sets:
     set_name: Yu-Gi-Oh! ARC-V Volume 3 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AE083
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: PP13-KR027
     set_name: Premium Pack Vol.13

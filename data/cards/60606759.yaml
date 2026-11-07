@@ -161,6 +161,11 @@ sets:
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE134
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TAEV-KR003
     set_name: Tactical Evolution

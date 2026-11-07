@@ -377,6 +377,11 @@ sets:
     rarities:
     - Common
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-029
+    set_name: Magic Ruler
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SRL-K029
     set_name: Spell Ruler

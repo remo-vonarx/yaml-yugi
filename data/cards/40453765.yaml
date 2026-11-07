@@ -206,6 +206,11 @@ sets:
     set_name: Advanced Tournament Pack 2014 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-063
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K063
     set_name: Metal Raiders

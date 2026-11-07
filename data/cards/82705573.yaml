@@ -183,6 +183,11 @@ sets:
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE046
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR046
     set_name: Ancient Sanctuary

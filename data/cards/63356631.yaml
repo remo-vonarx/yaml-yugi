@@ -309,6 +309,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: FET-AE053
+    set_name: Flaming Eternity
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: FET-KR053
     set_name: Flaming Eternity

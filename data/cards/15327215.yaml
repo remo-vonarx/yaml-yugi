@@ -80,6 +80,11 @@ sets:
     set_name: V Jump October 2017 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ROTA-AE093
+    set_name: Rage of the Abyss
+    rarities:
+    - Rare
   ko:
   - set_number: PP13-KR044
     set_name: Premium Pack Vol.13

@@ -249,6 +249,23 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ROTA-AE112
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ROTA-AE112
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  - set_number: CH02-AE042
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: ETCO-KR055
     set_name: Eternity Code

@@ -105,6 +105,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR10-AE048
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: DBDS-KR019
     set_name: 'Deck-Build Pack: Dark Saviors'

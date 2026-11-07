@@ -376,6 +376,17 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: MRL-033
+    set_name: Magic Ruler
+    rarities:
+    - Common
+  - set_number: SLF1-AE102
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: SRL-K033
     set_name: Spell Ruler

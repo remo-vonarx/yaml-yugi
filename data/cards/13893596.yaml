@@ -150,6 +150,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE001
+    set_name: Creation Pack 05
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: SD17-KR006
     set_name: "Structure Deck: Warriors' Strike"

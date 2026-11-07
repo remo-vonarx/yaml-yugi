@@ -176,6 +176,15 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE070
+    set_name: Creation Pack 08
+    rarities:
+    - Ultra Rare
+  - set_number: CR08-AES21
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PRIO-KR076
     set_name: Primal Origin

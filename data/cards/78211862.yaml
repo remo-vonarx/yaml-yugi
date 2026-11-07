@@ -256,6 +256,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CRV-AE056
+    set_name: Cybernetic Revolution
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: CRV-KR056
     set_name: Cybernetic Revolution

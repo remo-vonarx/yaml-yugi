@@ -197,6 +197,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: SDID-AEP04
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Secret Rare
   ko:
   - set_number: BACH-KR034
     set_name: Battle of Chaos

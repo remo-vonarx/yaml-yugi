@@ -190,6 +190,11 @@ sets:
     set_name: Winner's Pack 2025 Vol.4
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: CR09-AE096
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP3-KR034
     set_name: World Premiere Pack 2022

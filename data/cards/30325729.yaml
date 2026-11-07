@@ -126,6 +126,15 @@ sets:
     set_name: Thousand Eyes Bible
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-099
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
+  - set_number: BN01-AE111
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K099
     set_name: Pharaoh's Servant

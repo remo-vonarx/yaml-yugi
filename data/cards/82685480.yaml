@@ -133,6 +133,11 @@ sets:
     set_name: Winner's Pack 2026 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: BETB-AE115
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: DP18-KR017
     set_name: 'Duelist Pack: Legend Duelist'

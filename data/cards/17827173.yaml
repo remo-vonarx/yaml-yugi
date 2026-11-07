@@ -104,6 +104,11 @@ sets:
     set_name: Burst of Destiny
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE154
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR016
     set_name: Burst of Destiny

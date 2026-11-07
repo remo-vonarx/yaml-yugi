@@ -314,6 +314,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-093
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K093
     set_name: Spell Ruler

@@ -137,6 +137,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR01-AE011
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: YSD4-KR041
     set_name: Starter Deck 2009

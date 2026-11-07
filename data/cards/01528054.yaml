@@ -177,6 +177,15 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE052
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
+  - set_number: CH02-AE048
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR052
     set_name: The Infinite Forbidden

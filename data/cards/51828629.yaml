@@ -145,6 +145,11 @@ sets:
     set_name: Tournament Pack 2008 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-094
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K094
     set_name: Metal Raiders

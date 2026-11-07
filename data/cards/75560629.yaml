@@ -130,6 +130,12 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: RDS-AE042
+    set_name: Rise of Destiny
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: RDS-KR042
     set_name: Rise of Destiny

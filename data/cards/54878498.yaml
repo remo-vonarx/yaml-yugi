@@ -158,6 +158,11 @@ sets:
     set_name: Duel Terminal - Raid of the Inverz!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: DCR-078
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR078
     set_name: Dark Crisis

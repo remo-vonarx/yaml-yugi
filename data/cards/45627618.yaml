@@ -234,6 +234,15 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR12-AE039
+    set_name: Creation Pack 12
+    rarities:
+    - Common
+  - set_number: LAVD-AEO26
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: CORE-KR051
     set_name: Clash of Rebellions

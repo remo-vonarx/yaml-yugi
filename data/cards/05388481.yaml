@@ -126,6 +126,11 @@ sets:
     set_name: Curse of Anubis (set)
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-043
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K043
     set_name: Pharaoh's Servant

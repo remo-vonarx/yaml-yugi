@@ -118,6 +118,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-070
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR070
     set_name: Pharaonic Guardian

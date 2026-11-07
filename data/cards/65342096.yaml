@@ -76,6 +76,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CORI-AEC22
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SR08-KR023
     set_name: 'Structure Deck R: Lord of Magician'

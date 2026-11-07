@@ -94,6 +94,11 @@ sets:
     rarities:
     - Super Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ALIN-AE027
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: ALIN-KR027
     set_name: Alliance Insight

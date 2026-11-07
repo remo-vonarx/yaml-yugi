@@ -209,6 +209,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: MRD-068
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K068
     set_name: Metal Raiders

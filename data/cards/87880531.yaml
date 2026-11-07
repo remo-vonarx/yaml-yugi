@@ -227,6 +227,15 @@ sets:
     set_name: 20th Anniversary Duelist Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: MFC-107
+    set_name: Magician's Force
+    rarities:
+    - Secret Rare
+  - set_number: SDID-AEP11
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: MFC-KR107
     set_name: Magician's Force

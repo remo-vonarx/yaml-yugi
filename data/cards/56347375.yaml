@@ -145,6 +145,15 @@ sets:
     set_name: 'Duelist Box: Prismatic Summon'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: PHNI-AE087
+    set_name: Phantom Nightmare
+    rarities:
+    - Super Rare
+  - set_number: PHNI-AE087
+    set_name: Phantom Nightmare +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: DABL-KR022
     set_name: Darkwing Blast

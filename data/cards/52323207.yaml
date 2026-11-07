@@ -150,6 +150,11 @@ sets:
     set_name: 'Structure Deck: Invincible Fortress'
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE025
+    set_name: Flaming Eternity
+    rarities:
+    - Common
   ko:
   - set_number: FET-KR025
     set_name: Flaming Eternity

@@ -82,6 +82,11 @@ sets:
     set_name: Tournament Pack 2011 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE018
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: AE15-KR014
     set_name: Advanced Event Pack 2020 Vol.1

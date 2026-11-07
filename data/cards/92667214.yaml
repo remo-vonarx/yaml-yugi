@@ -104,6 +104,11 @@ sets:
     set_name: Vol.7
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE016
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP6-KR020
     set_name: Tournament Pack 6

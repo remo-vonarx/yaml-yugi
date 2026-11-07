@@ -206,6 +206,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR13-AE038
+    set_name: Creation Pack 13
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: LODT-KR042
     set_name: Light of Destruction

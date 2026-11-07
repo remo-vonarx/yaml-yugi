@@ -130,6 +130,11 @@ sets:
     set_name: Duelist Legacy Volume.4
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE505
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: TP1-K014
     set_name: 'Tournament Pack: 1st Season'

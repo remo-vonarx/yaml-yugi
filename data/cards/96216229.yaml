@@ -161,6 +161,15 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE070
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: CR06-AES18
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: TDGS-KR074
     set_name: The Duelist Genesis

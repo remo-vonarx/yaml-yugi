@@ -250,6 +250,11 @@ sets:
     set_name: 'Structure Deck: Dragonic Legion'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE017
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR017
     set_name: Soul of the Duelist

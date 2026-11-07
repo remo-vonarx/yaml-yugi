@@ -170,6 +170,11 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MFC-051
+    set_name: Magician's Force
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MFC-KR051
     set_name: Magician's Force

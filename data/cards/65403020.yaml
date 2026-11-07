@@ -182,6 +182,15 @@ sets:
     set_name: Winner's Pack 2026 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: AST-AE000
+    set_name: Ancient Sanctuary
+    rarities:
+    - Secret Rare
+  - set_number: 24AT-AE300
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: AST-KR000
     set_name: Ancient Sanctuary

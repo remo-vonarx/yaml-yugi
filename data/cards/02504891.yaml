@@ -139,6 +139,11 @@ sets:
     set_name: Metal Raiders (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-123
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K123
     set_name: Metal Raiders

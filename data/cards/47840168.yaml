@@ -112,6 +112,11 @@ sets:
     - Common
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR05-AE076
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: PP15-KR010
     set_name: Premium Pack Vol.15

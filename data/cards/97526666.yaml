@@ -170,6 +170,12 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: DBCB-AE042
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: ABYR-KR010
     set_name: Abyss Rising

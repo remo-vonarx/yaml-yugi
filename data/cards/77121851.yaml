@@ -191,6 +191,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE067
+    set_name: Invasion of Chaos
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IOC-KR067
     set_name: Invasion of Chaos

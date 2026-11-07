@@ -112,6 +112,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: RGBT-AE003
+    set_name: Raging Battle
+    rarities:
+    - Super Rare
   ko:
   - set_number: RGBT-KR003
     set_name: Raging Battle

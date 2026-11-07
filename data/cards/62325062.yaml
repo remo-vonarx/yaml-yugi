@@ -192,6 +192,11 @@ sets:
     set_name: Duel Terminal - Invasion of Worms!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: MFC-050
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR050
     set_name: Magician's Force

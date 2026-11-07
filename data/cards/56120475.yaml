@@ -551,6 +551,15 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-102
+    set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: SSD2-AE020
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR102
     set_name: Dark Crisis

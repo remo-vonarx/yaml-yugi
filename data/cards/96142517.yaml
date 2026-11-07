@@ -102,6 +102,11 @@ sets:
     rarities:
     - Ultra Rare
     - Collector's Rare
+  en-HK:
+  - set_number: BETB-AEC33
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CPL1-KR043
     set_name: 'Collectors Pack: Duelist of Legend Version'

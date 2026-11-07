@@ -114,6 +114,11 @@ sets:
     set_name: Legacy of the Valiant
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE108
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: LVAL-KR051
     set_name: Legacy of the Valiant

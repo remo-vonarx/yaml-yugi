@@ -107,6 +107,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: CR09-AE010
+    set_name: Creation Pack 09
+    rarities:
+    - Ultra Rare
+  - set_number: CR09-AES06
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: 25PP-KRA15
     set_name: Premium Pack 2025 1st Wave

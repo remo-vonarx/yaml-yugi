@@ -108,6 +108,11 @@ sets:
     set_name: Premium Pack 2022
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: BLZD-AE085
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: PP16-KR036
     set_name: Premium Pack Vol.16

@@ -207,6 +207,11 @@ sets:
     set_name: 'Half Deck 2018: LIGHT'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-035
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K035
     set_name: 'Starter Deck: Yugi'

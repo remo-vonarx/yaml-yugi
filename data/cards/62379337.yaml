@@ -103,6 +103,11 @@ sets:
     set_name: The Valuable Book 11 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: 25AT-AE408
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PP05-KR004
     set_name: Premium Pack Vol.5

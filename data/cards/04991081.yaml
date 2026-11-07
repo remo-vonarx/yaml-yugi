@@ -96,6 +96,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SUDA-AE096
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: PP17-KR030
     set_name: Premium Pack Vol.17

@@ -115,6 +115,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.4
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 24AT-AE404
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP18-KR039
     set_name: Extra Pack 2018

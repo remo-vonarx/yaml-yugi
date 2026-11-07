@@ -152,6 +152,11 @@ sets:
     set_name: Circuit Break
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE045
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: CIBR-KR072
     set_name: Circuit Break

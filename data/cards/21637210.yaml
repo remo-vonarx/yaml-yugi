@@ -176,6 +176,15 @@ sets:
     set_name: Limit Over Special Pack Vol.1
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR08-AE100
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+  - set_number: CR08-AES35
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: CYAC-KR047
     set_name: Cyberstorm Access

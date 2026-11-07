@@ -260,6 +260,16 @@ sets:
     set_name: 'Duelist Set: Version Machine-Gear Troopers'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: RDS-AE052
+    set_name: Rise of Destiny
+    rarities:
+    - Rare
+    - Ultimate Rare
+  - set_number: 24AT-AE422
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR052
     set_name: Rise of Destiny

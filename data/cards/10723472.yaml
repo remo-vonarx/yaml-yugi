@@ -105,6 +105,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AE113
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: PP15-KR012
     set_name: Premium Pack Vol.15

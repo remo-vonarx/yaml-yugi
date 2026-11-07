@@ -222,6 +222,11 @@ sets:
     set_name: 'Structure Deck: Revival of the Great Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-105
+    set_name: Dark Crisis
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DCR-KR105
     set_name: Dark Crisis

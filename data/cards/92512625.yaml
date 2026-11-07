@@ -132,6 +132,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE122
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: NECH-KR079
     set_name: The New Challengers

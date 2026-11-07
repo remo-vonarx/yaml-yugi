@@ -146,6 +146,11 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE108
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: DP08-KR011
     set_name: 'Duelist Pack: Yusei'

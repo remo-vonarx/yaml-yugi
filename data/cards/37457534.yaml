@@ -70,6 +70,11 @@ sets:
     set_name: 'Structure Deck: Machine Re-Volt'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE020
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: SD10-KR018
     set_name: 'Structure Deck: Machine Re-Volt'

@@ -60,6 +60,11 @@ sets:
     set_name: Duel Terminal - Judgment of Omega!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: PGD-010
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR010
     set_name: Pharaonic Guardian

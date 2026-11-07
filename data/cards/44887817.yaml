@@ -210,6 +210,11 @@ sets:
     set_name: Advanced Tournament Pack 2016 Vol.4
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 25AT-AE417
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CSOC-KR057
     set_name: Crossroads of Chaos

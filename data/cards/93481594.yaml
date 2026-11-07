@@ -125,6 +125,12 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AE065
+    set_name: Doom of Dimensions
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: DOOD-KR065
     set_name: Doom of Dimensions

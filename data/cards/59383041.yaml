@@ -180,6 +180,11 @@ sets:
     set_name: 'Structure Deck: Pegasus'
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE053
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: SDP-KR009
     set_name: 'Starter Deck: Pegasus'

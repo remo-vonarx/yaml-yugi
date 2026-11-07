@@ -80,6 +80,11 @@ sets:
     set_name: V Jump Fall 2023 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BPRO-AE089
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: 24PP-KRB16
     set_name: Premium Pack 2024 2nd Wave

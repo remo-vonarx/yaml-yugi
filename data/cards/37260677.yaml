@@ -100,6 +100,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR11-AE085
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
   ko:
   - set_number: 25PP-KRA18
     set_name: Premium Pack 2025 1st Wave

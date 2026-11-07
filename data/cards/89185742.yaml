@@ -164,6 +164,15 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR07-AE069
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES15
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: PR04-KR002
     set_name: Promotion Pack 2013 Vol.4

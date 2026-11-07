@@ -217,6 +217,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: MRL-103
+    set_name: Magic Ruler
+    rarities:
+    - Secret Rare
   ko:
   - set_number: SRL-K103
     set_name: Spell Ruler

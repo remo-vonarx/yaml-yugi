@@ -129,6 +129,15 @@ sets:
     set_name: Starter Deck 2009
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE001
+    set_name: Ancient Sanctuary
+    rarities:
+    - Short Print
+  - set_number: BN01-AE121
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR001
     set_name: Ancient Sanctuary

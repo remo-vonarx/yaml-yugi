@@ -122,6 +122,11 @@ sets:
     rarities:
     - Super Rare
     - Collector's Rare
+  en-HK:
+  - set_number: SDID-AEP08
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP10-KR032
     set_name: Premium Pack Vol.10

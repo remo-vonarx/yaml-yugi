@@ -288,6 +288,15 @@ sets:
     set_name: 'Structure Deck: Yugi Muto'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-066
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-008
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K066
     set_name: Legend of Blue Eyes White Dragon

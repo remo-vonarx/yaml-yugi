@@ -78,6 +78,11 @@ sets:
     set_name: Dragon Ruler Duel Set
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: ALIN-AE061
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: ALIN-KR061
     set_name: Alliance Insight

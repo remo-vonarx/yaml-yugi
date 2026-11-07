@@ -146,6 +146,11 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-038
+    set_name: Magic Ruler
+    rarities:
+    - Super Rare
   ko:
   - set_number: SRL-K038
     set_name: Spell Ruler

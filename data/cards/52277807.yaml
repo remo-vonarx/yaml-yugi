@@ -108,6 +108,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AE007
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD35-KR004
     set_name: 'Structure Deck: Soulburner'

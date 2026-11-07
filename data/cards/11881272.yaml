@@ -105,6 +105,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DI01-AE021
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: DP23-KR015
     set_name: 'Duelist Pack: Legend Duelist 6'

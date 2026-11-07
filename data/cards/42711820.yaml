@@ -95,6 +95,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: BPRO-AE108
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: SD48-KR033
     set_name: 'Structure Deck: Power of Fellows Special Set'

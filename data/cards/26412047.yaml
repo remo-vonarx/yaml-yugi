@@ -293,6 +293,16 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE038
+    set_name: Soul of the Duelist
+    rarities:
+    - Rare
+    - Ultimate Rare
+  - set_number: SSD1-AE011
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR038
     set_name: Soul of the Duelist

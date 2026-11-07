@@ -187,6 +187,13 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ES01-AE007
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AE05-KR013
     set_name: Advanced Event Pack 2014 Vol.3

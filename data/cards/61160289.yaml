@@ -87,6 +87,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR02-AE105
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: DBAG-KR008
     set_name: 'Deck-Build Pack: Ancient Guardians'

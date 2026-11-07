@@ -186,6 +186,11 @@ sets:
     set_name: Beginner's Edition 1
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-030
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K030
     set_name: Spell Ruler

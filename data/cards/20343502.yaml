@@ -118,6 +118,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR05-AE048
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
+  - set_number: CR05-AES06
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DANE-KR039
     set_name: Dark Neostorm

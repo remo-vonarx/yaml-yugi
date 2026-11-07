@@ -262,6 +262,18 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: IOC-AE024
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: ES01-AE001
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: IOC-KR024
     set_name: Invasion of Chaos

@@ -126,6 +126,11 @@ sets:
     set_name: Thousand Eyes Bible
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-060
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K060
     set_name: Pharaoh's Servant

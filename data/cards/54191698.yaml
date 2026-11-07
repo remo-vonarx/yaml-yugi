@@ -125,6 +125,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: 25AT-AE301
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CP17-KR041
     set_name: Collectors Pack 2017

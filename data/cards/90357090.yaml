@@ -242,6 +242,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-010
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: SDY-012
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K010
     set_name: Legend of Blue Eyes White Dragon

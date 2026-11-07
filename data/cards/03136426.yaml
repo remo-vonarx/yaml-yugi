@@ -177,6 +177,11 @@ sets:
     - Common
     - Gold Rare
     - Gold Secret Rare
+  en-HK:
+  - set_number: AST-AE092
+    set_name: Ancient Sanctuary
+    rarities:
+    - Short Print
   ko:
   - set_number: AST-KR092
     set_name: Ancient Sanctuary

@@ -333,6 +333,11 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-023
+    set_name: Legacy of Darkness
+    rarities:
+    - Super Rare
   ko:
   - set_number: LOD-KR023
     set_name: Legacy of Darkness

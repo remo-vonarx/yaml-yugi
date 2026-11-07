@@ -80,6 +80,11 @@ sets:
     set_name: Primal Origin
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE085
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: PRIO-KR006
     set_name: Primal Origin

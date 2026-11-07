@@ -135,6 +135,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: DUNE-AE089
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: PP10-KR037
     set_name: Premium Pack Vol.10

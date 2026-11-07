@@ -89,6 +89,11 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: BLZD-AE093
+    set_name: Blazing Dominion
+    rarities:
+    - Rare
   ko:
   - set_number: 26PP-KR040
     set_name: Premium Pack 2026

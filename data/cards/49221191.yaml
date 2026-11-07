@@ -140,6 +140,15 @@ sets:
     set_name: Rage of the Abyss +1 Bonus Pack
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ROTA-AE107
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
+  - set_number: ROTA-AES01
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: ABYR-KR039
     set_name: Abyss Rising

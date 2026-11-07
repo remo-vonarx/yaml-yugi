@@ -104,6 +104,11 @@ sets:
     set_name: Eternity Code
     rarities:
     - Rare
+  en-HK:
+  - set_number: ROTA-AE095
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ko:
   - set_number: ETCO-KR013
     set_name: Eternity Code

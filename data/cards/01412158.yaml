@@ -58,6 +58,11 @@ sets:
     set_name: Mythological Age
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-074
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR074
     set_name: Legacy of Darkness

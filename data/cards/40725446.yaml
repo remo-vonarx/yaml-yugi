@@ -82,6 +82,11 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: BPRO-AE099
+    set_name: Burst Protocol
+    rarities:
+    - Rare
   ko:
   - set_number: 26PP-KR038
     set_name: Premium Pack 2026

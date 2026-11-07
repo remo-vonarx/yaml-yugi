@@ -103,6 +103,11 @@ sets:
     set_name: World Premiere Pack 2023
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE100
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: WPP4-KR044
     set_name: World Premiere Pack 2023

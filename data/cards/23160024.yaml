@@ -98,6 +98,11 @@ sets:
     set_name: Shining Victories
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE161
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: SHVI-KR062
     set_name: Shining Victories

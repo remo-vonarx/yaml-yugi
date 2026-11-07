@@ -108,6 +108,11 @@ sets:
     set_name: Duel Terminal - Judgment of Omega!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: AST-AE050
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR050
     set_name: Ancient Sanctuary

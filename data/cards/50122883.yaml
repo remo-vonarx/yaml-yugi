@@ -106,6 +106,11 @@ sets:
     set_name: Duelist Legacy Volume.3
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-080
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K080
     set_name: Pharaoh's Servant

@@ -152,6 +152,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Rare
+  en-HK:
+  - set_number: BLZD-AEC18
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ABPF-KR040
     set_name: Absolute Powerforce

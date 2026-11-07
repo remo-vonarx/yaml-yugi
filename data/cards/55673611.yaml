@@ -68,6 +68,11 @@ sets:
     set_name: Crossroads of Chaos
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR08-AE052
+    set_name: Creation Pack 08
+    rarities:
+    - Common
   ko:
   - set_number: CSOC-KR073
     set_name: Crossroads of Chaos

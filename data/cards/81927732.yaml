@@ -125,6 +125,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE044
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: CROS-KR049
     set_name: Crossed Souls

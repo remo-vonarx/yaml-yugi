@@ -85,6 +85,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ALIN-AE116
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: HC01-KR013
     set_name: History Archive Collection

@@ -138,6 +138,15 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR06-AE033
+    set_name: Creation Pack 06
+    rarities:
+    - Common
+  - set_number: LAVD-AES31
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SHVI-KR050
     set_name: Shining Victories

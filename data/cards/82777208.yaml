@@ -108,6 +108,11 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE062
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR008
     set_name: Burst of Destiny

@@ -132,6 +132,11 @@ sets:
     set_name: 'Structure Deck R: Curse of the Dark'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC46
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: JOTL-KR030
     set_name: Judgment of the Light

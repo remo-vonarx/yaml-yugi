@@ -118,6 +118,21 @@ sets:
     set_name: Alliance Insight +1 Bonus Pack
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ALIN-AE109
+    set_name: Alliance Insight
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+  - set_number: ALIN-AE109
+    set_name: Alliance Insight +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+  - set_number: ALIN-AES01
+    set_name: Alliance Insight +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: LIOV-KR045
     set_name: Lightning Overdrive

@@ -106,6 +106,15 @@ sets:
     set_name: Winner's Pack 2026 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: CR01-AE027
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+  - set_number: CR01-AES06
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EXFO-KR036
     set_name: Extreme Force

@@ -116,6 +116,11 @@ sets:
     set_name: 'Collection Pack: Duelist of Revolution Version'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR02-AE052
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: CP19-KR027
     set_name: 'Collection Pack: Duelist of Revolution Version'

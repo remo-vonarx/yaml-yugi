@@ -98,6 +98,11 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE118
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: DABL-KR079
     set_name: Darkwing Blast

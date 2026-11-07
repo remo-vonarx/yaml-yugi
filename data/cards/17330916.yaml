@@ -170,6 +170,17 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: AGOV-AE083
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  - set_number: LAVD-AEO03
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: BOSH-KR003
     set_name: Breakers of Shadow

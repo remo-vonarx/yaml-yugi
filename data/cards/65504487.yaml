@@ -84,6 +84,13 @@ sets:
     - Super Rare
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: ES02-AE029
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 24PP-KRA01
     set_name: Premium Pack 2024 1st Wave

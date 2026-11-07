@@ -72,6 +72,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE024
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR049
     set_name: Light of Destruction

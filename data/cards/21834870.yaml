@@ -124,6 +124,11 @@ sets:
     set_name: Rising Rampage
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE120
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: RIRA-KR072
     set_name: Rising Rampage

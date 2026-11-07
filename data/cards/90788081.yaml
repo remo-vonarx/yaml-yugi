@@ -82,6 +82,11 @@ sets:
     set_name: Premium Pack 2022
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: BETB-AEC03
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP16-KR035
     set_name: Premium Pack Vol.16

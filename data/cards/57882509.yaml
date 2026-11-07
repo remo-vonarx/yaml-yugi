@@ -248,6 +248,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-015
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Normal Rare
   ko:
   - set_number: LON-KR015
     set_name: Labyrinth of Nightmare

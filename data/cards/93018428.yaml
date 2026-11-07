@@ -110,6 +110,18 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR12-AE051
+    set_name: Creation Pack 12
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR12-AES17
+    set_name: Creation Pack 12 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: ROTD-KR018
     set_name: Rise of the Duelist

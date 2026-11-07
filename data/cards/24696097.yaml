@@ -201,6 +201,16 @@ sets:
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE014
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR01-AES04
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: STBL-KR040
     set_name: Starstrike Blast

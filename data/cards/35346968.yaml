@@ -150,6 +150,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-055
+    set_name: Pharaoh's Servant
+    rarities:
+    - Short Print
   ko:
   - set_number: PSV-K055
     set_name: Pharaoh's Servant

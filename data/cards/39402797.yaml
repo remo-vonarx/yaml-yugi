@@ -152,6 +152,24 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: RGBT-AE043
+    set_name: Raging Battle
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: INFO-AE097
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: INFO-AE097
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: RGBT-KR043
     set_name: Raging Battle

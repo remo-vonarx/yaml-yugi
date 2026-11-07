@@ -467,6 +467,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-048
+    set_name: Magic Ruler
+    rarities:
+    - Super Rare
+  - set_number: SD16-AE025
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K048
     set_name: Spell Ruler

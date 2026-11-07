@@ -76,6 +76,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DOOD-AEC48
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SD30-KR033
     set_name: 'Structure Deck: Pendulum Domination'

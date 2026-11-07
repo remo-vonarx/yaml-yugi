@@ -115,6 +115,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR02-AE087
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: DREV-KR044
     set_name: Duelist Revolution

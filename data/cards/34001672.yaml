@@ -135,6 +135,19 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PHNI-AE047
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: PHNI-AE047
+    set_name: Phantom Nightmare +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PHNI-KR047
     set_name: Phantom Nightmare

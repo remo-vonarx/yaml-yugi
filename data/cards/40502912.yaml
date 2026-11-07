@@ -138,6 +138,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE030
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: DUEA-KR014
     set_name: Duelist Alliance

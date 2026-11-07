@@ -159,6 +159,15 @@ sets:
     set_name: Tournament Pack 2022 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-004
+    set_name: Pharaonic Guardian
+    rarities:
+    - Rare
+  - set_number: 24AT-AE106
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR004
     set_name: Pharaonic Guardian

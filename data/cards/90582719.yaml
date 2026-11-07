@@ -97,6 +97,15 @@ sets:
     set_name: Duelist Edition Volume 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE044
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: CR06-AES11
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: PTDN-KR001
     set_name: Phantom Darkness

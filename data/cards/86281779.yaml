@@ -101,6 +101,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LON-010
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
+  - set_number: BN01-AE107
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR010
     set_name: Labyrinth of Nightmare

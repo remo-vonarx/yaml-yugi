@@ -76,6 +76,11 @@ sets:
     set_name: Crossed Souls
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE047
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: CROS-KR067
     set_name: Crossed Souls

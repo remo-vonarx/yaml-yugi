@@ -104,6 +104,11 @@ sets:
     set_name: Cybernetic Horizon
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: CORI-AE098
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: CYHO-KR025
     set_name: Cybernetic Horizon

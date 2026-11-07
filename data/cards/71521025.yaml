@@ -88,6 +88,13 @@ sets:
     set_name: Premium Pack 2021
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: ES02-AE017
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP14-KRB12
     set_name: Premium Pack Vol.14 2nd Wave

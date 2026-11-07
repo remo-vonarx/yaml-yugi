@@ -90,6 +90,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR11-AE083
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBGI-KR005
     set_name: 'Deck-Build Pack: Genesis Impactors'

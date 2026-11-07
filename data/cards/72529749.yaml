@@ -146,6 +146,12 @@ sets:
     set_name: Legendary Gold Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBCB-AE029
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: FLOD-KR036
     set_name: Flames of Destruction

@@ -230,6 +230,12 @@ sets:
     set_name: 'Structure Deck: Advent of the Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: TLM-AE023
+    set_name: The Lost Millennium
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: TLM-KR023
     set_name: The Lost Millennium

@@ -305,6 +305,17 @@ sets:
     set_name: Tournament Pack 2021 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE061
+    set_name: Creation Pack 08
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR08-AES17
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUEA-KR066
     set_name: Duelist Alliance

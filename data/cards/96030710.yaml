@@ -111,6 +111,11 @@ sets:
     rarities:
     - Super Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: INFO-AE021
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
   ko:
   - set_number: INFO-KR021
     set_name: The Infinite Forbidden

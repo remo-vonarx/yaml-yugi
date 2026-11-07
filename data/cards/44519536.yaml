@@ -380,6 +380,16 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-121
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Ultra Rare
+  - set_number: ES01-AE080
+    set_name: Essential Selection 01
+    rarities:
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LOB-K121
     set_name: Legend of Blue Eyes White Dragon

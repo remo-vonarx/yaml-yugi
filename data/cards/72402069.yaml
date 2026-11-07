@@ -137,6 +137,11 @@ sets:
     set_name: Collectors Pack 2017
     rarities:
     - Rare
+  en-HK:
+  - set_number: DOOD-AES05
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CP17-KR007
     set_name: Collectors Pack 2017

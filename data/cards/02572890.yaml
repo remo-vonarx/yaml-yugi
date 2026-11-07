@@ -128,6 +128,11 @@ sets:
     set_name: Dimension of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE135
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: DOCS-KR073
     set_name: Dimension of Chaos

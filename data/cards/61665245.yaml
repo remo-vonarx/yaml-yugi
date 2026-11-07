@@ -124,6 +124,18 @@ sets:
     set_name: Perfect Rulebook 2024 promotional card
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR06-AE100
+    set_name: Creation Pack 06
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR06-AES32
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD33-KRSS1
     set_name: 'Structure Deck: Powercode Link Special Set'

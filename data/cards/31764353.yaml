@@ -162,6 +162,15 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: EEN-AE029
+    set_name: Elemental Energy
+    rarities:
+    - Common
+  - set_number: CH02-AE007
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: EEN-KR029
     set_name: Elemental Energy

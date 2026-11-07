@@ -154,6 +154,15 @@ sets:
     set_name: Lightning Overdrive
     rarities:
     - Common
+  en-HK:
+  - set_number: CR09-AE047
+    set_name: Creation Pack 09
+    rarities:
+    - Common
+  - set_number: CR09-AES19
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: LIOV-KR059
     set_name: Lightning Overdrive

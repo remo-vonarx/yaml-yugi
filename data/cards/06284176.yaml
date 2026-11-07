@@ -89,6 +89,11 @@ sets:
     set_name: 'Deck-Build Pack: Secret Slayers'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR03-AE177
+    set_name: Creation Pack 03
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBSS-KR021
     set_name: 'Deck-Build Pack: Secret Slayers'

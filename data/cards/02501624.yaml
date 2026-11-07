@@ -108,6 +108,19 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: ALIN-AE004
+    set_name: Alliance Insight
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ALIN-AE004
+    set_name: Alliance Insight +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ALIN-KR004
     set_name: Alliance Insight

@@ -424,6 +424,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-065
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: CR13-AES02
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: MRD-K065
     set_name: Metal Raiders

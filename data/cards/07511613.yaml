@@ -136,6 +136,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DBCB-AE006
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBCB-KR006
     set_name: 'Deck-Build Pack: Crossover Breakers'

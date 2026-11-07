@@ -100,6 +100,11 @@ sets:
     set_name: Eternity Code
     rarities:
     - Common
+  en-HK:
+  - set_number: CR07-AE023
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: ETCO-KR056
     set_name: Eternity Code

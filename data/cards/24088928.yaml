@@ -88,6 +88,15 @@ sets:
     set_name: Chaos Origins
     rarities:
     - Rare
+  en-HK:
+  - set_number: CORI-AE002
+    set_name: Chaos Origins
+    rarities:
+    - Rare
+  - set_number: 26YC-AEH02
+    set_name: 'Duelist Card Protector: Magician of Dark Chaos - Black Chaos'
+    rarities:
+    - Ultra Parallel Rare
   ko:
   - set_number: CORI-KR002
     set_name: Chaos Origins

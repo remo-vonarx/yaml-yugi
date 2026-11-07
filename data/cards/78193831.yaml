@@ -584,6 +584,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PSV-050
+    set_name: Pharaoh's Servant
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PSV-K050
     set_name: Pharaoh's Servant

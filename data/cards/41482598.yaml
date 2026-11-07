@@ -139,6 +139,11 @@ sets:
     set_name: Genesys Pack 2026 Vol.1
     rarities:
     - Ultimate Rare
+  en-HK:
+  - set_number: PGD-036
+    set_name: Pharaonic Guardian
+    rarities:
+    - Super Rare
   ko:
   - set_number: PGD-KR036
     set_name: Pharaonic Guardian

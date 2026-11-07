@@ -439,6 +439,33 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: RC04-AE016
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+    - Holographic Rare
+  - set_number: TT02-AEB08
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
+  - set_number: CH01-AE017
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
+  - set_number: LAVD-AEL13
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+  - set_number: LAVD-AES16
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: EP19-KR067
     set_name: Extra Pack 2019

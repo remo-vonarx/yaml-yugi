@@ -224,6 +224,16 @@ sets:
     set_name: "Duelist Pack: Pharaoh's Memories"
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE009
+    set_name: Rise of Destiny
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: 24AT-AE205
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR009
     set_name: Rise of Destiny

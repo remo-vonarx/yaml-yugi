@@ -178,6 +178,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: PHNI-AE082
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: PTDN-KR007
     set_name: Phantom Darkness

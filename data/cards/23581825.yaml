@@ -80,6 +80,11 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE058
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: SPWR-KR028
     set_name: 'Booster SP: Wing Raiders'

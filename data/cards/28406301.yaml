@@ -133,6 +133,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR09-AE008
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: BACH-KR013
     set_name: Battle of Chaos

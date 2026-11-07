@@ -92,6 +92,11 @@ sets:
     set_name: The Pot Collection
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: CRV-AE043
+    set_name: Cybernetic Revolution
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR043
     set_name: Cybernetic Revolution

@@ -145,6 +145,15 @@ sets:
     set_name: Duelist Legacy Volume.4
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-079
+    set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: 26AT-AE100
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: MRD-K079
     set_name: Metal Raiders

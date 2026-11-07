@@ -152,6 +152,12 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SOD-AE012
+    set_name: Soul of the Duelist
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: SOD-KR012
     set_name: Soul of the Duelist

@@ -149,6 +149,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SLF1-AE087
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Normal Parallel Rare
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBGI-KR016
     set_name: 'Deck-Build Pack: Genesis Impactors'

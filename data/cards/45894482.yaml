@@ -297,6 +297,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LON-071
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: LON-KR071
     set_name: Labyrinth of Nightmare

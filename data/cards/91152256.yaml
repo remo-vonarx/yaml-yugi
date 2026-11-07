@@ -340,6 +340,19 @@ sets:
     rarities:
     - Secret Rare
     - Millennium Rare
+  en-HK:
+  - set_number: LOB-007
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-009
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: 26AT-AE200
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: LOB-K007
     set_name: Legend of Blue Eyes White Dragon

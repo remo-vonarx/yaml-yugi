@@ -184,6 +184,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE011
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: DP06-KR017
     set_name: 'Duelist Pack: Jaden Yuki 3'

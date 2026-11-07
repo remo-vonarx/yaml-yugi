@@ -267,6 +267,11 @@ sets:
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE013
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: HGP4-KR245
     set_name: Expert Edition Volume 4

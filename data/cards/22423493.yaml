@@ -114,6 +114,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: 24AT-AE315
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: LVP1-KR061
     set_name: LINK VRAINS Pack

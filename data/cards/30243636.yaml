@@ -154,6 +154,15 @@ sets:
     set_name: Ultimate Special Pack
     rarities:
     - Ultimate Rare
+  en-HK:
+  - set_number: MRL-068
+    set_name: Magic Ruler
+    rarities:
+    - Common
+  - set_number: 24AT-AE210
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K068
     set_name: Spell Ruler

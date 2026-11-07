@@ -98,6 +98,11 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC30
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: EXVC-KR045
     set_name: Extreme Victory

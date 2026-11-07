@@ -132,6 +132,13 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: DBPR-AE050
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: CPF1-KR017
     set_name: 'Collectors Pack: Duelist of Flash Version'

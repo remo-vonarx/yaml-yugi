@@ -104,6 +104,11 @@ sets:
     set_name: World Premiere Pack 2021
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE093
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: WPP2-KR045
     set_name: World Premiere Pack 2021

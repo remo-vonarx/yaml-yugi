@@ -218,6 +218,11 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-130
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MRD-K130
     set_name: Metal Raiders

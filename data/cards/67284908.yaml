@@ -232,6 +232,15 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-055
+    set_name: Magic Ruler
+    rarities:
+    - Common
+  - set_number: BN01-AE052
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SRL-K055
     set_name: Spell Ruler

@@ -130,6 +130,11 @@ sets:
     set_name: 20th Anniversary Duelist Box
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR12-AE016
+    set_name: Creation Pack 12
+    rarities:
+    - Super Rare
   ko:
   - set_number: CHBI-KRB01
     set_name: Chronicle Binder

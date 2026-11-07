@@ -136,6 +136,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: WCS-AE403
+    set_name: Yu-Gi-Oh! Japanese World Championship Qualifier 2004 participation card
+    rarities:
+    - Super Rare
+  - set_number: BN01-AE096
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   zh-CN:
   - set_number: TDB1-SC053
     set_name: 'Bonus Pack: Awakened by the Primites'

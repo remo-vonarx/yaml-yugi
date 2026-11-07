@@ -147,6 +147,13 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SLF1-AE023
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: SPFE-KR028
     set_name: 'Booster SP: Fusion Enforcers'

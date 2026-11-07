@@ -190,6 +190,21 @@ sets:
     set_name: The Gold Box
     rarities:
     - Gold Rare
+  en-HK:
+  - set_number: LON-061
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Rare
+  - set_number: 24AT-AE405
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
+  - set_number: ES02-AE001
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LON-KR061
     set_name: Labyrinth of Nightmare

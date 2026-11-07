@@ -206,6 +206,17 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR08-AE023
+    set_name: Creation Pack 08
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR08-AES08
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LVAL-KR067
     set_name: Legacy of the Valiant

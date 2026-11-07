@@ -219,6 +219,11 @@ sets:
     set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-034
+    set_name: Legacy of Darkness
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LOD-KR034
     set_name: Legacy of Darkness

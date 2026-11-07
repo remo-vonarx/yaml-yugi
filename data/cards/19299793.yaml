@@ -114,6 +114,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: CR11-AE012
+    set_name: Creation Pack 11
+    rarities:
+    - Common
+  - set_number: CR11-AES05
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: 24PP-KRA08
     set_name: Premium Pack 2024 1st Wave

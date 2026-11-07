@@ -117,6 +117,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SUDA-AE102
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LVP2-KR021
     set_name: LINK VRAINS Pack 2

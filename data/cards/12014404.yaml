@@ -297,6 +297,11 @@ sets:
     set_name: Legendary Gold Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DUAD-AES07
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: ABYR-KR041
     set_name: Abyss Rising

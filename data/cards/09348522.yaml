@@ -171,6 +171,17 @@ sets:
     set_name: Tournament Pack 2021 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE099
+    set_name: Supreme Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+  - set_number: SUDA-AE099
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: AE05-KR021
     set_name: Advanced Event Pack 2014 Vol.3

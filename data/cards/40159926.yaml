@@ -104,6 +104,11 @@ sets:
     set_name: 'Booster SP: High-Speed Riders'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: BLZD-AEC06
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SPHR-KR019
     set_name: 'Booster SP: High-Speed Riders'

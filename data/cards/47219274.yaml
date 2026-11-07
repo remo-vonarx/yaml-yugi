@@ -113,6 +113,11 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE103
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: DABL-KR041
     set_name: Darkwing Blast

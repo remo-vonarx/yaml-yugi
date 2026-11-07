@@ -112,6 +112,11 @@ sets:
     set_name: Duel Terminal Chronicle 1 - Chapter of Awakening
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: BN01-AE141
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: HA02-KR017
     set_name: Hidden Arsenal 2

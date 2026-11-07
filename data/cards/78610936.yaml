@@ -168,6 +168,13 @@ sets:
     set_name: Tournament Pack 2025 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES01-AE063
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EP14-KR009
     set_name: 'Extra Pack: Knights of Order'

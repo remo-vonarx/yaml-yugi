@@ -171,6 +171,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR12-AE087
+    set_name: Creation Pack 12
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DABL-KR013
     set_name: Darkwing Blast

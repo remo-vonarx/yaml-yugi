@@ -135,6 +135,17 @@ sets:
     set_name: Rage of the Abyss
     rarities:
     - Rare
+  en-HK:
+  - set_number: ROTA-AE034
+    set_name: Rage of the Abyss
+    rarities:
+    - Rare
+  - set_number: ES02-AE045
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: ROTA-KR034
     set_name: Rage of the Abyss

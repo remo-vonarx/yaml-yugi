@@ -183,6 +183,19 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: PHNI-AE105
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: PHNI-AE105
+    set_name: Phantom Nightmare +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PHRA-KR040
     set_name: Phantom Rage

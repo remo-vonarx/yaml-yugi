@@ -552,6 +552,19 @@ sets:
     set_name: Area Championship 2024 December prize card
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: MFC-071
+    set_name: Magician's Force
+    rarities:
+    - Ultra Rare
+  - set_number: SD16-AE014
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: SDID-AE015
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR071
     set_name: Magician's Force

@@ -109,6 +109,11 @@ sets:
     set_name: Burst Protocol +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR10-AE042
+    set_name: Creation Pack 10
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBDS-KR014
     set_name: 'Deck-Build Pack: Dark Saviors'

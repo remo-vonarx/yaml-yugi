@@ -218,6 +218,15 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-045
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
+  - set_number: SDY-044
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K045
     set_name: Legend of Blue Eyes White Dragon

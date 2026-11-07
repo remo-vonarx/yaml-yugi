@@ -180,6 +180,15 @@ sets:
     set_name: Tournament Pack 2012 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-043
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Short Print
+  - set_number: SDY-021
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K043
     set_name: Legend of Blue Eyes White Dragon

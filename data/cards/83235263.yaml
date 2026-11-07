@@ -170,6 +170,11 @@ sets:
     set_name: "Structure Deck R: Tyranno's Rage"
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CRV-AE029
+    set_name: Cybernetic Revolution
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR029
     set_name: Cybernetic Revolution

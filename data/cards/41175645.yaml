@@ -179,6 +179,15 @@ sets:
     set_name: Animation Chronicle 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE003
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
+  - set_number: CR04-AES01
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: DP17-KR002
     set_name: "Duelist Pack: Pharaoh's Memories"

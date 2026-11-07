@@ -108,6 +108,12 @@ sets:
     set_name: Yu-Gi-Oh! ARC-V Volume 5 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DBCB-AE051
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP14-KRA29
     set_name: Premium Pack Vol.14 1st Wave

@@ -160,6 +160,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE011
+    set_name: Crimson Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: CRMS-KR011
     set_name: Crimson Crisis

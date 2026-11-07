@@ -247,6 +247,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR04-AE095
+    set_name: Creation Pack 04
+    rarities:
+    - Ultra Rare
+  - set_number: CR04-AES14
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LODT-KR021
     set_name: Light of Destruction

@@ -170,6 +170,11 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DOOD-AE090
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: NECH-KR037
     set_name: The New Challengers

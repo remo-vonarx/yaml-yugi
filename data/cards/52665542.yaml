@@ -80,6 +80,11 @@ sets:
     set_name: Extra Pack 2015
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE419
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EP15-KR077
     set_name: Extra Pack 2015

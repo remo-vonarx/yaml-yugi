@@ -157,6 +157,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: CR05-AE082
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: ETCO-KR019
     set_name: Eternity Code

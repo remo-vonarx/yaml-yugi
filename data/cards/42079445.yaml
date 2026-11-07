@@ -122,6 +122,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE065
+    set_name: Crimson Crisis
+    rarities:
+    - Common
   ko:
   - set_number: CRMS-KR065
     set_name: Crimson Crisis

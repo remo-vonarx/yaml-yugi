@@ -128,6 +128,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE109
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR053
     set_name: 'Invasion: Vengeance'

@@ -132,6 +132,17 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BETB-AE116
+    set_name: Beyond the Brave
+    rarities:
+    - Rare
+  - set_number: BETB-AES13
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DP26-KR020
     set_name: 'Duelist Pack: Duelists of the Abyss'

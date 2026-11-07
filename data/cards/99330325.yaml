@@ -154,6 +154,14 @@ sets:
     set_name: Tournament Pack 2020 Vol.2
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ES01-AE064
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EP16-KR030
     set_name: Extra Pack 2016

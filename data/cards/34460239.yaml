@@ -109,6 +109,11 @@ sets:
     set_name: Advanced Tournament Pack 2013 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SOI-AE055
+    set_name: Shadow of Infinity
+    rarities:
+    - Common
   ko:
   - set_number: SOI-KR055
     set_name: Shadow of Infinity

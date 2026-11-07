@@ -116,6 +116,11 @@ sets:
     set_name: 'Deck-Build Pack: Crossover Breakers'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: DBCB-AE022
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBCB-KR022
     set_name: 'Deck-Build Pack: Crossover Breakers'

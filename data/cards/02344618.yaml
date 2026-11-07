@@ -126,6 +126,17 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DUAD-AE053
+    set_name: Duelist's Advance
+    rarities:
+    - Rare
+  - set_number: LAVD-AEL18
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUAD-KR053
     set_name: Duelist's Advance

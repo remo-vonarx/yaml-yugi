@@ -119,6 +119,11 @@ sets:
     set_name: 'Structure Deck: Revolver Extra Deck Enhancement Pack'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 25AT-AE414
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EXFO-KR044
     set_name: Extreme Force

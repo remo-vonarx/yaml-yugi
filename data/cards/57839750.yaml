@@ -321,6 +321,15 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-090
+    set_name: Magic Ruler
+    rarities:
+    - Rare
+  - set_number: 26AT-AE308
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K090
     set_name: Spell Ruler

@@ -131,6 +131,11 @@ sets:
     set_name: Tournament Pack 2008 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-029
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
   ko:
   - set_number: LOB-K029
     set_name: Legend of Blue Eyes White Dragon

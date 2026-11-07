@@ -185,6 +185,11 @@ sets:
     set_name: Winner's Pack 2025 Vol.3
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: BPRO-AE106
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: AE01-KR002
     set_name: Advanced Event Pack 2013 Vol.1

@@ -225,6 +225,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE007
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP12-KR024
     set_name: Premium Pack Vol.12

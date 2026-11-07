@@ -108,6 +108,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: DOOD-AE085
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: 23PP-KRA15
     set_name: Premium Pack 2023 1st Wave

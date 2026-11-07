@@ -436,6 +436,11 @@ sets:
     set_name: Duelist King Cup October 2025 prize card
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DCR-027
+    set_name: Dark Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: DCR-KR027
     set_name: Dark Crisis

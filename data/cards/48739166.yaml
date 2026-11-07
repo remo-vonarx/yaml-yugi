@@ -285,6 +285,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of the Abyss'
     rarities:
     - Holographic Rare
+  en-HK:
+  - set_number: CR05-AE093
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: LVAL-KR047
     set_name: Legacy of the Valiant

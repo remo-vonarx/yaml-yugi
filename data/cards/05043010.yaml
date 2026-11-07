@@ -249,6 +249,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: 25AT-AE115
+    set_name: Tournament Pack 2025 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR043
     set_name: Code of the Duelist

@@ -104,6 +104,11 @@ sets:
     set_name: 'Duelist Pack: Kastle Siblings'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE079
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: DP15-KR001
     set_name: 'Duelist Pack: Kastle Siblings'

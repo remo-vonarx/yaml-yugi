@@ -97,6 +97,11 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Rare
+  en-HK:
+  - set_number: BPRO-AEC46
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DREV-KR036
     set_name: Duelist Revolution

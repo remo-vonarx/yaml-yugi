@@ -81,6 +81,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE110
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: PRIO-KR077
     set_name: Primal Origin

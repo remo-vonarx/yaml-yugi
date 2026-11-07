@@ -76,6 +76,11 @@ sets:
     set_name: World Premiere Pack 2021
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC24
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: WPP2-KR064
     set_name: World Premiere Pack 2021

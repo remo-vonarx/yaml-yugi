@@ -128,6 +128,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC43
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SOVR-KR035
     set_name: Stardust Overdrive

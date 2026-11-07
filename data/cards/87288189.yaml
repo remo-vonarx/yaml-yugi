@@ -139,6 +139,11 @@ sets:
     set_name: 'Structure Deck R: Curse of the Dark'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DOOD-AE091
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: SECE-KR035
     set_name: Secrets of Eternity

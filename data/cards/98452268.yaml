@@ -145,6 +145,17 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ES01-AE038
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AEO29
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: LGB1-KR033
     set_name: Legendary Gold Set

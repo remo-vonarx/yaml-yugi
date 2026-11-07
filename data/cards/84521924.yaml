@@ -107,6 +107,11 @@ sets:
     set_name: Doom of Dimensions +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR09-AE069
+    set_name: Creation Pack 09
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: CYAC-KR049
     set_name: Cyberstorm Access

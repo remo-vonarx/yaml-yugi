@@ -113,6 +113,11 @@ sets:
     set_name: World Premiere Pack 2022
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE177
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP3-KR007
     set_name: World Premiere Pack 2022

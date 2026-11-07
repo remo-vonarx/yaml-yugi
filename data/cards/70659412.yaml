@@ -99,6 +99,11 @@ sets:
     set_name: World Premiere Pack 2026
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AE104
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: WPP7-KR059
     set_name: World Premiere Pack 2026

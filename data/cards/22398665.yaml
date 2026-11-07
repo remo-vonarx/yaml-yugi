@@ -153,6 +153,18 @@ sets:
     set_name: High-Resolution Artwork Series
     rarities:
     - Ultra Rare (Special Purple Version)
+  en-HK:
+  - set_number: CR05-AE068
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR05-AES07
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBGI-KR032
     set_name: 'Deck-Build Pack: Genesis Impactors'

@@ -785,6 +785,15 @@ sets:
     set_name: Legendary Duel Selection
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: AST-AE037
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: SDRB-AE035
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR037
     set_name: Ancient Sanctuary

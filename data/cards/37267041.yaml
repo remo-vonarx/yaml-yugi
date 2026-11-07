@@ -193,6 +193,11 @@ sets:
     set_name: "Duelist Pack: Pharaoh's Memories"
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE002
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: PP01-KR029
     set_name: Premium Pack Vol.1

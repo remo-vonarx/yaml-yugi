@@ -126,6 +126,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE044
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR044
     set_name: Invasion of Chaos

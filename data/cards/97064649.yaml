@@ -102,6 +102,11 @@ sets:
     set_name: Shadow Specters
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE092
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: SHSP-KR008
     set_name: Shadow Specters

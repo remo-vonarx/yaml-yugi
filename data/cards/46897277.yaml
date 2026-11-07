@@ -80,6 +80,11 @@ sets:
     set_name: The Shining Darkness
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE075
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: TSHD-KR026
     set_name: The Shining Darkness

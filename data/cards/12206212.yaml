@@ -343,6 +343,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-009
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K009
     set_name: Metal Raiders

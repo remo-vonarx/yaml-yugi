@@ -104,6 +104,15 @@ sets:
     set_name: Tournament Pack 2020 Vol.2
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR12-AE024
+    set_name: Creation Pack 12
+    rarities:
+    - Super Rare
+  - set_number: CR12-AES08
+    set_name: Creation Pack 12 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DOCS-KR057
     set_name: Dimension of Chaos

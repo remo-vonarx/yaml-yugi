@@ -100,6 +100,11 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE062
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: DABL-KR059
     set_name: Darkwing Blast

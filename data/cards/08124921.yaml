@@ -380,6 +380,16 @@ sets:
     set_name: World Premiere Pack 2023
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-120
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Ultra Rare
+  - set_number: ES01-AE079
+    set_name: Essential Selection 01
+    rarities:
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LOB-K120
     set_name: Legend of Blue Eyes White Dragon

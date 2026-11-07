@@ -76,6 +76,11 @@ sets:
     set_name: Blazing Vortex
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AE118
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: BLVO-KR071
     set_name: Blazing Vortex

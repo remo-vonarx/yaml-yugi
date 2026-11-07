@@ -97,6 +97,18 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SUDA-AE009
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: SUDA-AE009
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SUDA-KR009
     set_name: Supreme Darkness
