@@ -114,6 +114,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BN01-AE178
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: PP14-KRA21
     set_name: Premium Pack Vol.14 1st Wave

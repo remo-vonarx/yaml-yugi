@@ -98,6 +98,11 @@ sets:
     set_name: The Valuable Book 21 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDSS-AE009
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: PP14-KRB10
     set_name: Premium Pack Vol.14 2nd Wave

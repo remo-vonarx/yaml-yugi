@@ -116,6 +116,15 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR03-AE084
+    set_name: Creation Pack 03
+    rarities:
+    - Ultra Rare
+  - set_number: CR03-AES15
+    set_name: Creation Pack 03 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: WPP4-KR022
     set_name: World Premiere Pack 2023

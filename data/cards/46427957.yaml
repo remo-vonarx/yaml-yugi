@@ -118,6 +118,12 @@ sets:
     set_name: Tournament Pack 2018 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: SOI-AE034
+    set_name: Shadow of Infinity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR034
     set_name: Shadow of Infinity

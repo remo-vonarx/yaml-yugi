@@ -455,6 +455,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-108
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDY-046
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K108
     set_name: Legend of Blue Eyes White Dragon

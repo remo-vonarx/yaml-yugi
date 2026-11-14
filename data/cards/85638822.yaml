@@ -76,6 +76,11 @@ sets:
     set_name: LINK VRAINS Box
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AE112
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: LVB1-KR012
     set_name: LINK VRAINS Box

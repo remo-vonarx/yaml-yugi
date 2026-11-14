@@ -119,6 +119,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: DI01-AE033
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: PP11-KR021
     set_name: Premium Pack Vol.11

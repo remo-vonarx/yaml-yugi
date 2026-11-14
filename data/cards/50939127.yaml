@@ -160,6 +160,11 @@ sets:
     set_name: Duel Terminal - Charge of the Genex!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: DCR-015
+    set_name: Dark Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: DCR-KR015
     set_name: Dark Crisis

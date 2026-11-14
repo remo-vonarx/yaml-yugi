@@ -128,6 +128,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SLF1-AE009
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Normal Parallel Rare
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DP21-KR036
     set_name: 'Duelist Pack: Legend Duelist 4'

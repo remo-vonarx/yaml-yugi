@@ -284,6 +284,12 @@ sets:
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: TLM-AE049
+    set_name: The Lost Millennium
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: TLM-KR049
     set_name: The Lost Millennium

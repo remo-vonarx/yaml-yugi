@@ -251,6 +251,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultra Rare (Special Blue Version)
+  en-HK:
+  - set_number: CR13-AE029
+    set_name: Creation Pack 13
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DP5-KRSE1
     set_name: 'Duelist Pack: Aster Phoenix Special Edition'

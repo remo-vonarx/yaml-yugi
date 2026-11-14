@@ -220,6 +220,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE062
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP1-K001
     set_name: 'Tournament Pack: 1st Season'

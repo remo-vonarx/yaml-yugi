@@ -132,6 +132,16 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR13-AE053
+    set_name: Creation Pack 13
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR13-AES22
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBSS-KR002
     set_name: 'Deck-Build Pack: Secret Slayers'

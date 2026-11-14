@@ -340,6 +340,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: MRD-024
+    set_name: Metal Raiders
+    rarities:
+    - Rare
   ko:
   - set_number: MRD-K024
     set_name: Metal Raiders

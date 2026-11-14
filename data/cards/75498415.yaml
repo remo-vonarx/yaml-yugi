@@ -222,6 +222,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CRMS-AE010
+    set_name: Crimson Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: CRMS-KR010
     set_name: Crimson Crisis

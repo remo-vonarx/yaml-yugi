@@ -184,6 +184,12 @@ sets:
     set_name: Starter Deck 2008
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE001
+    set_name: Soul of the Duelist
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: SOD-KR001
     set_name: Soul of the Duelist

@@ -240,6 +240,15 @@ sets:
     set_name: World Premiere Pack 2023
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-025
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
+  - set_number: CR03-AE073
+    set_name: Creation Pack 03
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K025
     set_name: Metal Raiders

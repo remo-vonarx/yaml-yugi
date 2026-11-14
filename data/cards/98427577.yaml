@@ -262,6 +262,11 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE018
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: YSD3-KR032
     set_name: Starter Deck 2008

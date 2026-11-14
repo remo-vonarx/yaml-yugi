@@ -103,6 +103,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBPR-AE029
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: EP19-KR063
     set_name: Extra Pack 2019

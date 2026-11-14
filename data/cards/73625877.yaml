@@ -104,6 +104,11 @@ sets:
     set_name: Generation Force
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE045
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
   ko:
   - set_number: GENF-KR024
     set_name: Generation Force

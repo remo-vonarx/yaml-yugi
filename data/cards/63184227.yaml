@@ -110,6 +110,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: DUNE-AE093
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: DAMA-KR003
     set_name: Dawn of Majesty

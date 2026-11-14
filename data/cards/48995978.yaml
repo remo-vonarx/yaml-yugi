@@ -101,6 +101,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR05-AE018
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD25-KRSS1
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent Special Set"

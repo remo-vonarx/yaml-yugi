@@ -156,6 +156,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: CR01-AE029
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: CP17-KR032
     set_name: Collectors Pack 2017

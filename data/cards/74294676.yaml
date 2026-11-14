@@ -242,6 +242,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CR01-AE103
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
   ko:
   - set_number: PHSW-KR043
     set_name: Photon Shockwave

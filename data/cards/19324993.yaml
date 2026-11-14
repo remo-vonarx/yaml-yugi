@@ -126,6 +126,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: DI01-AE036
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: LVP3-KR031
     set_name: LINK VRAINS Pack 3

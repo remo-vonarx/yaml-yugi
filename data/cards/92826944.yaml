@@ -328,6 +328,11 @@ sets:
     set_name: Secret Shiny Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 24AT-AE305
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EV09-KR003
     set_name: Summer Festival 2009 promotional cards

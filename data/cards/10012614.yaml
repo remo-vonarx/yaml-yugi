@@ -225,6 +225,11 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-089
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR089
     set_name: Pharaonic Guardian

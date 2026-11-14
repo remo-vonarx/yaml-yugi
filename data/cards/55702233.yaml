@@ -106,6 +106,12 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBPR-AE053
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP15-KR037
     set_name: Premium Pack Vol.15

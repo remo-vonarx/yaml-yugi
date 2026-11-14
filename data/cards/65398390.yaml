@@ -114,6 +114,11 @@ sets:
     set_name: Phantom Rage
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR01-AE084
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: PHRA-KR038
     set_name: Phantom Rage

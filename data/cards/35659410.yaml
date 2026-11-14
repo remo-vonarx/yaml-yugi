@@ -118,6 +118,11 @@ sets:
     set_name: Battle of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE025
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: BACH-KR050
     set_name: Battle of Chaos

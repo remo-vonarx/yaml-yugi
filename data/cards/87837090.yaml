@@ -111,6 +111,11 @@ sets:
     set_name: World Premiere Pack 2024
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR11-AE100
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP5-KR057
     set_name: World Premiere Pack 2024

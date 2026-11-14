@@ -111,6 +111,17 @@ sets:
     set_name: 'Tactical-Try Deck: Exosister'
     rarities:
     - Common
+  en-HK:
+  - set_number: DBCB-AE050
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
+  - set_number: TT02-AEB07
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: CYAC-KR027
     set_name: Cyberstorm Access

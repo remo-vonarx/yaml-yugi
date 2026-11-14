@@ -184,6 +184,21 @@ sets:
     set_name: Duelist Advance +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR08-AE032
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR08-AES11
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
+  - set_number: LAVD-AEL04
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: DBLE-KR010
     set_name: Dimension Box Limited Edition

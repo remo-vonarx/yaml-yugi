@@ -259,6 +259,16 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: RC04-AE028
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP12-KR026
     set_name: Premium Pack Vol.12

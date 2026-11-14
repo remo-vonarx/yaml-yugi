@@ -104,6 +104,11 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR11-AE050
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: DP22-KR047
     set_name: 'Duelist Pack: Legend Duelist 5'

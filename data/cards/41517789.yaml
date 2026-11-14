@@ -133,6 +133,11 @@ sets:
     set_name: Tournament Pack 2021 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE201
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: JOTL-KR047
     set_name: Judgment of the Light

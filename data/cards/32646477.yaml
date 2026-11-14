@@ -124,6 +124,15 @@ sets:
     set_name: 20th Anniversary Pack 2nd Wave
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CRMS-AE040
+    set_name: Crimson Crisis
+    rarities:
+    - Super Rare
+  - set_number: 24AT-AE211
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CRMS-KR040
     set_name: Crimson Crisis

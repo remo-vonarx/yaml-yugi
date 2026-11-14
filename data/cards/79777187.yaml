@@ -98,6 +98,11 @@ sets:
     set_name: Clash of Rebellions
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE182
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: CORE-KR058
     set_name: Clash of Rebellions

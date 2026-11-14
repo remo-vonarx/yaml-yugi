@@ -192,6 +192,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBCB-AE048
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: CBLZ-KR043
     set_name: Cosmo Blazer

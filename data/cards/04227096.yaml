@@ -180,6 +180,11 @@ sets:
     set_name: Clash of Rebellions
     rarities:
     - Rare
+  en-HK:
+  - set_number: 24AT-AE521
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CORE-KR065
     set_name: Clash of Rebellions

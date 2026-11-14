@@ -338,6 +338,13 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: ES01-AE060
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: TDGS-KR062
     set_name: The Duelist Genesis

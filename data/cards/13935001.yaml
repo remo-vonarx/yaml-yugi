@@ -149,6 +149,15 @@ sets:
     set_name: Duelist Advance +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR08-AE044
+    set_name: Creation Pack 08
+    rarities:
+    - Common
+  - set_number: LAVD-AEL28
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: DP21-KR049
     set_name: 'Duelist Pack: Legend Duelist 4'

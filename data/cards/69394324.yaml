@@ -119,6 +119,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR13-AE041
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
   ko:
   - set_number: DANE-KR031
     set_name: Dark Neostorm

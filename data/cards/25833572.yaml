@@ -245,6 +245,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: MRD-000
+    set_name: Metal Raiders
+    rarities:
+    - Secret Rare
+  - set_number: CR03-AE076
+    set_name: Creation Pack 03
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: MRD-K000
     set_name: Metal Raiders

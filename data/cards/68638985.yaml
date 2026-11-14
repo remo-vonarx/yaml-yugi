@@ -95,6 +95,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: BN01-AE083
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: TP05-KR005
     set_name: Tournament Pack 2010 Vol.5

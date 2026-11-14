@@ -110,6 +110,15 @@ sets:
     set_name: Magic Ruler (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-014
+    set_name: Magic Ruler
+    rarities:
+    - Common
+  - set_number: BN01-AE077
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K014
     set_name: Spell Ruler

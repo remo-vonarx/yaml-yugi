@@ -198,6 +198,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE068
+    set_name: Raging Battle
+    rarities:
+    - Rare
   ko:
   - set_number: RGBT-KR068
     set_name: Raging Battle

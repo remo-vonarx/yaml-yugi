@@ -263,6 +263,15 @@ sets:
     set_name: 'Memories of the Duel King: Ceremonial Battle Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-064
+    set_name: Magician's Force
+    rarities:
+    - Super Rare
+  - set_number: SD16-AE009
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR064
     set_name: Magician's Force

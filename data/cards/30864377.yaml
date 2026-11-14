@@ -119,6 +119,18 @@ sets:
     rarities:
     - Common
     - Super Rare
+  en-HK:
+  - set_number: CR06-AE062
+    set_name: Creation Pack 06
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR06-AES14
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CP17-KR027
     set_name: Collectors Pack 2017

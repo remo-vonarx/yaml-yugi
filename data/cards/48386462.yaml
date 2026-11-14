@@ -133,6 +133,11 @@ sets:
     set_name: Duelist Nexus
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: DUNE-AE031
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: DUNE-KR031
     set_name: Duelist Nexus

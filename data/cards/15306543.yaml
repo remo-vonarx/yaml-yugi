@@ -89,6 +89,11 @@ sets:
     set_name: Age of Overlord
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE061
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: AGOV-KR061
     set_name: Age of Overlord

@@ -146,6 +146,11 @@ sets:
     set_name: Duel Terminal - Vylon Descends!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: MRL-087
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K087
     set_name: Spell Ruler

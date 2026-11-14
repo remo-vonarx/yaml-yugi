@@ -141,6 +141,11 @@ sets:
     set_name: Extra Pack 2015
     rarities:
     - Rare
+  en-HK:
+  - set_number: BN01-AE154
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: EP15-KR071
     set_name: Extra Pack 2015

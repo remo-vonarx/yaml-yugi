@@ -119,6 +119,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: SUDA-AE092
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: LODT-KR017
     set_name: Light of Destruction

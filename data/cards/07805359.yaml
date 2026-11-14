@@ -114,6 +114,15 @@ sets:
     set_name: Metal Raiders (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-112
+    set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: BN01-AE080
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K112
     set_name: Metal Raiders

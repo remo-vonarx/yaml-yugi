@@ -114,6 +114,11 @@ sets:
     set_name: Starter Deck 2007
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-051
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR051
     set_name: Legacy of Darkness

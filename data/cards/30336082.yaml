@@ -127,6 +127,11 @@ sets:
     set_name: Legacy of Destruction
     rarities:
     - Rare
+  en-HK:
+  - set_number: LEDE-AE059
+    set_name: Legacy of Destruction
+    rarities:
+    - Rare
   ko:
   - set_number: LEDE-KR059
     set_name: Legacy of Destruction

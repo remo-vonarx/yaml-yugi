@@ -172,6 +172,16 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CR08-AE039
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: LAVD-AEL32
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP21-KR045
     set_name: 'Duelist Pack: Legend Duelist 4'

@@ -209,6 +209,11 @@ sets:
     set_name: Prismatic God Box
     rarities:
     - Millennium Rare
+  en-HK:
+  - set_number: DCR-079
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR079
     set_name: Dark Crisis

@@ -130,6 +130,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AES04
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: INOV-KR067
     set_name: 'Invasion: Vengeance'

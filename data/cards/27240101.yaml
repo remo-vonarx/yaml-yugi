@@ -91,6 +91,17 @@ sets:
     set_name: Promotion Pack 2018
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE102
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
+  - set_number: ES02-AE066
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: AE12-KR018
     set_name: Advanced Event Pack 2018 Vol.1

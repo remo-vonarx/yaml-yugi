@@ -132,6 +132,22 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE058
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: AGOV-AE058
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
+  - set_number: CH02-AE037
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: AGOV-KR058
     set_name: Age of Overlord

@@ -186,6 +186,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-051
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
   ko:
   - set_number: PSV-K051
     set_name: Pharaoh's Servant

@@ -76,6 +76,11 @@ sets:
     set_name: Tournament Pack 2011 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE063
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP13-KR006
     set_name: Tournament Pack 2012 Vol.13

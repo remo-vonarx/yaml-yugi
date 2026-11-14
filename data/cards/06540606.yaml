@@ -166,6 +166,11 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CRV-AE051
+    set_name: Cybernetic Revolution
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR051
     set_name: Cybernetic Revolution

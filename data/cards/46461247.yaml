@@ -163,6 +163,15 @@ sets:
     set_name: EX-R Starter Box
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-043
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-044
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K043
     set_name: 'Starter Deck: Yugi'

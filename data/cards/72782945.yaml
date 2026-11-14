@@ -80,6 +80,11 @@ sets:
     set_name: V Jump Fall 2024 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CORI-AEC33
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: 25PP-KRB11
     set_name: Premium Pack 2025 2nd Wave

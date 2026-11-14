@@ -120,6 +120,11 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LEDE-AE044
+    set_name: Legacy of Destruction
+    rarities:
+    - Rare
   ko:
   - set_number: LEDE-KR044
     set_name: Legacy of Destruction

@@ -139,6 +139,11 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PGD-103
+    set_name: Pharaonic Guardian
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PGD-KR103
     set_name: Pharaonic Guardian

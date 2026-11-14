@@ -94,6 +94,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE088
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: STOR-KR044
     set_name: Storm of Ragnarok

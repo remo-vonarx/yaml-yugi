@@ -91,6 +91,11 @@ sets:
     set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE086
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: SD41-KR002
     set_name: "Structure Deck: Cyber Style's Successor"

@@ -130,6 +130,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: DOOD-AES08
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: TDIL-KR056
     set_name: The Dark Illusion

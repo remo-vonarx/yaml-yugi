@@ -161,6 +161,13 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: IMPH-AES11
+    set_name: Immortal Phoenix +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MP01-KR001
     set_name: Millennium Pack (OCG)

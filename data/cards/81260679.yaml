@@ -145,6 +145,18 @@ sets:
     - Rare
     - Ultra Parallel Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR01-AE191
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR01-AES27
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBAD-KR027
     set_name: 'Deck-Build Pack: Amazing Defenders'

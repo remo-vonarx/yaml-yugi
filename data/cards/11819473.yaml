@@ -105,6 +105,11 @@ sets:
     set_name: Phantom Rage
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE115
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: PHRA-KR064
     set_name: Phantom Rage

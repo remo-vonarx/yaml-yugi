@@ -118,6 +118,11 @@ sets:
     set_name: Tournament Pack 2019 Vol.2
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: 25AT-AE323
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: MACR-KR078
     set_name: Maximum Crisis

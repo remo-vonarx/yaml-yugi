@@ -105,6 +105,11 @@ sets:
     set_name: Labrynth Duel Set
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: 24AT-AE222
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: DBTM-KR026
     set_name: 'Deck-Build Pack: Tactical Masters'

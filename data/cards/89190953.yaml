@@ -81,6 +81,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE018
+    set_name: Creation Pack 03
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD38-KRP05
     set_name: 'Structure Deck: Sacred Beasts of Chaos Sacred Beasts Unleashed Pack'

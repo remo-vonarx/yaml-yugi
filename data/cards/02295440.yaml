@@ -496,6 +496,19 @@ sets:
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE045
+    set_name: Raging Battle
+    rarities:
+    - Rare
+  - set_number: SDRB-AE034
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
+  - set_number: TT02-AEA17
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR045
     set_name: Raging Battle

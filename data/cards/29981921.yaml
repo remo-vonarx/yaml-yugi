@@ -219,6 +219,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR05-AE140
+    set_name: Creation Pack 05
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: STOR-KR041
     set_name: Storm of Ragnarok

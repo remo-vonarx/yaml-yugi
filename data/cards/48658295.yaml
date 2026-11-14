@@ -97,6 +97,16 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR09-AE091
+    set_name: Creation Pack 09
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
+  - set_number: CR09-AES31
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: PRTB-KR002
     set_name: Prismatic Trinity Box Limited Edition

@@ -105,6 +105,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: CR01-AE196
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBAD-KR032
     set_name: 'Deck-Build Pack: Amazing Defenders'

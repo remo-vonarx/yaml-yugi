@@ -102,6 +102,11 @@ sets:
     set_name: Extra Pack 2015
     rarities:
     - Rare
+  en-HK:
+  - set_number: PHNI-AE092
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: SECE-KR083
     set_name: Secrets of Eternity

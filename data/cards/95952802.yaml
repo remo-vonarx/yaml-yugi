@@ -123,6 +123,11 @@ sets:
     set_name: Phantom God
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-107
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
   ko:
   - set_number: LOB-K107
     set_name: Legend of Blue Eyes White Dragon

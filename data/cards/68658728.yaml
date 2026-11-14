@@ -214,6 +214,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-117
+    set_name: Metal Raiders
+    rarities:
+    - Rare
   ko:
   - set_number: MRD-K117
     set_name: Metal Raiders

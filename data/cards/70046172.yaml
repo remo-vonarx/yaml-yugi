@@ -427,6 +427,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-043
+    set_name: Magic Ruler
+    rarities:
+    - Rare
   ko:
   - set_number: SRL-K043
     set_name: Spell Ruler

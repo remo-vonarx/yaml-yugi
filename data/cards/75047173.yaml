@@ -116,6 +116,11 @@ sets:
     rarities:
     - Common
     - Ultimate Rare
+  en-HK:
+  - set_number: DI01-AE025
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: POTE-KR069
     set_name: Power of the Elements

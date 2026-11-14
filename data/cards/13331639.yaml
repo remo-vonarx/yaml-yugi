@@ -244,6 +244,20 @@ sets:
     set_name: Limit Over Special Pack Vol.2
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: AGOV-AE102
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: AGOV-AE102
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+  - set_number: AGOV-AES01
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: MACR-KR039
     set_name: Maximum Crisis

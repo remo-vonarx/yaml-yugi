@@ -801,6 +801,23 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-058
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: SDY-027
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-033
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SSD2-AE017
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K058
     set_name: Legend of Blue Eyes White Dragon

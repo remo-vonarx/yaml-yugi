@@ -162,6 +162,16 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR13-AE033
+    set_name: Creation Pack 13
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR13-AES14
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SPDS-KR006
     set_name: 'Booster SP: Destiny Soldiers'

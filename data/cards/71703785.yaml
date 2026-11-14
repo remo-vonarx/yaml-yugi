@@ -190,6 +190,14 @@ sets:
     rarities:
     - Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: ES01-AE011
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: MVPC-KR004
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions Theater distribution cards

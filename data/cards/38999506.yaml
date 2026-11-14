@@ -116,6 +116,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: BN01-AE097
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: PP05-KR001
     set_name: Premium Pack Vol.5

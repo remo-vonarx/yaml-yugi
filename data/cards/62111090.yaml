@@ -88,6 +88,11 @@ sets:
     set_name: Ignition Assault
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR07-AE012
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: IGAS-KR041
     set_name: Ignition Assault

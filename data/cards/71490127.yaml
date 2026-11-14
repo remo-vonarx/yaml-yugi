@@ -187,6 +187,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  en-HK:
+  - set_number: CRV-AE040
+    set_name: Cybernetic Revolution
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR040
     set_name: Cybernetic Revolution

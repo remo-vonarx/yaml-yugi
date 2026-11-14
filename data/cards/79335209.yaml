@@ -184,6 +184,11 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: IOC-AE002
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR002
     set_name: Invasion of Chaos

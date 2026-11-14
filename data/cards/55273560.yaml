@@ -254,6 +254,24 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DI02-AE004
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
+  - set_number: CH01-AE002
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: TFTV-AE053
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: TFTV-AES01
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: BODE-KR007
     set_name: Burst of Destiny

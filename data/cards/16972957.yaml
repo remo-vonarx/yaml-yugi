@@ -158,6 +158,15 @@ sets:
     set_name: EX-R Starter Box
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-015
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: MRD-015
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K015
     set_name: 'Starter Deck: Yugi'

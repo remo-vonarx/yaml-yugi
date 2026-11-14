@@ -144,6 +144,11 @@ sets:
     set_name: Top Prize Pack 2023 Vol.2
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: CR01-AE021
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: ETCO-KR037
     set_name: Eternity Code

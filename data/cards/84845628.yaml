@@ -102,6 +102,12 @@ sets:
     set_name: Clash of Rebellions
     rarities:
     - Common
+  en-HK:
+  - set_number: DBPR-AE049
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: CORE-KR040
     set_name: Clash of Rebellions

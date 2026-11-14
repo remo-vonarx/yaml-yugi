@@ -127,6 +127,17 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: LEDE-AE102
+    set_name: Legacy of Destruction
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+  - set_number: LEDE-AE102
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: RATE-KR041
     set_name: Raging Tempest

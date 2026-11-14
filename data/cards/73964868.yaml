@@ -256,6 +256,16 @@ sets:
     set_name: Terminal World 3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR13-AE075
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
+  - set_number: CR13-AES28
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: DS13-KRL41
     set_name: 'Duelist Set: Version Lightning Star'

@@ -124,6 +124,11 @@ sets:
     set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-033
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K033
     set_name: 'Starter Deck: Yugi'

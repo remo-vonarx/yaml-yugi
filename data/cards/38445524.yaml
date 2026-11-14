@@ -185,6 +185,11 @@ sets:
     set_name: Limited Edition 4
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BN01-AE114
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

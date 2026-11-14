@@ -122,6 +122,11 @@ sets:
     set_name: Yu-Gi-Oh! GX Volume 5 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR10-AE029
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: PP05-KR010
     set_name: Premium Pack Vol.5

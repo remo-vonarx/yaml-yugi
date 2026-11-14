@@ -84,6 +84,11 @@ sets:
     set_name: Duel Disk - Yusei Version DX - Limited Edition
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: BLZD-AEC49
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP06-KR005
     set_name: Premium Pack Vol.6

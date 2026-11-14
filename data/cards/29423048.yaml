@@ -117,6 +117,17 @@ sets:
     set_name: Age of Overlord
     rarities:
     - Rare
+  en-HK:
+  - set_number: AGOV-AE043
+    set_name: Age of Overlord
+    rarities:
+    - Rare
+  - set_number: ES02-AE070
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: AGOV-KR043
     set_name: Age of Overlord

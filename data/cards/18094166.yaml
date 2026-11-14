@@ -179,6 +179,20 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: RC04-AE004
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: DI01-AE011
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: CP19-KR010
     set_name: 'Collection Pack: Duelist of Revolution Version'

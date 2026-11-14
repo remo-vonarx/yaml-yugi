@@ -77,6 +77,11 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AEC64
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CBLZ-KR056
     set_name: Cosmo Blazer

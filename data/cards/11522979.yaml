@@ -104,6 +104,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR07-AE060
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: LVAL-KR049
     set_name: Legacy of the Valiant

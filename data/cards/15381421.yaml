@@ -142,6 +142,17 @@ sets:
     set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR10-AE086
+    set_name: Creation Pack 10
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR10-AES31
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CHIM-KR014
     set_name: Chaos Impact

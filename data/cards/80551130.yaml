@@ -163,6 +163,12 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE058
+    set_name: Enemy of Justice
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: EOJ-KR058
     set_name: Enemy of Justice

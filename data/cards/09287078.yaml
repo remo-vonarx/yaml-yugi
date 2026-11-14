@@ -141,6 +141,11 @@ sets:
     set_name: Millennium Pack (OCG)
     rarities:
     - Millennium Super Rare
+  en-HK:
+  - set_number: SDID-AEP19
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: MP01-KR027
     set_name: Millennium Pack (OCG)

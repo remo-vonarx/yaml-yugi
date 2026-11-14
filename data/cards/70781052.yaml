@@ -609,6 +609,11 @@ sets:
     set_name: 30th Anniversary Demon's Pack
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SDY-004
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K004
     set_name: 'Starter Deck: Yugi'

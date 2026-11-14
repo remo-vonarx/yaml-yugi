@@ -155,6 +155,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  en-HK:
+  - set_number: PHNI-AE090
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: TSHD-KR019
     set_name: The Shining Darkness

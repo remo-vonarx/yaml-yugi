@@ -110,6 +110,12 @@ sets:
     set_name: 'Structure Deck R: Surge of Divine Light'
     rarities:
     - Common
+  en-HK:
+  - set_number: DBJH-AE047
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP10-KR034
     set_name: Premium Pack Vol.10

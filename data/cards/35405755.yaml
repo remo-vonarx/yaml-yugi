@@ -186,6 +186,18 @@ sets:
     set_name: Limit Over Special Pack Vol.1
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES01-AE015
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
+  - set_number: TT02-AEA11
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: POTE-KR031
     set_name: Power of the Elements

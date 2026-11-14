@@ -122,6 +122,11 @@ sets:
     set_name: Duelist Alliance
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE114
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: DUEA-KR063
     set_name: Duelist Alliance

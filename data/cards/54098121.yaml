@@ -157,6 +157,11 @@ sets:
     set_name: Tournament Pack 2008 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-043
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K043
     set_name: 'Starter Deck: Kaiba'

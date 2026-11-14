@@ -130,6 +130,11 @@ sets:
     set_name: Legendary Gold Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SDSS-AE020
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: SD33-KR004
     set_name: 'Structure Deck: Powercode Link'

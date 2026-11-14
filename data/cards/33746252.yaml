@@ -182,6 +182,13 @@ sets:
     set_name: Primal Origin
     rarities:
     - Rare
+  en-HK:
+  - set_number: ES02-AE007
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PRIO-KR034
     set_name: Primal Origin

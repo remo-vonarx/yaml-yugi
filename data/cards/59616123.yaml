@@ -239,6 +239,11 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE071
+    set_name: Raging Battle
+    rarities:
+    - Rare
   ko:
   - set_number: RGBT-KR071
     set_name: Raging Battle

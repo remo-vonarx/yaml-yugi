@@ -75,6 +75,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR13-AE048
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
   ko:
   - set_number: AC01-KR010
     set_name: Animation Chronicle 2021

@@ -77,6 +77,11 @@ sets:
     set_name: Beyond the Brave
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: BETB-AE106
+    set_name: Beyond the Brave
+    rarities:
+    - Super Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Not yet released

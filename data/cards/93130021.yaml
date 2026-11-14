@@ -166,6 +166,12 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: EOJ-AE011
+    set_name: Enemy of Justice
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: EOJ-KR011
     set_name: Enemy of Justice

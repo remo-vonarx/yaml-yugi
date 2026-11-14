@@ -117,6 +117,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: 25AT-AE403
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: CPZ1-KR022
     set_name: 'Collectors Pack: ZEXAL Version'

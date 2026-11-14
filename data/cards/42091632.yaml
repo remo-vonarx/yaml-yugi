@@ -84,6 +84,13 @@ sets:
     - Ultimate Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DOOD-AE079
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DOOD-KR079
     set_name: Doom of Dimensions

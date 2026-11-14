@@ -147,6 +147,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  en-HK:
+  - set_number: BN01-AE050
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: TP14-KR005
     set_name: Tournament Pack 2012 Vol.14

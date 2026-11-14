@@ -142,6 +142,11 @@ sets:
     set_name: Blazing Dominion +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR11-AE003
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
   ko:
   - set_number: SPHR-KR017
     set_name: 'Booster SP: High-Speed Riders'

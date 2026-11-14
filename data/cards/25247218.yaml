@@ -90,6 +90,11 @@ sets:
     set_name: Duel Terminal - Invasion of Worms!!
     rarities:
     - Duel Terminal Rare Parallel Rare
+  en-HK:
+  - set_number: BLZD-AEC11
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: TDGS-KR008
     set_name: The Duelist Genesis

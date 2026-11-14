@@ -77,6 +77,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: CR03-AE063
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: PP12-KR007
     set_name: Premium Pack Vol.12

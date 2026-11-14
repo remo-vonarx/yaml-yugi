@@ -236,6 +236,11 @@ sets:
     set_name: Starter Deck 2014
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE104
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR104
     set_name: Invasion of Chaos

@@ -110,6 +110,11 @@ sets:
     set_name: Duelist Legacy Volume.3
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-036
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR036
     set_name: Labyrinth of Nightmare

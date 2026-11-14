@@ -123,6 +123,11 @@ sets:
     set_name: Premium Pack 2021
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: SUDA-AE104
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: PP15-KR029
     set_name: Premium Pack Vol.15

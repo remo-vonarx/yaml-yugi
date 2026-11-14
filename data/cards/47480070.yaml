@@ -156,6 +156,11 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-059
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR059
     set_name: Magician's Force

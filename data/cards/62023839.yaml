@@ -113,6 +113,11 @@ sets:
     set_name: Tournament Pack 2020 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE092
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: PR03-KR009
     set_name: Promotion Pack 2013 Vol.3

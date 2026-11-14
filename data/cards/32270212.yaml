@@ -112,6 +112,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: LEDE-AE053
+    set_name: Legacy of Destruction
+    rarities:
+    - Rare
   ko:
   - set_number: LEDE-KR053
     set_name: Legacy of Destruction

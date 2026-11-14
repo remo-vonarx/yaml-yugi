@@ -148,6 +148,11 @@ sets:
     set_name: "Structure Deck: Spellcaster's Judgment"
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE033
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR033
     set_name: Ancient Sanctuary

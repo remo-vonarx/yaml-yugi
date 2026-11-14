@@ -232,6 +232,14 @@ sets:
     set_name: Limit Over Special Pack Vol.2
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES01-AE052
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: BLVO-KR050
     set_name: Blazing Vortex

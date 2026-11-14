@@ -92,6 +92,18 @@ sets:
     - Ultra Parallel Rare
     - Secret Parallel Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR13-AE085
+    set_name: Creation Pack 13
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR13-AES31
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: TW03-KR043
     set_name: Terminal World 3

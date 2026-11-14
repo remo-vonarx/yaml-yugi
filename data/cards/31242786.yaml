@@ -51,6 +51,11 @@ sets:
     set_name: Pharaonic Guardian (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-003
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR003
     set_name: Pharaonic Guardian

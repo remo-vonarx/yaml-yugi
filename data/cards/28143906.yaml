@@ -122,6 +122,11 @@ sets:
     set_name: 'Structure Deck: Lord of the Storm'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE015
+    set_name: Rise of Destiny
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR015
     set_name: Rise of Destiny

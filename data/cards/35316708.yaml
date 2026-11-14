@@ -122,6 +122,15 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: PSV-007
+    set_name: Pharaoh's Servant
+    rarities:
+    - Short Print
+  - set_number: 24AT-AE421
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K007
     set_name: Pharaoh's Servant

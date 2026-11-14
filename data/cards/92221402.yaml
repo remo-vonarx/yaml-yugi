@@ -105,6 +105,16 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ALIN-AE067
+    set_name: Alliance Insight
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: ALIN-AE067
+    set_name: Alliance Insight +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: ALIN-KR067
     set_name: Alliance Insight

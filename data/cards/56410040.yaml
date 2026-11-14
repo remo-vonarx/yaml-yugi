@@ -152,6 +152,11 @@ sets:
     set_name: Premium Pack 13
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: BLZD-AEC54
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP06-KR021
     set_name: Premium Pack Vol.6

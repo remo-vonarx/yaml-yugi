@@ -78,6 +78,11 @@ sets:
     set_name: Rage of the Abyss
     rarities:
     - Common
+  en-HK:
+  - set_number: ROTA-AE007
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ko:
   - set_number: ROTA-KR007
     set_name: Rage of the Abyss

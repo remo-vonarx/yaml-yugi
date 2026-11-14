@@ -110,6 +110,11 @@ sets:
     set_name: Savage Strike
     rarities:
     - Rare
+  en-HK:
+  - set_number: DUAD-AE100
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ko:
   - set_number: SAST-KR042
     set_name: Savage Strike

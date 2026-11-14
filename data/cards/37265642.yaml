@@ -260,6 +260,11 @@ sets:
     set_name: "Structure Deck R: Tyranno's Rage"
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE130
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: POTD-KR002
     set_name: Power of the Duelist

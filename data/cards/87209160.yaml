@@ -163,6 +163,16 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: TFTV-AE015
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: LAVD-AEL14
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR008
     set_name: Phantom Rage

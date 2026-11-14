@@ -74,6 +74,11 @@ sets:
     set_name: Savage Strike
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: 26AT-AE118
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SAST-KR070
     set_name: Savage Strike

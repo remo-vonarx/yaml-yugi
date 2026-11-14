@@ -136,6 +136,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBPR-AE045
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DAMA-KR067
     set_name: Dawn of Majesty

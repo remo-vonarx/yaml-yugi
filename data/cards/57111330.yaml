@@ -150,6 +150,11 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE087
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Super Rare
   ko:
   - set_number: DIFO-KR005
     set_name: Dimension Force

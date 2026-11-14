@@ -128,6 +128,11 @@ sets:
     set_name: The Infinite Forbidden
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE079
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR079
     set_name: The Infinite Forbidden

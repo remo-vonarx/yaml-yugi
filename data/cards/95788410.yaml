@@ -127,6 +127,11 @@ sets:
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE146
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: PHSW-KR002
     set_name: Photon Shockwave

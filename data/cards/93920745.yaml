@@ -359,6 +359,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BPRO-AEC53
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SDJ-KR022
     set_name: 'Starter Deck: Joey'

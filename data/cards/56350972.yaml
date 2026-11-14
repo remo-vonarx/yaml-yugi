@@ -163,6 +163,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE098
+    set_name: Phantom Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: DUEA-KR050
     set_name: Duelist Alliance

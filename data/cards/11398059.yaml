@@ -183,6 +183,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: 24AT-AE302
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: LTGY-KR056
     set_name: Lord of the Tachyon Galaxy

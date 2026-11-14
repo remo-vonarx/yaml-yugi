@@ -148,6 +148,11 @@ sets:
     set_name: 'Structure Deck: Machine Re-Volt'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE041
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR041
     set_name: Ancient Sanctuary

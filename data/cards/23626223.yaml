@@ -135,6 +135,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: 24AT-AE424
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CROS-KR078
     set_name: Crossed Souls

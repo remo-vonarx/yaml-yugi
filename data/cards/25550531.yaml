@@ -151,6 +151,18 @@ sets:
     set_name: Ultimate Special Pack
     rarities:
     - Ultimate Rare
+  en-HK:
+  - set_number: CR01-AE177
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR01-AES25
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBAD-KR013
     set_name: 'Deck-Build Pack: Amazing Defenders'

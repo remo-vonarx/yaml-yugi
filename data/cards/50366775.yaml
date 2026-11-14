@@ -112,6 +112,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDSS-AE019
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: LVB1-KR002
     set_name: LINK VRAINS Box

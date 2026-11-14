@@ -76,6 +76,11 @@ sets:
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC60
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SD27-KR019
     set_name: "Structure Deck: HERO's Strike"

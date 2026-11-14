@@ -201,6 +201,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DCR-076
+    set_name: Dark Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: DCR-KR076
     set_name: Dark Crisis

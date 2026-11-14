@@ -968,6 +968,16 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CRV-AE015
+    set_name: Cybernetic Revolution
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: ALIN-AE081
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR015
     set_name: Cybernetic Revolution

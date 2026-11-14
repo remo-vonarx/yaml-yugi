@@ -186,6 +186,16 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: PGD-034
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
+  - set_number: DBPR-AE057
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PGD-KR034
     set_name: Pharaonic Guardian

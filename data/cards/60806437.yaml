@@ -301,6 +301,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-081
+    set_name: Magic Ruler
+    rarities:
+    - Rare
   ko:
   - set_number: SRL-K081
     set_name: Spell Ruler

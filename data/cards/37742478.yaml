@@ -460,6 +460,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SDRB-AE019
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR001
     set_name: Light of Destruction

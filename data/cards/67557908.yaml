@@ -122,6 +122,19 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: PHNI-AE106
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: PHNI-AE106
+    set_name: Phantom Nightmare +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AC01-KR030
     set_name: Animation Chronicle 2021

@@ -164,6 +164,15 @@ sets:
     set_name: Duelist Legacy Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-031
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: MRD-047
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K031
     set_name: 'Starter Deck: Kaiba'

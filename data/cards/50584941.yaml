@@ -75,6 +75,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: BLZD-AEC20
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP11-KR020
     set_name: Premium Pack Vol.11

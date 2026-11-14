@@ -129,6 +129,11 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: BETB-AEC46
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP17-KR039
     set_name: Premium Pack Vol.17

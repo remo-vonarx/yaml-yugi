@@ -153,6 +153,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CORI-AEC63
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR066
     set_name: Phantom Rage

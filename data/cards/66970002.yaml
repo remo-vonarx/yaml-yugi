@@ -130,6 +130,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AEC23
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ST13-KRV01
     set_name: Starter Deck 2013 Enhancement Pack

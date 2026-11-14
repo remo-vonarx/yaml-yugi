@@ -400,6 +400,17 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES01-AE048
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AEO36
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: CHIM-KR049
     set_name: Chaos Impact

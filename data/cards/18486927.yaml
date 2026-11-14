@@ -129,6 +129,11 @@ sets:
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR04-AE010
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: SR03-KR000
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'

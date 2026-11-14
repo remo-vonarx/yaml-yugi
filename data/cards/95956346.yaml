@@ -361,6 +361,11 @@ sets:
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-088
+    set_name: Magic Ruler
+    rarities:
+    - Rare
   ko:
   - set_number: SRL-K088
     set_name: Spell Ruler

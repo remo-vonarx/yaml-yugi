@@ -140,6 +140,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBJH-AE027
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Super Rare
   ko:
   - set_number: IGAS-KR049
     set_name: Ignition Assault

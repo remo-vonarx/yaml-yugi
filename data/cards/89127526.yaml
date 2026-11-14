@@ -124,6 +124,11 @@ sets:
     set_name: Storm of Ragnarok
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC03
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: STOR-KR006
     set_name: Storm of Ragnarok

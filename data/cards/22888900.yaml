@@ -98,6 +98,11 @@ sets:
     set_name: Shadow Specters
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE321
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SHSP-KR078
     set_name: Shadow Specters

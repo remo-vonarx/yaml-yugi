@@ -246,6 +246,11 @@ sets:
     set_name: 'Structure Deck R: Surge of Divine Light'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE053
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR053
     set_name: Ancient Sanctuary

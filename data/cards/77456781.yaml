@@ -77,6 +77,11 @@ sets:
     set_name: Booster 4
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC43
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

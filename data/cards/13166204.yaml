@@ -77,6 +77,11 @@ sets:
     set_name: Return of the Duelist
     rarities:
     - Rare
+  en-HK:
+  - set_number: DOOD-AEC12
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR067
     set_name: Return of the Duelist

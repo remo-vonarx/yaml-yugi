@@ -169,6 +169,11 @@ sets:
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE100
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: PP08-KR028
     set_name: Premium Pack Vol.8

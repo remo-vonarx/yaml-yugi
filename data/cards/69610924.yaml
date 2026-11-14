@@ -265,6 +265,11 @@ sets:
     set_name: Animation Chronicle 2021
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: 24AT-AE411
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: GENF-KR039
     set_name: Generation Force

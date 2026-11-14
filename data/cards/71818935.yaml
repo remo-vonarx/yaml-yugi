@@ -117,6 +117,19 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: SUDA-AE112
+    set_name: Supreme Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: SUDA-AE112
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: 24PP-KRB26
     set_name: Premium Pack 2024 2nd Wave

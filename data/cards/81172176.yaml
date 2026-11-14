@@ -60,6 +60,11 @@ sets:
     set_name: Advanced Tournament Pack 2014 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-098
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR098
     set_name: Legacy of Darkness

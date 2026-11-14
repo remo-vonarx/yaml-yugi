@@ -140,6 +140,13 @@ sets:
     set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SLF1-AE088
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: BODE-KR051
     set_name: Burst of Destiny

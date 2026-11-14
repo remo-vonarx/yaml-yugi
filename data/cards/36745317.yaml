@@ -80,6 +80,11 @@ sets:
     set_name: Power of the Elements
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE165
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: POTE-KR017
     set_name: Power of the Elements

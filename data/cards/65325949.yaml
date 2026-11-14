@@ -82,6 +82,12 @@ sets:
     set_name: Beyond the Brave
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE010
+    set_name: Beyond the Brave
+    rarities:
+    - Common
+    - Prismatic Secret Rare
   ko:
   - set_number: BETB-KR010
     set_name: Beyond the Brave

@@ -117,6 +117,17 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR09-AE078
+    set_name: Creation Pack 09
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR09-AES24
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP6-KR031
     set_name: World Premiere Pack 2025

@@ -72,6 +72,11 @@ sets:
     set_name: Duelist Edition Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE055
+    set_name: Crimson Crisis
+    rarities:
+    - Common
   ko:
   - set_number: CRMS-KR055
     set_name: Crimson Crisis

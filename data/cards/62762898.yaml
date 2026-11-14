@@ -122,6 +122,11 @@ sets:
     set_name: 'Structure Deck: Pegasus'
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE054
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP2-KR028
     set_name: 'Tournament Pack: 2nd Season'

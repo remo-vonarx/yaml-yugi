@@ -138,6 +138,13 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SLF1-AE010
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: CPL1-KR038
     set_name: 'Collectors Pack: Duelist of Legend Version'

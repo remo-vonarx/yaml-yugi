@@ -305,6 +305,16 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: RC04-AE007
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DUEA-KR034
     set_name: Duelist Alliance

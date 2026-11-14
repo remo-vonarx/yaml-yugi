@@ -124,6 +124,11 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DUNE-AE066
+    set_name: Duelist Nexus
+    rarities:
+    - Rare
   ko:
   - set_number: DUNE-KR066
     set_name: Duelist Nexus

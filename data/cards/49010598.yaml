@@ -215,6 +215,12 @@ sets:
     set_name: Duel Terminal - Charge of the Genex!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: RDS-AE050
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: RDS-KR050
     set_name: Rise of Destiny

@@ -93,6 +93,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: DOOD-AE109
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: FLOD-KR041
     set_name: Flames of Destruction

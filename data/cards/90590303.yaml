@@ -217,6 +217,19 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: LEDE-AE107
+    set_name: Legacy of Destruction
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
+  - set_number: LEDE-AE107
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CP17-KR042
     set_name: Collectors Pack 2017

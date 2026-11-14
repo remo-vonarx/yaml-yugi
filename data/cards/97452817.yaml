@@ -90,6 +90,11 @@ sets:
     set_name: Light of Destruction
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE090
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR015
     set_name: Light of Destruction

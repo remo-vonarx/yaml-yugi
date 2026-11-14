@@ -130,6 +130,12 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AE101
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP7-KR053
     set_name: World Premiere Pack 2026

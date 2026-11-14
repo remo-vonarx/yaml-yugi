@@ -156,6 +156,15 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: IOC-AE004
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: BN01-AE119
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR004
     set_name: Invasion of Chaos

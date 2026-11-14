@@ -90,6 +90,15 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-031
+    set_name: Magician's Force
+    rarities:
+    - Common
+  - set_number: SDSS-AEP10
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: MFC-KR031
     set_name: Magician's Force

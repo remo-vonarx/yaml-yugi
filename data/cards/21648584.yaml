@@ -159,6 +159,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE060
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: SECE-KR070
     set_name: Secrets of Eternity

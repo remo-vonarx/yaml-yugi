@@ -179,6 +179,12 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Rare
+  en-HK:
+  - set_number: EOJ-AE013
+    set_name: Enemy of Justice
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: SD8-KR017
     set_name: 'Structure Deck: Lord of the Storm'

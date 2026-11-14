@@ -183,6 +183,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR07-AE080
+    set_name: Creation Pack 07
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: RATE-KR019
     set_name: Raging Tempest

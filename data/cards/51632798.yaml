@@ -159,6 +159,12 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE031
+    set_name: Rise of Destiny
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: RDS-KR031
     set_name: Rise of Destiny

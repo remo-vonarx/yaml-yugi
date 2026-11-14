@@ -90,6 +90,15 @@ sets:
     set_name: Yu-Gi-Oh! OCG Structures Volume 6 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DUNE-AE096
+    set_name: Duelist Nexus
+    rarities:
+    - Super Rare
+  - set_number: DUNE-AE096
+    set_name: Duelist Nexus +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: 23PP-KRB24
     set_name: Premium Pack 2023 2nd Wave

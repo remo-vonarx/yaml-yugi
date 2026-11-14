@@ -98,6 +98,11 @@ sets:
     set_name: EX-R Starter Box
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-039
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K039
     set_name: 'Starter Deck: Kaiba'

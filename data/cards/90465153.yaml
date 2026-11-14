@@ -125,6 +125,11 @@ sets:
     set_name: Winner's Pack 2025 Vol.4
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: CR01-AE070
+    set_name: Creation Pack 01
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: CYAC-KR043
     set_name: Cyberstorm Access

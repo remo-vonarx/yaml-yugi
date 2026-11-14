@@ -132,6 +132,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: LEDE-AE060
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: LEDE-KR060
     set_name: Legacy of Destruction

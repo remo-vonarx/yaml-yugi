@@ -215,6 +215,11 @@ sets:
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE052
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   ko:
   - set_number: IOC-KR052
     set_name: Invasion of Chaos

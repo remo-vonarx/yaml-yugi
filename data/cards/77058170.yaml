@@ -161,6 +161,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: 24AT-AE314
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EXFO-KR039
     set_name: Extreme Force

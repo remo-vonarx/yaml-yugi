@@ -316,6 +316,11 @@ sets:
     set_name: 20th Anniversary Pack 2nd Wave
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CRMS-AE008
+    set_name: Crimson Crisis
+    rarities:
+    - Common
   ko:
   - set_number: CRMS-KR008
     set_name: Crimson Crisis

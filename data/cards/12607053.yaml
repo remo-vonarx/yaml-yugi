@@ -422,6 +422,11 @@ sets:
     set_name: 'Structure Deck: Master Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-040
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K040
     set_name: 'Starter Deck: Yugi'

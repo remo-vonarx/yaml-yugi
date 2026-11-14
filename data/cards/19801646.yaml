@@ -202,6 +202,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of the Abyss'
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC54
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP18-KR015
     set_name: 'Duelist Pack: Legend Duelist'

@@ -78,6 +78,13 @@ sets:
     - Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CORI-AE056
+    set_name: Chaos Origins
+    rarities:
+    - Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CORI-KR056
     set_name: Chaos Origins

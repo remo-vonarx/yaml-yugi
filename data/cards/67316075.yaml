@@ -108,6 +108,11 @@ sets:
     set_name: Yu-Gi-Oh! GX Tag Force Evolution promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: 25AT-AE405
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PP04-KR025
     set_name: Premium Pack Vol.4

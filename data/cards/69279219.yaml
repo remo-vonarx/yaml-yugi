@@ -215,6 +215,11 @@ sets:
     set_name: Duel Terminal - Vylon Descends!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: MFC-092
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR092
     set_name: Magician's Force

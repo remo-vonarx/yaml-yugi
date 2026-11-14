@@ -154,6 +154,11 @@ sets:
     set_name: Starter Deck 2010
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-001
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR001
     set_name: Dark Crisis

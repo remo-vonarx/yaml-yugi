@@ -80,6 +80,11 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SUDA-AE069
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: SUDA-KR069
     set_name: Supreme Darkness

@@ -108,6 +108,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CORI-AE102
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: SAST-KR026
     set_name: Savage Strike

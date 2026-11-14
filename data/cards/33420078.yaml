@@ -282,6 +282,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 25AT-AE406
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CSOC-KR031
     set_name: Crossroads of Chaos

@@ -170,6 +170,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DI02-AE025
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
   ko:
   - set_number: CHIM-KR035
     set_name: Chaos Impact

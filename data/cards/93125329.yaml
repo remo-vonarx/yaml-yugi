@@ -118,6 +118,16 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: LEDE-AE106
+    set_name: Legacy of Destruction
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: LEDE-AE106
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP4-KR052
     set_name: World Premiere Pack 2023

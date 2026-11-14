@@ -1206,6 +1206,29 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-059
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDID-AE029
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: DI01-AE015
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
+  - set_number: DBJH-AE014
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
+  - set_number: LAVD-AEL19
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K059
     set_name: Legend of Blue Eyes White Dragon

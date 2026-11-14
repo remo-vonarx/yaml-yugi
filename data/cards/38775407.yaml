@@ -124,6 +124,16 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: INFO-AE001
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: INFO-AE001
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: INFO-KR001
     set_name: The Infinite Forbidden

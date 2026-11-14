@@ -72,6 +72,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE058
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR058
     set_name: Raging Battle

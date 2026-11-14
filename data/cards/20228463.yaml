@@ -142,6 +142,15 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-092
+    set_name: Magic Ruler
+    rarities:
+    - Common
+  - set_number: 25AT-AE305
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K092
     set_name: Spell Ruler

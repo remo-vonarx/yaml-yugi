@@ -100,6 +100,11 @@ sets:
     set_name: 'Booster SP: Destiny Soldiers'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR13-AE049
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: SPDS-KR008
     set_name: 'Booster SP: Destiny Soldiers'

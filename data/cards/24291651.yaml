@@ -130,6 +130,11 @@ sets:
     set_name: Starter Deck 2013
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC02
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: YSD6-KR006
     set_name: Starter Deck 2011

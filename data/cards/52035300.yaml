@@ -133,6 +133,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE207
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PTDN-KR029
     set_name: Phantom Darkness

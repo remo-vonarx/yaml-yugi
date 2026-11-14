@@ -122,6 +122,11 @@ sets:
     set_name: Beginner's Edition 1
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-087
+    set_name: Pharaoh's Servant
+    rarities:
+    - Short Print
   ko:
   - set_number: PSV-K087
     set_name: Pharaoh's Servant

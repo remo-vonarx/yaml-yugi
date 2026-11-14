@@ -192,6 +192,11 @@ sets:
     set_name: Blazing Dominion +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AES08
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: RATE-KR035
     set_name: Raging Tempest

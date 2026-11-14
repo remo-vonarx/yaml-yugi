@@ -103,6 +103,11 @@ sets:
     set_name: Advanced Tournament Pack 2013 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE137
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: YSD3-KR001
     set_name: Starter Deck 2008

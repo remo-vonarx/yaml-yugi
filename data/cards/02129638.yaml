@@ -202,6 +202,14 @@ sets:
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Common
+  en-HK:
+  - set_number: ES01-AE020
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SHVI-KR085
     set_name: Shining Victories

@@ -143,6 +143,19 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ROTA-AE108
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ROTA-AE108
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DP26-KR003
     set_name: 'Duelist Pack: Duelists of the Abyss'

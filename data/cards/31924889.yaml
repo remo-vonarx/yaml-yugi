@@ -163,6 +163,11 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE043
+    set_name: Crimson Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: CRMS-KR043
     set_name: Crimson Crisis

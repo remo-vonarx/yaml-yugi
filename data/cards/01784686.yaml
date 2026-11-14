@@ -235,6 +235,11 @@ sets:
     rarities:
     - Common
     - Ultimate Rare
+  en-HK:
+  - set_number: SDID-AEP13
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: CPL1-KR005
     set_name: 'Collectors Pack: Duelist of Legend Version'

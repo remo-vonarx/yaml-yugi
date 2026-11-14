@@ -142,6 +142,15 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE038
+    set_name: Creation Pack 08
+    rarities:
+    - Common
+  - set_number: LAVD-AEL30
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SHVI-KR047
     set_name: Shining Victories

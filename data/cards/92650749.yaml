@@ -141,6 +141,11 @@ sets:
     set_name: Phantom Nightmare
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE055
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: PHNI-KR055
     set_name: Phantom Nightmare

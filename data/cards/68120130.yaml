@@ -108,6 +108,11 @@ sets:
     set_name: Promotion Pack 2
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC55
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PR02-KR011
     set_name: Promotion Pack 2012 Vol.2

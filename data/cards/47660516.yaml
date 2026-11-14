@@ -185,6 +185,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Brilliance'
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE112
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR060
     set_name: Lord of the Tachyon Galaxy

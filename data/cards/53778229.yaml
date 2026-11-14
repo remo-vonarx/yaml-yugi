@@ -122,6 +122,13 @@ sets:
     set_name: Advanced Tournament Pack 2014 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE085
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: TSHD-KR060
     set_name: The Shining Darkness

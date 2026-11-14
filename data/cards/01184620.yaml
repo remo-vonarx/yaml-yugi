@@ -206,6 +206,15 @@ sets:
     set_name: Beginner's Edition 1
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-009
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: MRD-010
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K009
     set_name: 'Starter Deck: Kaiba'

@@ -81,6 +81,11 @@ sets:
     set_name: Maximum Crisis
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC40
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: MACR-KR011
     set_name: Maximum Crisis

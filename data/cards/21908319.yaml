@@ -108,6 +108,12 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: TLM-AE052
+    set_name: The Lost Millennium
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: TLM-KR052
     set_name: The Lost Millennium

@@ -119,6 +119,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.4
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE095
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR048
     set_name: Lord of the Tachyon Galaxy

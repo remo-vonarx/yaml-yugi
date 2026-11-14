@@ -84,6 +84,11 @@ sets:
     set_name: 'Structure Deck: Surge of Radiance'
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE017
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR017
     set_name: Enemy of Justice

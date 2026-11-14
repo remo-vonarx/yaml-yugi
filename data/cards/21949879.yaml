@@ -127,6 +127,15 @@ sets:
     set_name: Dimension Force
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE090
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  - set_number: LAVD-AEO13
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: DIFO-KR001
     set_name: Dimension Force

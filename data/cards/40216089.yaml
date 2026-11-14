@@ -161,6 +161,13 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: ES02-AE073
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP14-KRB27
     set_name: Premium Pack Vol.14 2nd Wave

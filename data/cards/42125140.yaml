@@ -95,6 +95,12 @@ sets:
     set_name: Burst Protocol
     rarities:
     - Rare
+  en-HK:
+  - set_number: BPRO-AE037
+    set_name: Burst Protocol
+    rarities:
+    - Rare
+    - Secret Rare
   ko:
   - set_number: BPRO-KR037
     set_name: Burst Protocol

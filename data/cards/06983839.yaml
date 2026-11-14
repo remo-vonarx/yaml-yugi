@@ -270,6 +270,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 24AT-AE312
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EP17-KR050
     set_name: Extra Pack 2017

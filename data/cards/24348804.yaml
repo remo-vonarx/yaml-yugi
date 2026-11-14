@@ -150,6 +150,11 @@ sets:
     set_name: Crossed Souls
     rarities:
     - Rare
+  en-HK:
+  - set_number: 25AT-AE304
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: CROS-KR075
     set_name: Crossed Souls

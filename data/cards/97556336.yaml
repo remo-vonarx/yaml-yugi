@@ -187,6 +187,12 @@ sets:
     set_name: Tournament Pack 2026 Vol.1
     rarities:
     - Secret Rare (Special Blue Version)
+  en-HK:
+  - set_number: DUAD-AE008
+    set_name: Duelist's Advance
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUAD-KR008
     set_name: Duelist's Advance

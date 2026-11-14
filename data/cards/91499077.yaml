@@ -117,6 +117,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 6'
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE203
+    set_name: Tournament Pack 2025 Vol.2 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP15-KR053
     set_name: Extra Pack 2015

@@ -229,6 +229,16 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: FET-AE009
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: DUAD-AES14
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: FET-KR009
     set_name: Flaming Eternity

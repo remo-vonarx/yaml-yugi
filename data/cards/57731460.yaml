@@ -97,6 +97,11 @@ sets:
     set_name: Duelist Edition Volume 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR06-AE052
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
   ko:
   - set_number: TDGS-KR024
     set_name: The Duelist Genesis

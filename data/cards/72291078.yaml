@@ -113,6 +113,21 @@ sets:
     set_name: Tournament Pack 2024 Vol.4
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: CR06-AE089
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: CR06-AES25
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Secret Rare
+  - set_number: LAVD-AES14
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PRIO-KR026
     set_name: Primal Origin

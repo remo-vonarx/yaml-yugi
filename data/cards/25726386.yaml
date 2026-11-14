@@ -83,6 +83,11 @@ sets:
     - Secret Rare
     - 20th Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: DOOD-AE099
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: IGAS-KR040
     set_name: Ignition Assault

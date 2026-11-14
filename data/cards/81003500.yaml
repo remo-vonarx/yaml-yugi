@@ -139,6 +139,11 @@ sets:
     set_name: Advanced Tournament Pack 2014 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: EOJ-AE036
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR036
     set_name: Enemy of Justice

@@ -110,6 +110,11 @@ sets:
     set_name: Tournament Pack 2022 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: DUAD-AES12
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DREV-KR057
     set_name: Duelist Revolution

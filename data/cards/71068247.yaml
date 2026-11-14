@@ -149,6 +149,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: DOOD-AES20
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EXP6-KR047
     set_name: 'Extra Pack: Sword of Knights'

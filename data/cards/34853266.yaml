@@ -204,6 +204,11 @@ sets:
     set_name: 20th Anniversary Pack 1st Wave
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DCR-075
+    set_name: Dark Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: DCR-KR075
     set_name: Dark Crisis

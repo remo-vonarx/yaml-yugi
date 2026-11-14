@@ -146,6 +146,13 @@ sets:
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
+  en-HK:
+  - set_number: ES01-AE016
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SYP1-KR097
     set_name: 'Synergy Pack 01: Syncro Acceleration'

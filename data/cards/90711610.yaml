@@ -151,6 +151,11 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: PHNI-AE061
+    set_name: Phantom Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: PHNI-KR061
     set_name: Phantom Nightmare

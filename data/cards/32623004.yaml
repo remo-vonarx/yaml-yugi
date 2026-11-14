@@ -84,6 +84,11 @@ sets:
     set_name: Tournament Pack 2020 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC57
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PRIO-KR037
     set_name: Primal Origin

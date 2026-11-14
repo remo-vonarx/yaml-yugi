@@ -145,6 +145,11 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: 24AT-AE501
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DIFO-KR007
     set_name: Dimension Force

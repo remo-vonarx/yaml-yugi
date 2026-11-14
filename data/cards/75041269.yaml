@@ -168,6 +168,16 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Rare
+  en-HK:
+  - set_number: EOJ-AE048
+    set_name: Enemy of Justice
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: CR13-AE044
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR048
     set_name: Enemy of Justice

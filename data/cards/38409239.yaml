@@ -107,6 +107,11 @@ sets:
     set_name: World Premiere Pack 2023
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE089
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: WPP4-KR027
     set_name: World Premiere Pack 2023

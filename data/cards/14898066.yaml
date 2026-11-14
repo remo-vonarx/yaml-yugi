@@ -276,6 +276,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BN01-AE105
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: SDS-KR002
     set_name: 'Structure Deck: Special Set 2'

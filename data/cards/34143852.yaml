@@ -93,6 +93,12 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: DBCB-AE047
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: ABYR-KR008
     set_name: Abyss Rising

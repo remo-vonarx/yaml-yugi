@@ -306,6 +306,11 @@ sets:
     set_name: Area Championship 2024 June prize card
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: LON-000
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
   ko:
   - set_number: LON-KR000
     set_name: Labyrinth of Nightmare

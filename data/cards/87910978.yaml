@@ -481,6 +481,16 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: TLM-AE038
+    set_name: The Lost Millennium
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: 25AT-AE118
+    set_name: Tournament Pack 2025 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: TLM-KR038
     set_name: The Lost Millennium

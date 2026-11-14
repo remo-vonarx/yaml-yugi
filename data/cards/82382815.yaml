@@ -157,6 +157,11 @@ sets:
     set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE040
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: PHSW-KR074
     set_name: Photon Shockwave

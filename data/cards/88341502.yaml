@@ -92,6 +92,11 @@ sets:
     set_name: 'Duelist Pack: Crow'
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE069
+    set_name: Crimson Crisis
+    rarities:
+    - Common
   ko:
   - set_number: CRMS-KR069
     set_name: Crimson Crisis

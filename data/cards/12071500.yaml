@@ -220,6 +220,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR06-AE013
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: CR06-AES04
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DP06-KR024
     set_name: 'Duelist Pack: Jaden Yuki 3'

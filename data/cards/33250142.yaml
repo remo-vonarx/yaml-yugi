@@ -118,6 +118,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: INFO-AE095
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR040
     set_name: Burst of Destiny

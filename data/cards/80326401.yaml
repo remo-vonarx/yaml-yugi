@@ -94,6 +94,18 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR07-AE075
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR07-AES19
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD47-KR018
     set_name: 'Structure Deck: Advent of the Eyes of Blue'

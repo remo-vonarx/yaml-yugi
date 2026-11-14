@@ -100,6 +100,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR04-AE091
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: DBVS-KR039
     set_name: 'Deck-Build Pack: Valiant Smashers'

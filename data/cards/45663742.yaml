@@ -110,6 +110,11 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: AGOV-AE008
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: AGOV-KR008
     set_name: Age of Overlord

@@ -119,6 +119,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: INFO-AE098
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR046
     set_name: Burst of Destiny

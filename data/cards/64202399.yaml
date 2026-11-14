@@ -202,6 +202,16 @@ sets:
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Common
+  en-HK:
+  - set_number: RC04-AE017
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LGB1-KR005
     set_name: Legendary Gold Set

@@ -80,6 +80,11 @@ sets:
     set_name: 'Deck-Build Pack: Ancient Guardians'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR02-AE102
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBAG-KR005
     set_name: 'Deck-Build Pack: Ancient Guardians'

@@ -191,6 +191,12 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: TFTV-AE136
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CYAC-KR041
     set_name: Cyberstorm Access

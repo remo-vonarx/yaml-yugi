@@ -101,6 +101,11 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Rare
+  en-HK:
+  - set_number: LEDE-AE116
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: RATE-KR070
     set_name: Raging Tempest

@@ -74,6 +74,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Pyroxene'
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE054
+    set_name: Raging Battle
+    rarities:
+    - Rare
   ko:
   - set_number: RGBT-KR054
     set_name: Raging Battle

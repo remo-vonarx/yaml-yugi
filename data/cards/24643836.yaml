@@ -156,6 +156,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 2'
     rarities:
     - Common
+  en-HK:
+  - set_number: EEN-AE040
+    set_name: Elemental Energy
+    rarities:
+    - Common
   ko:
   - set_number: DP2-KR020
     set_name: 'Duelist Pack: Chazz Princeton'

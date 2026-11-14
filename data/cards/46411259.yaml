@@ -183,6 +183,17 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: PGD-090
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
+  - set_number: ES02-AE080
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PGD-KR090
     set_name: Pharaonic Guardian

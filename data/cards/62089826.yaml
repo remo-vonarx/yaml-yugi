@@ -169,6 +169,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE036
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP2-KR065
     set_name: World Premiere Pack 2021

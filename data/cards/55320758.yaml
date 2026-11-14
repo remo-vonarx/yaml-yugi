@@ -113,6 +113,11 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ROTA-AE012
+    set_name: Rage of the Abyss
+    rarities:
+    - Rare
   ko:
   - set_number: ROTA-KR012
     set_name: Rage of the Abyss

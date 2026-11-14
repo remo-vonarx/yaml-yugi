@@ -104,6 +104,11 @@ sets:
     set_name: Chaos Impact
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC64
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CHIM-KR007
     set_name: Chaos Impact

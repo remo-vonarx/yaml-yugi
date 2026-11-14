@@ -135,6 +135,11 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ROTA-AE055
+    set_name: Rage of the Abyss
+    rarities:
+    - Rare
   ko:
   - set_number: ROTA-KR055
     set_name: Rage of the Abyss

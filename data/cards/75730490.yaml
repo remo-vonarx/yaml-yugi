@@ -123,6 +123,11 @@ sets:
     set_name: 'Deck-Build Pack: Tactical Masters'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR02-AE115
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBTM-KR016
     set_name: 'Deck-Build Pack: Tactical Masters'

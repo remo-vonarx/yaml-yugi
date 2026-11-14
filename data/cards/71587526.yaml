@@ -179,6 +179,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SOI-AE053
+    set_name: Shadow of Infinity
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR053
     set_name: Shadow of Infinity

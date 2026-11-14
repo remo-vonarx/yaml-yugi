@@ -211,6 +211,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SDSS-AE044
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: SDSS-AEP05
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SOFU-KR040
     set_name: Soul Fusion

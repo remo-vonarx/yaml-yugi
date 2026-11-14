@@ -158,6 +158,11 @@ sets:
     set_name: 'Memories of the Duel King: Ceremonial Battle Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-100
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR100
     set_name: Magician's Force

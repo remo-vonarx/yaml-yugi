@@ -199,6 +199,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE208
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: STBL-KR018
     set_name: Starstrike Blast

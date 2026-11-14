@@ -127,6 +127,12 @@ sets:
     rarities:
     - Common
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DOOD-AE021
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+    - Prismatic Secret Rare
   ko:
   - set_number: DOOD-KR021
     set_name: Doom of Dimensions

@@ -100,6 +100,11 @@ sets:
     set_name: Extra Pack Volume 2
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BPRO-AEC36
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: EXP2-KR031
     set_name: Extra Pack Volume 2

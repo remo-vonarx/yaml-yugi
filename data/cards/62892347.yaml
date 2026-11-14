@@ -105,6 +105,11 @@ sets:
     set_name: Duelist Edition Volume 2
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE082
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR008
     set_name: Light of Destruction

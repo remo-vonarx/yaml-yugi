@@ -88,6 +88,13 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES02-AE027
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DP27-KR021
     set_name: 'Duelist Pack: Duelists of Pyroxene'

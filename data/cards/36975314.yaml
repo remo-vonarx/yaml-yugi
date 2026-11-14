@@ -161,6 +161,16 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SDRB-AEP18
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Super Rare
+  - set_number: DBPR-AE015
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DANE-KR078
     set_name: Dark Neostorm

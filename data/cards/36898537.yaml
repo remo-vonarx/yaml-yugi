@@ -169,6 +169,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  en-HK:
+  - set_number: 24AT-AE513
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SECE-KR049
     set_name: Secrets of Eternity

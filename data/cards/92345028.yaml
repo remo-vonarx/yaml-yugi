@@ -130,6 +130,11 @@ sets:
     set_name: Rising Rampage
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AE030
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: RIRA-KR054
     set_name: Rising Rampage

@@ -157,6 +157,11 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH02-AE017
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR020
     set_name: Phantom Rage

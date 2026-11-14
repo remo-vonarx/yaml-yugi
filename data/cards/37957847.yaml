@@ -203,6 +203,11 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: IOC-AE080
+    set_name: Invasion of Chaos
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IOC-KR080
     set_name: Invasion of Chaos

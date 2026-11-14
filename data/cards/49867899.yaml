@@ -157,6 +157,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: INFO-AE047
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR047
     set_name: The Infinite Forbidden

@@ -98,6 +98,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR05-AE089
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: YZ04-KR001
     set_name: Yu-Gi-Oh! ZEXAL Volume 4 promotional card

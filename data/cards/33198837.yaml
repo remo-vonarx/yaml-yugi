@@ -275,6 +275,13 @@ sets:
     set_name: Tournament Pack 2022 Vol.2
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ES02-AE047
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: HA02-KR026
     set_name: Hidden Arsenal 2

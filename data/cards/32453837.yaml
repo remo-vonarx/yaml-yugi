@@ -129,6 +129,11 @@ sets:
     rarities:
     - Super Rare
     - Collector's Rare
+  en-HK:
+  - set_number: 25AT-AE315
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: AC02-KR029
     set_name: Animation Chronicle 2022

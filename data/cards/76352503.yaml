@@ -111,6 +111,12 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BLZD-AE086
+    set_name: Blazing Dominion
+    rarities:
+    - Rare
+    - Secret Rare
   ko:
   - set_number: PP17-KR041
     set_name: Premium Pack Vol.17

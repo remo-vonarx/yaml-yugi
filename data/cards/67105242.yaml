@@ -126,6 +126,15 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-055
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
+  - set_number: BN01-AE112
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR055
     set_name: Labyrinth of Nightmare

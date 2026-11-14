@@ -95,6 +95,15 @@ sets:
     set_name: 'Deck-Build Pack: Genesis Impactors'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR11-AE089
+    set_name: Creation Pack 11
+    rarities:
+    - Common
+  - set_number: CR11-AES33
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DBGI-KR007
     set_name: 'Deck-Build Pack: Genesis Impactors'

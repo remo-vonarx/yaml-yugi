@@ -150,6 +150,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBJH-AE044
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DAMA-KR044
     set_name: Dawn of Majesty

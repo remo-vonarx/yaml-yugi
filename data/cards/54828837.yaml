@@ -100,6 +100,11 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR03-AE016
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: SD38-KR019
     set_name: 'Structure Deck: Sacred Beasts of Chaos'

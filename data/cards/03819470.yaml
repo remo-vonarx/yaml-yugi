@@ -471,6 +471,11 @@ sets:
     set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-129
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MRD-K129
     set_name: Metal Raiders

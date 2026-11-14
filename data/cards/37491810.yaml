@@ -150,6 +150,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR04-AE164
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: BLVO-KR039
     set_name: Blazing Vortex

@@ -145,6 +145,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DCR-091
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR091
     set_name: Dark Crisis

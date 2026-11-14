@@ -185,6 +185,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDSS-AE012
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SOFU-KR005
     set_name: Soul Fusion

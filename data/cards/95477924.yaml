@@ -196,6 +196,16 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: RC04-AE069
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: WPP2-KR062
     set_name: World Premiere Pack 2021

@@ -308,6 +308,15 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-100
+    set_name: Legacy of Darkness
+    rarities:
+    - Secret Rare
+  - set_number: 24CC-AE001
+    set_name: Challenger Cup 2024 Qualifiers prize card
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: LOD-KR100
     set_name: Legacy of Darkness

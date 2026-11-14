@@ -200,6 +200,12 @@ sets:
     set_name: 'Structure Deck: Alba Strike'
     rarities:
     - Common
+  en-HK:
+  - set_number: DBJH-AE058
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: EP17-KR049
     set_name: Extra Pack 2017

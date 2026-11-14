@@ -143,6 +143,13 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: ES02-AE061
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LVAL-KR053
     set_name: Legacy of the Valiant

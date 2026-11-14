@@ -229,6 +229,11 @@ sets:
     set_name: Starter Deck 2016
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE026
+    set_name: Rise of Destiny
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR026
     set_name: Rise of Destiny

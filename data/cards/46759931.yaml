@@ -176,6 +176,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: 24AT-AE511
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PC01-KR081
     set_name: Precious Pack Volume 1

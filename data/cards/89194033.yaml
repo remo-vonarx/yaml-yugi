@@ -146,6 +146,11 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Common
+  en-HK:
+  - set_number: CR10-AE062
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: DP17-KR038
     set_name: "Duelist Pack: Pharaoh's Memories"

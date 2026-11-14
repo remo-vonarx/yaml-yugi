@@ -205,6 +205,15 @@ sets:
     set_name: Starter Deck 2010
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE061
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: BN01-AE120
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR061
     set_name: Invasion of Chaos

@@ -93,6 +93,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DUNE-AE109
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: DBWS-KR005
     set_name: 'Deck-Build Pack: Wild Survivors'

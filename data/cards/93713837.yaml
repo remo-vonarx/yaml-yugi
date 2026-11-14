@@ -119,6 +119,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: INFO-AE101
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: CPF1-KR022
     set_name: 'Collectors Pack: Duelist of Flash Version'

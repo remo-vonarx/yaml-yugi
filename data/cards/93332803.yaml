@@ -243,6 +243,15 @@ sets:
     set_name: 'Tactical-Try Deck: Rescue-ACE'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AEP07
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Super Rare
+  - set_number: TT02-AEA08
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: EP16-KR021
     set_name: Extra Pack 2016

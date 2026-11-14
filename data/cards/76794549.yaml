@@ -223,6 +223,19 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR02-AE001
+    set_name: Creation Pack 02
+    rarities:
+    - Ultimate Rare
+  - set_number: CR02-AES01
+    set_name: Creation Pack 02 +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AEO06
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SD31-KR001
     set_name: 'Structure Deck: Pendulum Evolution'

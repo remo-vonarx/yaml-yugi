@@ -251,6 +251,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: 26AT-AE304
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: POTD-KR003
     set_name: Power of the Duelist

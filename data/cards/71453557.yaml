@@ -191,6 +191,16 @@ sets:
     set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-032
+    set_name: Magician's Force
+    rarities:
+    - Common
+  - set_number: DBPR-AE056
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: MFC-KR032
     set_name: Magician's Force

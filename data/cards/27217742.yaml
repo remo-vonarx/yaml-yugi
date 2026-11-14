@@ -81,6 +81,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: CORI-AEC28
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP12-KR009
     set_name: Premium Pack Vol.12

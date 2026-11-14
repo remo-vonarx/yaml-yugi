@@ -363,6 +363,17 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-036
+    set_name: Magic Ruler
+    rarities:
+    - Ultra Rare
+  - set_number: DBPR-AE055
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: SRL-K036
     set_name: Spell Ruler

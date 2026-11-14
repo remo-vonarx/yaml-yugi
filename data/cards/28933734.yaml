@@ -393,6 +393,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-014
+    set_name: Metal Raiders
+    rarities:
+    - Rare
   ko:
   - set_number: MRD-K014
     set_name: Metal Raiders

@@ -331,6 +331,11 @@ sets:
     set_name: Starter Deck 2016
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-030
+    set_name: Pharaoh's Servant
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PSV-K030
     set_name: Pharaoh's Servant

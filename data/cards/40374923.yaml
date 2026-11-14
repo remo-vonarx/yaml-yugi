@@ -198,6 +198,15 @@ sets:
     set_name: 'Memories of the Duel King: Duelist Kingdom Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-009
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: SDY-009
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K009
     set_name: Legend of Blue Eyes White Dragon

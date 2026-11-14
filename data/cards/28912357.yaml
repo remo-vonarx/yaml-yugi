@@ -195,6 +195,11 @@ sets:
     set_name: Tournament Pack 2020 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE310
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR046
     set_name: Return of the Duelist

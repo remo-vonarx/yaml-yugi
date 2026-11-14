@@ -216,6 +216,12 @@ sets:
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Common
+  en-HK:
+  - set_number: EEN-AE023
+    set_name: Elemental Energy
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: EEN-KR023
     set_name: Elemental Energy

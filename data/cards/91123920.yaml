@@ -160,6 +160,11 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE009
+    set_name: Ancient Sanctuary
+    rarities:
+    - Super Rare
   ko:
   - set_number: AST-KR009
     set_name: Ancient Sanctuary

@@ -100,6 +100,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC31
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP18-KR038
     set_name: 'Duelist Pack: Legend Duelist'

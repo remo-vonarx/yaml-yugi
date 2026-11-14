@@ -132,6 +132,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC04
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: EXFO-KR008
     set_name: Extreme Force

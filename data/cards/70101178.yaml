@@ -85,6 +85,11 @@ sets:
     set_name: 'Duelist Pack: Kastle Siblings'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE083
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR010
     set_name: Lord of the Tachyon Galaxy

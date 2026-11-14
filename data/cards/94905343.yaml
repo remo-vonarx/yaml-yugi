@@ -175,6 +175,11 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-077
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K077
     set_name: Metal Raiders

@@ -242,6 +242,11 @@ sets:
     set_name: 'Structure Deck: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE079
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR079
     set_name: Ancient Sanctuary

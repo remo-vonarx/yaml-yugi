@@ -80,6 +80,11 @@ sets:
     set_name: Galactic Overlord
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE016
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: GAOV-KR018
     set_name: Galactic Overlord

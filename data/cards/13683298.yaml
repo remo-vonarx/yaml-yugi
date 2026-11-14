@@ -107,6 +107,11 @@ sets:
     set_name: Tournament Pack 2018 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AE100
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: SECE-KR036
     set_name: Secrets of Eternity

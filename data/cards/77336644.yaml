@@ -126,6 +126,17 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE004
+    set_name: Crimson Crisis
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Holographic Rare
+  - set_number: BLZD-AES01
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CRMS-KR004
     set_name: Crimson Crisis

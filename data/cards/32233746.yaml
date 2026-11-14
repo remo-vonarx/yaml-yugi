@@ -102,6 +102,11 @@ sets:
     set_name: 'Duelist Set: Version Lightsworn Judgment'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR04-AE120
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: EXP2-KR010
     set_name: Extra Pack Volume 2

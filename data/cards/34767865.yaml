@@ -100,6 +100,11 @@ sets:
     set_name: Cybernetic Horizon
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR07-AE043
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: CYHO-KR051
     set_name: Cybernetic Horizon

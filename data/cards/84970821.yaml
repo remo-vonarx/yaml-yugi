@@ -150,6 +150,11 @@ sets:
     set_name: 'Structure Deck R: Curse of the Dark'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE106
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   ko:
   - set_number: IOC-KR106
     set_name: Invasion of Chaos

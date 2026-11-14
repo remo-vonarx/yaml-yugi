@@ -184,6 +184,21 @@ sets:
     set_name: Yu-Gi-Oh! Championship Series Japan 2024 prize card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LEDE-AE081
+    set_name: Legacy of Destruction
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+  - set_number: LEDE-AE081
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+  - set_number: LEDE-AES01
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP03-KR024
     set_name: Premium Pack Vol.3

@@ -102,6 +102,11 @@ sets:
     set_name: Phantom Rage
     rarities:
     - Rare
+  en-HK:
+  - set_number: BETB-AE094
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR025
     set_name: Phantom Rage

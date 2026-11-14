@@ -112,6 +112,11 @@ sets:
     set_name: 'Collectors Pack: Duelist of Flash Version'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE041
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: CPF1-KR005
     set_name: 'Collectors Pack: Duelist of Flash Version'

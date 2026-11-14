@@ -228,6 +228,11 @@ sets:
     set_name: Yu-Gi-Oh! United Duel Tournament May 2021 prize card
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: IOC-AE087
+    set_name: Invasion of Chaos
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IOC-KR087
     set_name: Invasion of Chaos

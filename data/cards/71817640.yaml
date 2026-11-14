@@ -103,6 +103,11 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE116
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: DABL-KR065
     set_name: Darkwing Blast

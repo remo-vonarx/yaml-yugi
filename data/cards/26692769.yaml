@@ -124,6 +124,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR12-AE041
+    set_name: Creation Pack 12
+    rarities:
+    - Super Rare
   ko:
   - set_number: LVP2-KR076
     set_name: LINK VRAINS Pack 2

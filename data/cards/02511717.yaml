@@ -125,6 +125,15 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE134
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
+  - set_number: CR05-AES14
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: STOR-KR022
     set_name: Storm of Ragnarok

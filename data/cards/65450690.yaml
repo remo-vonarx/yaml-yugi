@@ -102,6 +102,11 @@ sets:
     set_name: Duelist Edition Volume 1
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE218
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CDIP-KR039
     set_name: Cyberdark Impact

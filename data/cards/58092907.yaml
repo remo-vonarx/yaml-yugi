@@ -170,6 +170,16 @@ sets:
     set_name: 'Duelist Box: Prismatic Summon'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: AGOV-AE087
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: AGOV-AE087
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP23-KR045
     set_name: 'Duelist Pack: Legend Duelist 6'

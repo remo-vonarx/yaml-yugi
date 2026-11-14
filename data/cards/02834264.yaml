@@ -119,6 +119,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE179
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP3-KR008
     set_name: World Premiere Pack 2022

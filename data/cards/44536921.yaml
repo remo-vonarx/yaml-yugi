@@ -104,6 +104,15 @@ sets:
     set_name: Blazing Dominion +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR11-AE052
+    set_name: Creation Pack 11
+    rarities:
+    - Common
+  - set_number: CR11-AES19
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DP22-KR049
     set_name: 'Duelist Pack: Legend Duelist 5'

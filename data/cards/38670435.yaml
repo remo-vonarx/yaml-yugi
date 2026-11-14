@@ -206,6 +206,11 @@ sets:
     set_name: "Structure Deck: Dinosaur's Rage"
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE075
+    set_name: Invasion of Chaos
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IOC-KR075
     set_name: Invasion of Chaos

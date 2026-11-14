@@ -196,6 +196,15 @@ sets:
     set_name: Yu-Gi-Oh! GX Volume 4 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR06-AE099
+    set_name: Creation Pack 06
+    rarities:
+    - Ultimate Rare
+  - set_number: CR06-AES31
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: EPK3-KR001
     set_name: EX.Premium Pack Kit Vol.3

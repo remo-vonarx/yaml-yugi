@@ -187,6 +187,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 6'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC18
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ORCS-KR004
     set_name: Order of Chaos

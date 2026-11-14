@@ -177,6 +177,22 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SUDA-AE015
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: SUDA-AE015
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Super Rare
+  - set_number: ES02-AE031
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SUDA-KR015
     set_name: Supreme Darkness

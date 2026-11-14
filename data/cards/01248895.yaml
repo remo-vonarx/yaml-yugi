@@ -260,6 +260,15 @@ sets:
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-006
+    set_name: Pharaoh's Servant
+    rarities:
+    - Ultra Rare
+  - set_number: TP4-004
+    set_name: Tournament Pack 4
+    rarities:
+    - Super Rare
   ko:
   - set_number: PSV-K006
     set_name: Pharaoh's Servant

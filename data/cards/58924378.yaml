@@ -70,6 +70,11 @@ sets:
     set_name: Starstrike Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE091
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: STBL-KR050
     set_name: Starstrike Blast

@@ -152,6 +152,16 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CH01-AE044
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: TFTV-AE080
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SD43-KR042
     set_name: 'Structure Deck: Alba Strike'

@@ -248,6 +248,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR10-AE012
+    set_name: Creation Pack 10
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: CYHO-KR034
     set_name: Cybernetic Horizon

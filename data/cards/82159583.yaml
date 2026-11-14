@@ -123,6 +123,16 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BLZD-AE015
+    set_name: Blazing Dominion
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: 27OW-AE004
+    set_name: OTS Winner's Pack Vol.1
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BLZD-KR015
     set_name: Blazing Dominion

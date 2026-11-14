@@ -93,6 +93,12 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE033
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: LIOV-KR041
     set_name: Lightning Overdrive

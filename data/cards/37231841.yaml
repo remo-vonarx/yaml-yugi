@@ -102,6 +102,11 @@ sets:
     set_name: 'Structure Deck: Revival of the Great Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE047
+    set_name: Rise of Destiny
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR047
     set_name: Rise of Destiny

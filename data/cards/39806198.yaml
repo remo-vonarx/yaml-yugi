@@ -109,6 +109,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE010
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: PP08-KR037
     set_name: Premium Pack Vol.8

@@ -104,6 +104,15 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DI02-AE013
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
+  - set_number: TFTV-AE061
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Secret Rare
   ko:
   - set_number: BODE-KR054
     set_name: Burst of Destiny

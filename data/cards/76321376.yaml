@@ -107,6 +107,11 @@ sets:
     set_name: Duelist Box 2012
     rarities:
     - Common
+  en-HK:
+  - set_number: TLM-AE018
+    set_name: The Lost Millennium
+    rarities:
+    - Common
   ko:
   - set_number: TLM-KR018
     set_name: The Lost Millennium

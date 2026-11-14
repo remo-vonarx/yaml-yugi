@@ -76,6 +76,12 @@ sets:
     set_name: Blazing Dominion
     rarities:
     - Rare
+  en-HK:
+  - set_number: BLZD-AE056
+    set_name: Blazing Dominion
+    rarities:
+    - Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: BLZD-KR056
     set_name: Blazing Dominion

@@ -156,6 +156,15 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE038
+    set_name: Raging Battle
+    rarities:
+    - Common
+  - set_number: SSD2-AE006
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR038
     set_name: Raging Battle

@@ -105,6 +105,11 @@ sets:
     set_name: Jump Festa 2012 - Promotion Pack A
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC57
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP06-KR025
     set_name: Premium Pack Vol.6

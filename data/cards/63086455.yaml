@@ -151,6 +151,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE203
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: POTE-KR078
     set_name: Power of the Elements

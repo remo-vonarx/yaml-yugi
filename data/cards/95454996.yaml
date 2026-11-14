@@ -123,6 +123,13 @@ sets:
     - Common
     - Normal Parallel Rare
     - Secret Rare
+  en-HK:
+  - set_number: DBCB-AE019
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: DBCB-KR019
     set_name: 'Deck-Build Pack: Crossover Breakers'

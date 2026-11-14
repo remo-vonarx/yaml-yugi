@@ -130,6 +130,15 @@ sets:
     set_name: Duelist Legacy Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-021
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: BN01-AE029
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K021
     set_name: Legend of Blue Eyes White Dragon

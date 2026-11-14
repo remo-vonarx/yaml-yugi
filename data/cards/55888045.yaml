@@ -130,6 +130,12 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DBJH-AE052
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP09-KR035
     set_name: Premium Pack Vol.9

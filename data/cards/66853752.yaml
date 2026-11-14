@@ -110,6 +110,11 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE090
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: PR02-KR001
     set_name: Promotion Pack 2012 Vol.2

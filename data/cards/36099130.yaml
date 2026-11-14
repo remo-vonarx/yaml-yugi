@@ -132,6 +132,16 @@ sets:
     set_name: Ultimate Special Pack
     rarities:
     - Ultimate Rare
+  en-HK:
+  - set_number: CR11-AE078
+    set_name: Creation Pack 11
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR11-AES28
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBGI-KR002
     set_name: 'Deck-Build Pack: Genesis Impactors'

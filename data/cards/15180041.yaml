@@ -168,6 +168,11 @@ sets:
     set_name: Prismatic God Box
     rarities:
     - Millennium Rare
+  en-HK:
+  - set_number: CR04-AE001
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: DP17-KR001
     set_name: "Duelist Pack: Pharaoh's Memories"

@@ -161,6 +161,11 @@ sets:
     set_name: Master Guide 5 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AES04
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP14-KRA32
     set_name: Premium Pack Vol.14 1st Wave

@@ -343,6 +343,16 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: MRL-080
+    set_name: Magic Ruler
+    rarities:
+    - Rare
+  - set_number: DBCB-AE041
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: SRL-K080
     set_name: Spell Ruler

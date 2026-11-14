@@ -110,6 +110,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-035
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR035
     set_name: Labyrinth of Nightmare

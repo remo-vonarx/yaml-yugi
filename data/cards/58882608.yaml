@@ -76,6 +76,11 @@ sets:
     set_name: World Premiere Pack 2024
     rarities:
     - Rare
+  en-HK:
+  - set_number: DUAD-AE109
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ko:
   - set_number: WPP5-KR024
     set_name: World Premiere Pack 2024

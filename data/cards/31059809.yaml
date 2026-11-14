@@ -79,6 +79,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: PHNI-AE096
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: AC01-KR029
     set_name: Animation Chronicle 2021

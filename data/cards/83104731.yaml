@@ -375,6 +375,16 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: TLM-AE006
+    set_name: The Lost Millennium
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: CR04-AE016
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: TLM-KR006
     set_name: The Lost Millennium

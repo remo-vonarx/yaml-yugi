@@ -104,6 +104,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BPRO-AE117
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: SYP2-KR094
     set_name: 'Synergy Pack 02: The Generation Next'

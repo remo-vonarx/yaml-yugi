@@ -380,6 +380,12 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: EEN-AE004
+    set_name: Elemental Energy
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: EEN-KR004
     set_name: Elemental Energy

@@ -170,6 +170,15 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-037
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
+  - set_number: SSD2-AE002
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR037
     set_name: Legacy of Darkness

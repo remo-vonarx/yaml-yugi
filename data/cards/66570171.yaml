@@ -134,6 +134,11 @@ sets:
     set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE213
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SR07-KR002
     set_name: 'Structure Deck R: Undead World'

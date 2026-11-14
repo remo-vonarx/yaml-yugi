@@ -140,6 +140,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: DI01-AE010
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: CP19-KR007
     set_name: 'Collection Pack: Duelist of Revolution Version'

@@ -992,6 +992,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: PGD-035
+    set_name: Pharaonic Guardian
+    rarities:
+    - Rare
+  - set_number: SDRB-AEP14
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: PGD-KR035
     set_name: Pharaonic Guardian

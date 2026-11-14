@@ -165,6 +165,13 @@ sets:
     set_name: Winner's Pack 2025 Vol.3
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: DOOD-AE086
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: TDIL-KR034
     set_name: The Dark Illusion

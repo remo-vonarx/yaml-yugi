@@ -83,6 +83,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBJH-AE026
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DBJH-KR026
     set_name: 'Deck-Build Pack: Justice Hunters'

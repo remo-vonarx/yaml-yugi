@@ -114,6 +114,15 @@ sets:
     set_name: Doom of Dimensions
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AE074
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
+  - set_number: 25YC-AET01
+    set_name: DoomZ Duel Set
+    rarities:
+    - Ultra Parallel Rare
   ko:
   - set_number: DOOD-KR074
     set_name: Doom of Dimensions

@@ -128,6 +128,15 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE128
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
+  - set_number: CR04-AES20
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: RATE-KR033
     set_name: Raging Tempest

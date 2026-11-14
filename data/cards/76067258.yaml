@@ -144,6 +144,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AE109
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: JOTL-KR054
     set_name: Judgment of the Light

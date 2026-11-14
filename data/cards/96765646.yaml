@@ -203,6 +203,11 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD2-AE014
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: GLAS-KR046
     set_name: Gladiator's Assault

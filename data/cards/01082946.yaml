@@ -53,6 +53,11 @@ sets:
     set_name: Tournament Pack 2010 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-050
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR050
     set_name: Pharaonic Guardian

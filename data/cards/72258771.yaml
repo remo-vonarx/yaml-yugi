@@ -74,6 +74,11 @@ sets:
     set_name: Raging Battle
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: RGBT-AE021
+    set_name: Raging Battle
+    rarities:
+    - Super Rare
   ko:
   - set_number: RGBT-KR021
     set_name: Raging Battle

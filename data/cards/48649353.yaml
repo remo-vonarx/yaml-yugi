@@ -60,6 +60,11 @@ sets:
     set_name: Tournament Pack 2009 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE059
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP11-KR006
     set_name: Tournament Pack 2011 Vol.11

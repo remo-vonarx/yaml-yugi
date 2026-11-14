@@ -104,6 +104,11 @@ sets:
     set_name: Extra Pack Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE148
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: EXP4-KR040
     set_name: Extra Pack Volume 4

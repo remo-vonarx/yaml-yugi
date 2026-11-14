@@ -162,6 +162,15 @@ sets:
     set_name: 'Structure Deck: Ice Barrier of the Frozen Prison'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR12-AE084
+    set_name: Creation Pack 12
+    rarities:
+    - Super Rare
+  - set_number: CR12-AES31
+    set_name: Creation Pack 12 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: TSHD-KR033
     set_name: The Shining Darkness

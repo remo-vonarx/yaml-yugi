@@ -78,6 +78,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AEC38
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: TSHD-KR034
     set_name: The Shining Darkness

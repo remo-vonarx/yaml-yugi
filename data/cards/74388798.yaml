@@ -248,6 +248,16 @@ sets:
     set_name: "Duelist Pack: Pharaoh's Memories"
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE008
+    set_name: Flaming Eternity
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: 24AT-AE206
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: FET-KR008
     set_name: Flaming Eternity

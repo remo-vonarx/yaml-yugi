@@ -294,6 +294,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDK-005
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K005
     set_name: 'Starter Deck: Kaiba'

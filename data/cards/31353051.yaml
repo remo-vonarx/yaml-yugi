@@ -80,6 +80,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BPRO-AEC06
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SD36-KR004
     set_name: 'Structure Deck: Revolver'

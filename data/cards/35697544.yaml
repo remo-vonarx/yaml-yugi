@@ -108,6 +108,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR08-AE080
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
   ko:
   - set_number: WPP5-KR008
     set_name: World Premiere Pack 2024

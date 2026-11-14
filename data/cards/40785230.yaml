@@ -117,6 +117,19 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: AGOV-AE005
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: AGOV-AE005
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AGOV-KR005
     set_name: Age of Overlord

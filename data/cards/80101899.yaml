@@ -344,6 +344,19 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES02-AE117
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: BETB-AES14
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SOFU-KR078
     set_name: Soul Fusion

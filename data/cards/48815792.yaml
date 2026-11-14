@@ -331,6 +331,27 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ROTA-AE113
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ROTA-AE113
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  - set_number: TT02-AEA30
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
+  - set_number: CH02-AE043
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SAST-KR056
     set_name: Savage Strike

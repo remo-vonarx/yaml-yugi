@@ -77,6 +77,11 @@ sets:
     set_name: Starter Box
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE020
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

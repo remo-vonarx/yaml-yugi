@@ -132,6 +132,11 @@ sets:
     set_name: Duelist Edition Volume 1
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR02-AE170
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: FOTB-KR041
     set_name: Force of the Breaker

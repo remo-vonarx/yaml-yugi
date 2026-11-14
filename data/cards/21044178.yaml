@@ -310,6 +310,13 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES01-AE034
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EXP6-KR025
     set_name: 'Extra Pack: Sword of Knights'

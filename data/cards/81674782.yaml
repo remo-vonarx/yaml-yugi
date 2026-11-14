@@ -285,6 +285,21 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: EOJ-AE047
+    set_name: Enemy of Justice
+    rarities:
+    - Common
+  - set_number: 24AT-AE216
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
+  - set_number: ES02-AE081
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: EOJ-KR047
     set_name: Enemy of Justice

@@ -177,6 +177,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR09-AE035
+    set_name: Creation Pack 09
+    rarities:
+    - Common
   ko:
   - set_number: WC11-KR004
     set_name: "Yu-Gi-Oh! 5D's World Championship 2011: Over the Nexus promotional cards"

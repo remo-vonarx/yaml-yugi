@@ -148,6 +148,12 @@ sets:
     set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE036
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: FET-KR036
     set_name: Flaming Eternity

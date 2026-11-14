@@ -111,6 +111,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR05-AE052
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: ABYR-KR061
     set_name: Abyss Rising

@@ -94,6 +94,13 @@ sets:
     set_name: 'Deluxe Duel Set: Sky Striker Ace'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SLF1-AE040
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: 23PP-KRA19
     set_name: Premium Pack 2023 1st Wave

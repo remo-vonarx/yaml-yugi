@@ -76,6 +76,11 @@ sets:
     set_name: Ignition Assault
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AE120
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: IGAS-KR072
     set_name: Ignition Assault

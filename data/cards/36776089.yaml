@@ -150,6 +150,19 @@ sets:
     set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
     rarities:
     - Common
+  en-HK:
+  - set_number: SLF1-AE098
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
+  - set_number: ES02-AE063
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SECE-KR052
     set_name: Secrets of Eternity

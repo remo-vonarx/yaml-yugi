@@ -109,6 +109,11 @@ sets:
     set_name: Phantom Rage
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE119
+    set_name: Phantom Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: PHRA-KR068
     set_name: Phantom Rage

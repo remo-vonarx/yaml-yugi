@@ -276,6 +276,11 @@ sets:
     set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AES20
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SD15-KR016
     set_name: 'Structure Deck: Undead World'

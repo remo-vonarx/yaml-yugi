@@ -113,6 +113,12 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE084
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: POTE-KR011
     set_name: Power of the Elements

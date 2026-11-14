@@ -117,6 +117,11 @@ sets:
     set_name: Premium Pack 15
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AEC28
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP08-KR042
     set_name: Premium Pack Vol.8

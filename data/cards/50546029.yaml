@@ -93,6 +93,11 @@ sets:
     rarities:
     - Super Rare
     - Collector's Rare
+  en-HK:
+  - set_number: SUDA-AE109
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: AC02-KR045
     set_name: Animation Chronicle 2022

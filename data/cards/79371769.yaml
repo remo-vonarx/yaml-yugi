@@ -104,6 +104,13 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SLF1-AE080
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: BODE-KR080
     set_name: Burst of Destiny

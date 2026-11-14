@@ -148,6 +148,11 @@ sets:
     set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE023
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR023
     set_name: Soul of the Duelist

@@ -52,6 +52,11 @@ sets:
     set_name: Duelist Legacy Volume.5
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-075
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR075
     set_name: Legacy of Darkness

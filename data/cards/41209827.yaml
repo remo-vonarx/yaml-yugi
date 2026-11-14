@@ -269,6 +269,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR11-AE037
+    set_name: Creation Pack 11
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: INOV-KR038
     set_name: 'Invasion: Vengeance'

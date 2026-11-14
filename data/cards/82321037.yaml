@@ -105,6 +105,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR07-AE079
+    set_name: Creation Pack 07
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: INOV-KR021
     set_name: 'Invasion: Vengeance'

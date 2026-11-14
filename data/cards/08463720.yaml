@@ -90,6 +90,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AE102
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: SD30-KR041
     set_name: 'Structure Deck: Pendulum Domination'

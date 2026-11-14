@@ -231,6 +231,13 @@ sets:
     set_name: Tournament Pack 2026 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES02-AE116
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: FLOD-KR080
     set_name: Flames of Destruction

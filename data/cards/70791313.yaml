@@ -215,6 +215,15 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-074
+    set_name: Magician's Force
+    rarities:
+    - Common
+  - set_number: SD16-AE016
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR074
     set_name: Magician's Force

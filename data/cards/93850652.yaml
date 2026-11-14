@@ -132,6 +132,15 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR10-AE046
+    set_name: Creation Pack 10
+    rarities:
+    - Ultra Rare
+  - set_number: CR10-AES19
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBDS-KR017
     set_name: 'Deck-Build Pack: Dark Saviors'

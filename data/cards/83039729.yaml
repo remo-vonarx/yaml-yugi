@@ -264,6 +264,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE139
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: ESP1-KR070
     set_name: Expansion Pack Vol.1

@@ -114,6 +114,12 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE016
+    set_name: Rise of Destiny
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: RDS-KR016
     set_name: Rise of Destiny

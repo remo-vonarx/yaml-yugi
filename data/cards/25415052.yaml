@@ -108,6 +108,11 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Rare
+  en-HK:
+  - set_number: AGOV-AE100
+    set_name: Age of Overlord
+    rarities:
+    - Rare
   ko:
   - set_number: RATE-KR037
     set_name: Raging Tempest

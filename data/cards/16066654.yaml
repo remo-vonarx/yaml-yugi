@@ -76,6 +76,15 @@ sets:
     set_name: World Premiere Pack 2026
     rarities:
     - Common
+  en-HK:
+  - set_number: CR10-AE083
+    set_name: Creation Pack 10
+    rarities:
+    - Super Rare
+  - set_number: CR10-AES30
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: WPP7-KR023
     set_name: World Premiere Pack 2026

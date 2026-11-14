@@ -118,6 +118,11 @@ sets:
     set_name: 'Duelist Set: Version Lightsworn Judgment'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR05-AE033
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: WC09-KR004
     set_name: "Yu-Gi-Oh! 5D's World Championship 2009: Stardust Accelerator promotional cards"

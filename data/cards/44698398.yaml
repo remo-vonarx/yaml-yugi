@@ -126,6 +126,12 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR10-AE095
+    set_name: Creation Pack 10
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: DP29-KR004
     set_name: 'Duelist Pack: Duelists of Brilliance'

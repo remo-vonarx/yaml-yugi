@@ -242,6 +242,11 @@ sets:
     rarities:
     - Common
     - Collector's Rare
+  en-HK:
+  - set_number: ROTA-AE106
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ko:
   - set_number: GAOV-KR042
     set_name: Galactic Overlord

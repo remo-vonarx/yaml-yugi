@@ -119,6 +119,16 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CRV-AE021
+    set_name: Cybernetic Revolution
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: BPRO-AEC47
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR021
     set_name: Cybernetic Revolution

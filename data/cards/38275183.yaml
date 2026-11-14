@@ -219,6 +219,11 @@ sets:
     set_name: "Structure Deck: Spellcaster's Judgment"
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-043
+    set_name: Magician's Force
+    rarities:
+    - Super Rare
   ko:
   - set_number: MFC-KR043
     set_name: Magician's Force

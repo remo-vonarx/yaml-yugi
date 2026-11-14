@@ -80,6 +80,11 @@ sets:
     set_name: Dimension of Chaos
     rarities:
     - Rare
+  en-HK:
+  - set_number: BETB-AE086
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: DOCS-KR032
     set_name: Dimension of Chaos

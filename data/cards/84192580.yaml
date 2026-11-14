@@ -263,6 +263,15 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: INFO-AE027
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
+  - set_number: LAVD-AEO18
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR027
     set_name: The Infinite Forbidden

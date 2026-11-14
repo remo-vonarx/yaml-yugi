@@ -102,6 +102,11 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Rare
+  en-HK:
+  - set_number: 26AT-AE312
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: RATE-KR009
     set_name: Raging Tempest

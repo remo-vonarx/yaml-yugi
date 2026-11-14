@@ -102,6 +102,13 @@ sets:
     set_name: Circuit Break
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE014
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CIBR-KR036
     set_name: Circuit Break

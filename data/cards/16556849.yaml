@@ -157,6 +157,11 @@ sets:
     set_name: 'Duelist Set: Version Lightning Star'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE014
+    set_name: Invasion of Chaos
+    rarities:
+    - Super Rare
   ko:
   - set_number: IOC-KR014
     set_name: Invasion of Chaos

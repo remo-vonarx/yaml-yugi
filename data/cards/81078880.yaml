@@ -128,6 +128,13 @@ sets:
     set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
     rarities:
     - Common
+  en-HK:
+  - set_number: SLF1-AE084
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: BLVO-KR028
     set_name: Blazing Vortex

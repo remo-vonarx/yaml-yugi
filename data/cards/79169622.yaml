@@ -81,6 +81,11 @@ sets:
     set_name: Collection Pack 2020
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC58
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CP20-KR032
     set_name: Collection Pack 2020

@@ -261,6 +261,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: IOC-AE083
+    set_name: Invasion of Chaos
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IOC-KR083
     set_name: Invasion of Chaos

@@ -127,6 +127,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR02-AE014
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
   ko:
   - set_number: HC01-KR037
     set_name: History Archive Collection

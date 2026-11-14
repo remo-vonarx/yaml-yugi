@@ -422,6 +422,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DCR-000
+    set_name: Dark Crisis
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DCR-KR000
     set_name: Dark Crisis

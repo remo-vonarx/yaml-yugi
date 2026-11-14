@@ -84,6 +84,11 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC22
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP14-KR009
     set_name: 'Duelist Pack: Yuma 2: Gogogo & Dododo'

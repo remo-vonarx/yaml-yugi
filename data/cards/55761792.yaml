@@ -216,6 +216,11 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR12-AE019
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: SYE-KR025
     set_name: 'Starter Deck: Yugi Evolution'

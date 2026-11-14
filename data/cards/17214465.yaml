@@ -114,6 +114,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-008
+    set_name: Pharaonic Guardian
+    rarities:
+    - Short Print
   ko:
   - set_number: PGD-KR008
     set_name: Pharaonic Guardian

@@ -158,6 +158,11 @@ sets:
     set_name: 'Memories of the Duel King: Battle City Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-106
+    set_name: Magician's Force
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MFC-KR106
     set_name: Magician's Force

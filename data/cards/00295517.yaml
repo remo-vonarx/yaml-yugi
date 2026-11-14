@@ -304,6 +304,11 @@ sets:
     rarities:
     - Common
     - Super Rare
+  en-HK:
+  - set_number: LOD-078
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR078
     set_name: Legacy of Darkness

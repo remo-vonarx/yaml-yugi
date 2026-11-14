@@ -167,6 +167,18 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: DBJH-AE060
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: LAVD-AEL27
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP5-KR072
     set_name: World Premiere Pack 2024

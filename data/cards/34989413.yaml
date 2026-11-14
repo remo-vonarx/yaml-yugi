@@ -160,6 +160,11 @@ sets:
     set_name: Winner's Pack 2026 Vol.3
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: 26AT-AE302
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CYHO-KR048
     set_name: Cybernetic Horizon

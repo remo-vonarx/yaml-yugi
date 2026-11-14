@@ -153,6 +153,18 @@ sets:
     set_name: Yu-Gi-Oh! GX Volume 1 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR05-AE031
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR05-AES02
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP03-KR025
     set_name: Premium Pack Vol.3

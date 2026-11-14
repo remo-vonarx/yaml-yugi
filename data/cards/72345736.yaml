@@ -225,6 +225,16 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE141
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR05-AES16
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PTDN-KR059
     set_name: Phantom Darkness

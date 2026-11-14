@@ -155,6 +155,11 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE077
+    set_name: Ancient Sanctuary
+    rarities:
+    - Rare
   ko:
   - set_number: AST-KR077
     set_name: Ancient Sanctuary

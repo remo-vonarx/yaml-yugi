@@ -165,6 +165,16 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR09-AE083
+    set_name: Creation Pack 09
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR09-AES28
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: WPP6-KR038
     set_name: World Premiere Pack 2025

@@ -81,6 +81,11 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC16
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CBLZ-KR018
     set_name: Cosmo Blazer

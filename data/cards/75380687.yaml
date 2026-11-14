@@ -164,6 +164,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE041
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: CPL1-KR003
     set_name: 'Collectors Pack: Duelist of Legend Version'

@@ -246,6 +246,11 @@ sets:
     set_name: 'Structure Deck: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE090
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR090
     set_name: Invasion of Chaos

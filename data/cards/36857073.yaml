@@ -167,6 +167,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR11-AE022
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
   ko:
   - set_number: SPHR-KR041
     set_name: 'Booster SP: High-Speed Riders'

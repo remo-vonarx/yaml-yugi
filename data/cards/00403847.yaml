@@ -167,6 +167,11 @@ sets:
     set_name: Starter Deck 2013
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-027
+    set_name: Legacy of Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: LOD-KR027
     set_name: Legacy of Darkness

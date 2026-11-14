@@ -120,6 +120,11 @@ sets:
     set_name: Yu-Gi-Oh! ARC-V Volume 4 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR03-AE069
+    set_name: Creation Pack 03
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP13-KR046
     set_name: Premium Pack Vol.13

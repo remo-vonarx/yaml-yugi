@@ -76,6 +76,11 @@ sets:
     set_name: Primal Origin
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC24
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: EP14-KR048
     set_name: 'Extra Pack: Knights of Order'

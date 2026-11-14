@@ -172,6 +172,16 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR13-AE019
+    set_name: Creation Pack 13
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR13-AES10
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: INOV-KR060
     set_name: 'Invasion: Vengeance'

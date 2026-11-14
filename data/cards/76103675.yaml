@@ -122,6 +122,11 @@ sets:
     set_name: Duelist Legacy Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-055
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K055
     set_name: Legend of Blue Eyes White Dragon

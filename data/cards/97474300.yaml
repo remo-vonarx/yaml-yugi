@@ -126,6 +126,11 @@ sets:
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE062
+    set_name: Duelist Nexus
+    rarities:
+    - Rare
   ko:
   - set_number: DUNE-KR062
     set_name: Duelist Nexus

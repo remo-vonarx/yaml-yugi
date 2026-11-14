@@ -139,6 +139,12 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE043
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DAMA-KR007
     set_name: Dawn of Majesty

@@ -353,6 +353,11 @@ sets:
     set_name: Duelist Edition Volume 1
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE032
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: SD13-KR030
     set_name: 'Structure Deck: Revival of the Great Dragon'

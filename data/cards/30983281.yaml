@@ -157,6 +157,11 @@ sets:
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE013
+    set_name: Creation Pack 01
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: HC01-KR022
     set_name: History Archive Collection

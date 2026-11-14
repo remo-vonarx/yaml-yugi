@@ -322,6 +322,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SSD1-AE020
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: SKE-KR041
     set_name: 'Starter Deck: Kaiba Evolution'

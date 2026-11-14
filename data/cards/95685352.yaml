@@ -115,6 +115,11 @@ sets:
     - Common
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: 26AT-AE203
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP14-KRA10
     set_name: Premium Pack Vol.14 1st Wave

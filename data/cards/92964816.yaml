@@ -108,6 +108,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BLZD-AE082
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: SR07-KR003
     set_name: 'Structure Deck R: Undead World'

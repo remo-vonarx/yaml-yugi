@@ -90,6 +90,11 @@ sets:
     set_name: Winner's Pack 2025 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: MFC-037
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR037
     set_name: Magician's Force

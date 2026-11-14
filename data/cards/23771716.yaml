@@ -215,6 +215,11 @@ sets:
     set_name: 'Structure Deck: Fury from the Deep'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-098
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K098
     set_name: Metal Raiders

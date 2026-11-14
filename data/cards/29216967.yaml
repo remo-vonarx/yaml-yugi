@@ -85,6 +85,11 @@ sets:
     set_name: Animation Chronicle 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE005
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: CPZ1-KR008
     set_name: 'Collectors Pack: ZEXAL Version'

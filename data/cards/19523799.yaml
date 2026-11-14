@@ -170,6 +170,11 @@ sets:
     set_name: Starter Deck 2009
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-023
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K023
     set_name: 'Starter Deck: Kaiba'

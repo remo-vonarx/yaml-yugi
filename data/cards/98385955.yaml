@@ -133,6 +133,11 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: INFO-AE015
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR015
     set_name: The Infinite Forbidden

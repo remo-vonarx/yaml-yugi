@@ -122,6 +122,11 @@ sets:
     set_name: 'Structure Deck: Revival of the Great Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE036
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR036
     set_name: Ancient Sanctuary

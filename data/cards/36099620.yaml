@@ -98,6 +98,11 @@ sets:
     set_name: 'Duelist Set: Version Lightsworn Judgment'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR04-AE114
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR053
     set_name: Light of Destruction

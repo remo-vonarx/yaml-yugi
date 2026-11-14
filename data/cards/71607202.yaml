@@ -150,6 +150,13 @@ sets:
     set_name: Tournament Pack 2026 Vol.1
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: SLF1-AE101
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: DABL-KR051
     set_name: Darkwing Blast

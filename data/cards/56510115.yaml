@@ -106,6 +106,12 @@ sets:
     set_name: Cyberstorm Access
     rarities:
     - Common
+  en-HK:
+  - set_number: CR09-AE073
+    set_name: Creation Pack 09
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: CYAC-KR065
     set_name: Cyberstorm Access
