@@ -111,6 +111,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE002
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: SHSP-KR001
     set_name: Shadow Specters

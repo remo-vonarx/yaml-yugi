@@ -372,6 +372,14 @@ sets:
     set_name: Cup Noodle collaboration card
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES01-AE057
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: CDIP-KR040
     set_name: Cyberdark Impact

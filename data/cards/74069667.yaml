@@ -198,6 +198,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR09-AE012
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD30-KR012
     set_name: 'Structure Deck: Pendulum Domination'

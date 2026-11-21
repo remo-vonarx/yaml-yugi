@@ -135,6 +135,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  en-HK:
+  - set_number: BN01-AE056
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: 15AX-KRM11
     set_name: 'Duelist Road -Piece of Memory- Side: Yugi Muto'

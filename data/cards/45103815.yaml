@@ -134,6 +134,11 @@ sets:
     set_name: Tournament Pack 2021 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE162
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: CORE-KR002
     set_name: Clash of Rebellions

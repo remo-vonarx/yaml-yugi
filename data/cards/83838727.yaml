@@ -101,6 +101,13 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: ES02-AE102
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 25PP-KRB33
     set_name: Premium Pack 2025 2nd Wave

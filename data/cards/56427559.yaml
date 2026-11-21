@@ -82,6 +82,11 @@ sets:
     set_name: 'Collectors Pack: ZEXAL Version'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE003
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: CPZ1-KR006
     set_name: 'Collectors Pack: ZEXAL Version'

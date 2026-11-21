@@ -77,6 +77,11 @@ sets:
     set_name: Maximum Crisis
     rarities:
     - Common
+  en-HK:
+  - set_number: CR13-AE092
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: MACR-KR058
     set_name: Maximum Crisis

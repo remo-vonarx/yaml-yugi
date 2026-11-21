@@ -88,6 +88,13 @@ sets:
     set_name: Yu-Gi-Oh! OCG Structures Volume 7 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ES02-AE077
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 24PP-KRB14
     set_name: Premium Pack 2024 2nd Wave

@@ -102,6 +102,11 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE113
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: WPP6-KR058
     set_name: World Premiere Pack 2025

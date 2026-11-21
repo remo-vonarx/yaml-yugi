@@ -199,6 +199,11 @@ sets:
     set_name: 'Duelist Set: Version Machine-Gear Troopers'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: EEN-AE056
+    set_name: Elemental Energy
+    rarities:
+    - Common
   ko:
   - set_number: EEN-KR056
     set_name: Elemental Energy

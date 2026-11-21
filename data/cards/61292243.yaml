@@ -158,6 +158,15 @@ sets:
     set_name: 'Tactical-Try Deck: Rescue-ACE'
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE058
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  - set_number: TT02-AEA15
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: DUNE-KR058
     set_name: Duelist Nexus

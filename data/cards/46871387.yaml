@@ -95,6 +95,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AEC27
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: EP14-KR047
     set_name: 'Extra Pack: Knights of Order'

@@ -101,6 +101,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: 26AT-AE322
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: HC01-KR035
     set_name: History Archive Collection

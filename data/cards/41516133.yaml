@@ -81,6 +81,12 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BPRO-AE022
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: BPRO-KR022
     set_name: Burst Protocol

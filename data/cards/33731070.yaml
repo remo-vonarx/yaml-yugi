@@ -161,6 +161,15 @@ sets:
     set_name: "Structure Deck R: Devil's Gate"
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: EEN-AE020
+    set_name: Elemental Energy
+    rarities:
+    - Common
+  - set_number: DUNE-AE084
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: EEN-KR020
     set_name: Elemental Energy

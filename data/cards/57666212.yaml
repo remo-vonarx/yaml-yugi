@@ -190,6 +190,11 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: DUAD-AES18
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP03-KR022
     set_name: Premium Pack Vol.3

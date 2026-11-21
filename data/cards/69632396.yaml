@@ -107,6 +107,12 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Rare
+  en-HK:
+  - set_number: SOI-AE059
+    set_name: Shadow of Infinity
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR059
     set_name: Shadow of Infinity

@@ -96,6 +96,11 @@ sets:
     set_name: Tournament Pack 2018 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE090
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: HA07-KR038
     set_name: 'Hidden Arsenal 7: Knight of Stars'

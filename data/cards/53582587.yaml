@@ -793,6 +793,18 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: LON-025
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Ultra Rare
+  - set_number: ES01-AE070
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LON-KR025
     set_name: Labyrinth of Nightmare

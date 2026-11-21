@@ -141,6 +141,11 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BLZD-AES17
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBDS-KR007
     set_name: 'Deck-Build Pack: Dark Saviors'

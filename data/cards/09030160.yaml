@@ -76,6 +76,11 @@ sets:
     set_name: Maximum Crisis
     rarities:
     - Rare
+  en-HK:
+  - set_number: DOOD-AES11
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MACR-KR068
     set_name: Maximum Crisis

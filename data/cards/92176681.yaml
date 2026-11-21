@@ -78,6 +78,11 @@ sets:
     set_name: Chaos Impact
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE180
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: CHIM-KR001
     set_name: Chaos Impact

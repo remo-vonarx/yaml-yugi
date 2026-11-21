@@ -81,6 +81,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SUDA-AE097
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: AC02-KR040
     set_name: Animation Chronicle 2022

@@ -155,6 +155,11 @@ sets:
     set_name: Duelist Edition Volume 2
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE020
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: TAEV-KR031
     set_name: Tactical Evolution

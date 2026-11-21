@@ -131,6 +131,11 @@ sets:
     set_name: Duelist Alliance
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: BLZD-AE105
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: DUEA-KR052
     set_name: Duelist Alliance

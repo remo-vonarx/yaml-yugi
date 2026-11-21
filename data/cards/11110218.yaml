@@ -102,6 +102,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE223
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: WPP2-KR061
     set_name: World Premiere Pack 2021

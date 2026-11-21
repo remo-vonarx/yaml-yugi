@@ -102,6 +102,11 @@ sets:
     set_name: Spell of Mask
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-040
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR040
     set_name: Labyrinth of Nightmare

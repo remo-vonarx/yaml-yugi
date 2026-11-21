@@ -80,6 +80,11 @@ sets:
     set_name: 'Invasion: Vengeance'
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE090
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR030
     set_name: 'Invasion: Vengeance'

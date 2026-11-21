@@ -104,6 +104,11 @@ sets:
     set_name: Dimension Force
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE054
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: DIFO-KR010
     set_name: Dimension Force

@@ -163,6 +163,11 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD1-AE001
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: EXP6-KR001
     set_name: 'Extra Pack: Sword of Knights'

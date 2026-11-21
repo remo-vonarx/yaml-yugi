@@ -206,6 +206,14 @@ sets:
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions 10th Anniversary Movie Box
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ES01-AE020
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SHVI-KR085
     set_name: Shining Victories

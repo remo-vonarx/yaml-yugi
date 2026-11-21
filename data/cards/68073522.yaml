@@ -154,6 +154,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE046
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: ESP3-KR036
     set_name: Expansion Pack Vol.3

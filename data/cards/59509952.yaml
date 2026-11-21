@@ -190,6 +190,13 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AE088
+    set_name: Burst Protocol
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP05-KR007
     set_name: Premium Pack Vol.5

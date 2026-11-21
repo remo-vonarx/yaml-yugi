@@ -71,6 +71,11 @@ sets:
     set_name: Galactic Overlord
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE114
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: GAOV-KR059
     set_name: Galactic Overlord

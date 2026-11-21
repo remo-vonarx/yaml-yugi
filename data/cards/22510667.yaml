@@ -90,6 +90,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AES17
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DANE-KR044
     set_name: Dark Neostorm

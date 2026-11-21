@@ -109,6 +109,11 @@ sets:
     set_name: Duelist Edition Volume 1
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE132
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: STON-KR003
     set_name: Strike of Neos

@@ -140,6 +140,11 @@ sets:
     set_name: 'Structure Deck R: Dragunity Drive'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-070
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR070
     set_name: Labyrinth of Nightmare

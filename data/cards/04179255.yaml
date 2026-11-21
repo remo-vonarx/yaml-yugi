@@ -89,6 +89,13 @@ sets:
     set_name: Premium Pack 15
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: ES02-AE050
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP08-KR041
     set_name: Premium Pack Vol.8

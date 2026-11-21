@@ -86,6 +86,12 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BETB-AE084
+    set_name: Beyond the Brave
+    rarities:
+    - Rare
+    - Secret Rare
   ko:
   - set_number: TTP1-KR025
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'

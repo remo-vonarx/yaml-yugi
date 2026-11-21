@@ -260,6 +260,15 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-035
+    set_name: Legacy of Darkness
+    rarities:
+    - Super Rare
+  - set_number: SSD2-AE005
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR035
     set_name: Legacy of Darkness

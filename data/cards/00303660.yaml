@@ -186,6 +186,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Gloom'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE040
+    set_name: Ancient Sanctuary
+    rarities:
+    - Super Rare
   ko:
   - set_number: AST-KR040
     set_name: Ancient Sanctuary

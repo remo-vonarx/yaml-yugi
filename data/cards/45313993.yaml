@@ -154,6 +154,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC26
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: TDIL-KR014
     set_name: The Dark Illusion

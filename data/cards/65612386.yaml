@@ -81,6 +81,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: DUAD-AES19
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP11-KR001
     set_name: Premium Pack Vol.11

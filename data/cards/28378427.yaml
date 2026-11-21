@@ -145,6 +145,12 @@ sets:
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"
     rarities:
     - Common
+  en-HK:
+  - set_number: SOI-AE052
+    set_name: Shadow of Infinity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR052
     set_name: Shadow of Infinity

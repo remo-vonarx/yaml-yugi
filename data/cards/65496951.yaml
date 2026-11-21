@@ -99,6 +99,11 @@ sets:
     set_name: Legacy of Destruction
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE066
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: LEDE-KR066
     set_name: Legacy of Destruction

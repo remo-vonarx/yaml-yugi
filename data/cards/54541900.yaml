@@ -155,6 +155,11 @@ sets:
     set_name: Tournament Pack 2007 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-067
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
   ko:
   - set_number: LOB-K067
     set_name: Legend of Blue Eyes White Dragon

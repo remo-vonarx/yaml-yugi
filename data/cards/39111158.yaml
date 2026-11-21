@@ -191,6 +191,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: LOB-000
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Secret Rare
   ko:
   - set_number: LOB-K000
     set_name: Legend of Blue Eyes White Dragon

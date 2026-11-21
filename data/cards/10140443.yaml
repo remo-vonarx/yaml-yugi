@@ -90,6 +90,15 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDSS-AE042
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: SDSS-AEP04
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DP28-KR004
     set_name: 'Duelist Pack: Duelists of Explosion'

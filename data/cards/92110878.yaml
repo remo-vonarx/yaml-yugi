@@ -117,6 +117,18 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: LEDE-AE004
+    set_name: Legacy of Destruction
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: LEDE-AE004
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LEDE-KR004
     set_name: Legacy of Destruction

@@ -90,6 +90,11 @@ sets:
     set_name: Alliance Insight
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: ALIN-AE034
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: ALIN-KR034
     set_name: Alliance Insight

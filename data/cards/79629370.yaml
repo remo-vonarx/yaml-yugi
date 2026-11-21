@@ -66,6 +66,11 @@ sets:
     set_name: Duelist Legacy Volume.4
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE092
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: TP2-KR023
     set_name: 'Tournament Pack: 2nd Season'

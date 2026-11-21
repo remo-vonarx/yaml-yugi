@@ -91,6 +91,18 @@ sets:
     set_name: Phantom Nightmare
     rarities:
     - Rare
+  en-HK:
+  - set_number: PHNI-AE039
+    set_name: Phantom Nightmare
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: PHNI-AE039
+    set_name: Phantom Nightmare +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PHNI-KR039
     set_name: Phantom Nightmare

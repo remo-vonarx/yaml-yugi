@@ -182,6 +182,11 @@ sets:
     set_name: 'Memories of the Duel King: Battle City Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-066
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
   ko:
   - set_number: PSV-K066
     set_name: Pharaoh's Servant

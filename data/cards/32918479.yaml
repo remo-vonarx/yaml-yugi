@@ -110,6 +110,11 @@ sets:
     set_name: Starter Deck 2011
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE014
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR014
     set_name: Enemy of Justice

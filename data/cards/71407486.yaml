@@ -154,6 +154,11 @@ sets:
     set_name: Tournament Pack 2012 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-085
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K085
     set_name: Legend of Blue Eyes White Dragon

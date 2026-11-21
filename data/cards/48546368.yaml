@@ -129,6 +129,11 @@ sets:
     set_name: The New Challengers
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR04-AE149
+    set_name: Creation Pack 04
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: NECH-KR045
     set_name: The New Challengers

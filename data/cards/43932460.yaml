@@ -125,6 +125,13 @@ sets:
     rarities:
     - Duel Terminal Ultra Parallel Rare
     - Duel Terminal Secret Parallel Rare
+  en-HK:
+  - set_number: ES02-AE049
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: HA04-KR030
     set_name: "Hidden Arsenal 4: Trishula's Triumph"

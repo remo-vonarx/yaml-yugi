@@ -210,6 +210,11 @@ sets:
     set_name: Beginner's Edition 2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-089
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K089
     set_name: Metal Raiders

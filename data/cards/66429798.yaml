@@ -78,6 +78,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: 26AT-AE205
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: 25PP-KRB03
     set_name: Premium Pack 2025 2nd Wave

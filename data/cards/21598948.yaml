@@ -154,6 +154,11 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-024
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR024
     set_name: Labyrinth of Nightmare

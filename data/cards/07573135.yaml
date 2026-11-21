@@ -109,6 +109,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE056
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
   ko:
   - set_number: PRIO-KR030
     set_name: Primal Origin

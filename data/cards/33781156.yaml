@@ -105,6 +105,12 @@ sets:
     set_name: 'Art Expansion Box: Tri-Brigade Arms Mouser'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AE051
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DOOD-KR051
     set_name: Doom of Dimensions

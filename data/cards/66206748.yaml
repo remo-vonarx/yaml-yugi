@@ -91,6 +91,13 @@ sets:
     - Super Rare
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: BETB-AE085
+    set_name: Beyond the Brave
+    rarities:
+    - Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 26PP-KR004
     set_name: Premium Pack 2026

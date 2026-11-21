@@ -314,6 +314,12 @@ sets:
     set_name: "Structure Deck: Cyber Style's Successor"
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE009
+    set_name: Enemy of Justice
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: EOJ-KR009
     set_name: Enemy of Justice

@@ -188,6 +188,11 @@ sets:
     set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE114
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: SD26-KR019
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'

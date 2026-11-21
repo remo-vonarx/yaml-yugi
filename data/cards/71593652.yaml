@@ -74,6 +74,11 @@ sets:
     set_name: World Premiere Pack 2026
     rarities:
     - Rare
+  en-HK:
+  - set_number: BPRO-AE118
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: WPP7-KR068
     set_name: World Premiere Pack 2026

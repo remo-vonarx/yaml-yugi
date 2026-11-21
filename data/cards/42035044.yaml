@@ -153,6 +153,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AEC01
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: 15AX-KRM18
     set_name: 'Duelist Road -Piece of Memory- Side: Yugi Muto'

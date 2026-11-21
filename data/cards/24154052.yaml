@@ -78,6 +78,11 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE176
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: FLOD-KR001
     set_name: Flames of Destruction

@@ -184,6 +184,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE200
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR066
     set_name: Lord of the Tachyon Galaxy

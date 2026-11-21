@@ -128,6 +128,17 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR06-AE038
+    set_name: Creation Pack 06
+    rarities:
+    - Common
+  - set_number: LAVD-AES34
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DP25-KR005
     set_name: 'Duelist Pack: Duelists of Whirlwind'

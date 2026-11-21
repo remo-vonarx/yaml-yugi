@@ -55,6 +55,13 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: IMPH-AE030
+    set_name: Immortal Phoenix
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   zh-CN:
   - set_number: IMPH-SC030
     set_name: Immortal Phoenix

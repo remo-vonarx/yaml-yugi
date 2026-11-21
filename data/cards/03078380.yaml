@@ -114,6 +114,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AEP06
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: BACH-KR003
     set_name: Battle of Chaos

@@ -140,6 +140,19 @@ sets:
     set_name: Yu-Gi-Oh! ARC-V Volume 2 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR06-AE029
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: CR06-AES08
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Secret Rare
+  - set_number: LAVD-AES26
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: PP12-KR042
     set_name: Premium Pack Vol.12

@@ -184,6 +184,11 @@ sets:
     set_name: 'Structure Deck: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE029
+    set_name: Rise of Destiny
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR029
     set_name: Rise of Destiny

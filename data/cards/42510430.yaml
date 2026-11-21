@@ -122,6 +122,12 @@ sets:
     set_name: World Premiere Pack 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: DBPR-AE060
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: WPP5-KR062
     set_name: World Premiere Pack 2024

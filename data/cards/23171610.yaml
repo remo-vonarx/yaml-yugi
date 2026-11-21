@@ -581,6 +581,15 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: PSV-064
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
+  - set_number: 24AT-AE318
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K064
     set_name: Pharaoh's Servant

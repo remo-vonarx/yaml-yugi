@@ -356,6 +356,20 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: RC04-AE061
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CH02-AE035
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: EP19-KR068
     set_name: Extra Pack 2019

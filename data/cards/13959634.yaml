@@ -138,6 +138,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 24AT-AE402
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: ABYR-KR035
     set_name: Abyss Rising

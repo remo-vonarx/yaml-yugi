@@ -112,6 +112,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE311
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: DANE-KR030
     set_name: Dark Neostorm

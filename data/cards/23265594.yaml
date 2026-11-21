@@ -255,6 +255,11 @@ sets:
     set_name: 'Structure Deck: Seto Kaiba'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE011
+    set_name: Rise of Destiny
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR011
     set_name: Rise of Destiny

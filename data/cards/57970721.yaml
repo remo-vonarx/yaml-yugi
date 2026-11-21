@@ -77,6 +77,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE072
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: DBGI-KR035
     set_name: 'Deck-Build Pack: Genesis Impactors'

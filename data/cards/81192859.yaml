@@ -77,6 +77,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR04-AE139
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: DBGC-KR009
     set_name: 'Deck-Build Pack: Grand Creators'

@@ -162,6 +162,11 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR02-AE042
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: SD29-KR041
     set_name: 'Structure Deck: Master of Pendulum'

@@ -158,6 +158,17 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR02-AE044
+    set_name: Creation Pack 02
+    rarities:
+    - Common
+  - set_number: LAVD-AEO19
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SD29-KR025
     set_name: 'Structure Deck: Master of Pendulum'

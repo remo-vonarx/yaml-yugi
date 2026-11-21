@@ -133,6 +133,11 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: INFO-AE092
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: 24PP-KRB21
     set_name: Premium Pack 2024 2nd Wave

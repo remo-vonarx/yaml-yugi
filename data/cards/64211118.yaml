@@ -133,6 +133,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR08-AE099
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+  - set_number: CR08-AES34
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: HC01-KR044
     set_name: History Archive Collection

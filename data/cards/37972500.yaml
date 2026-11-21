@@ -98,6 +98,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR09-AE068
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: DAMA-KR048
     set_name: Dawn of Majesty

@@ -114,6 +114,13 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: DBJH-AE034
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: DBJH-KR034
     set_name: 'Deck-Build Pack: Justice Hunters'

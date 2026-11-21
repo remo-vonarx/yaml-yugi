@@ -88,6 +88,11 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE149
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: EXVC-KR073
     set_name: Extreme Victory

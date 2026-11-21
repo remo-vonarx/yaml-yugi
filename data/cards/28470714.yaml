@@ -177,6 +177,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-118
+    set_name: Metal Raiders
+    rarities:
+    - Rare
   ko:
   - set_number: MRD-K118
     set_name: Metal Raiders

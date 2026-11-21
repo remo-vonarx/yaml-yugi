@@ -202,6 +202,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE010
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: CORE-KR024
     set_name: Clash of Rebellions

@@ -162,6 +162,11 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-056
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
   ko:
   - set_number: PSV-K056
     set_name: Pharaoh's Servant

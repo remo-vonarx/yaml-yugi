@@ -121,6 +121,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR06-AE084
+    set_name: Creation Pack 06
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: RATE-KR046
     set_name: Raging Tempest

@@ -177,6 +177,11 @@ sets:
     set_name: Duelist Edition Volume 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE049
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: GLAS-KR021
     set_name: Gladiator's Assault

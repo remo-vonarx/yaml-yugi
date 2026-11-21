@@ -169,6 +169,11 @@ sets:
     set_name: "Structure Deck: Cyber Style's Successor"
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE085
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: DP18-KR023
     set_name: 'Duelist Pack: Legend Duelist'

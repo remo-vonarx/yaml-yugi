@@ -110,6 +110,11 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: INFO-AE058
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
   ko:
   - set_number: INFO-KR058
     set_name: The Infinite Forbidden

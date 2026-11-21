@@ -132,6 +132,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: 24AT-AE412
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: GENF-KR040
     set_name: Generation Force

@@ -152,6 +152,11 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH02-AE012
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: POTE-KR032
     set_name: Power of the Elements

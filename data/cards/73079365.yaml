@@ -108,6 +108,11 @@ sets:
     set_name: Tournament Pack 2011 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-017
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K017
     set_name: Pharaoh's Servant

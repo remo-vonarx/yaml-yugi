@@ -251,6 +251,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: SOD-AE015
+    set_name: Soul of the Duelist
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: SOD-KR015
     set_name: Soul of the Duelist

@@ -92,6 +92,11 @@ sets:
     set_name: 'Deck-Build Pack: Phantom Revengers'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: DBPR-AE031
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBPR-KR031
     set_name: 'Deck-Build Pack: Phantom Revengers'

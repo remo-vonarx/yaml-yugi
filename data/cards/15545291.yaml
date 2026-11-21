@@ -112,6 +112,11 @@ sets:
     set_name: Shadow Specters
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: DOOD-AE087
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: SHSP-KR041
     set_name: Shadow Specters

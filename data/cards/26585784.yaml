@@ -77,6 +77,16 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBJH-AE041
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+  - set_number: 25YC-AET02
+    set_name: K9 Duel Set
+    rarities:
+    - Ultra Parallel Rare
   ko:
   - set_number: DBJH-KR041
     set_name: 'Deck-Build Pack: Justice Hunters'

@@ -176,6 +176,11 @@ sets:
     set_name: Shining Victories
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE006
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: SHVI-KR019
     set_name: Shining Victories

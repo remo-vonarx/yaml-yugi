@@ -86,6 +86,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: INFO-AE110
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: DBSW-KR024
     set_name: 'Deck-Build Pack: Spirit Warriors'

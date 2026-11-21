@@ -91,6 +91,13 @@ sets:
     set_name: 'Duelist Box: Prismatic Summon'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES02-AE072
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: EXFO-KR049
     set_name: Extreme Force

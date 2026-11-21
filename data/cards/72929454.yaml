@@ -55,6 +55,11 @@ sets:
     set_name: Booster Chronicle
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE078
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

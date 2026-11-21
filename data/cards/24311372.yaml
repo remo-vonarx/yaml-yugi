@@ -118,6 +118,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: BN01-AE057
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: 15AX-KRM09
     set_name: 'Duelist Road -Piece of Memory- Side: Yugi Muto'

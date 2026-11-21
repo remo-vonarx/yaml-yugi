@@ -76,6 +76,11 @@ sets:
     set_name: 'Duelist Set: Version Lightning Star'
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE089
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
   ko:
   - set_number: GENF-KR035
     set_name: Generation Force

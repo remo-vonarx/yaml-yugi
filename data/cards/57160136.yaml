@@ -257,6 +257,17 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SDSS-AE036
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
+  - set_number: IMPH-AES14
+    set_name: Immortal Phoenix +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DANE-KR051
     set_name: Dark Neostorm

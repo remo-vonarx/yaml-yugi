@@ -138,6 +138,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-090
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR090
     set_name: Magician's Force

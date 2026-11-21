@@ -305,6 +305,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: RGBT-AE051
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR051
     set_name: Raging Battle

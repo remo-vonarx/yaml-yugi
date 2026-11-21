@@ -128,6 +128,11 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: AST-AE111
+    set_name: Ancient Sanctuary
+    rarities:
+    - Secret Rare
   ko:
   - set_number: AST-KR111
     set_name: Ancient Sanctuary

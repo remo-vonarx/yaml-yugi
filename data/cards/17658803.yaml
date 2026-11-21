@@ -220,6 +220,15 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-050
+    set_name: Legacy of Darkness
+    rarities:
+    - Super Rare
+  - set_number: BN01-AE113
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: LOD-KR050
     set_name: Legacy of Darkness

@@ -144,6 +144,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-046
+    set_name: Magician's Force
+    rarities:
+    - Super Short Print
   ko:
   - set_number: MFC-KR046
     set_name: Magician's Force

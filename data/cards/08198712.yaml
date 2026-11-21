@@ -108,6 +108,11 @@ sets:
     set_name: 'Duelist Box: Prismatic Summon'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SOI-AE046
+    set_name: Shadow of Infinity
+    rarities:
+    - Common
   ko:
   - set_number: SOI-KR046
     set_name: Shadow of Infinity

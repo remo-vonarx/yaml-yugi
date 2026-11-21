@@ -397,6 +397,15 @@ sets:
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE052
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: 24AT-AE322
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: FET-KR052
     set_name: Flaming Eternity

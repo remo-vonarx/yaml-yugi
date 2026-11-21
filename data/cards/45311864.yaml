@@ -105,6 +105,15 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE045
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
+  - set_number: SSD2-AE015
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR045
     set_name: Ancient Sanctuary

@@ -178,6 +178,11 @@ sets:
     set_name: 'Duelist Box: Prismatic Summon'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE129
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: DOCS-KR029
     set_name: Dimension of Chaos

@@ -166,6 +166,12 @@ sets:
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOI-AE047
+    set_name: Shadow of Infinity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR047
     set_name: Shadow of Infinity

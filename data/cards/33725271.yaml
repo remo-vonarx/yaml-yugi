@@ -70,6 +70,11 @@ sets:
     set_name: Force of the Breaker
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE172
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: FOTB-KR049
     set_name: Force of the Breaker

@@ -105,6 +105,11 @@ sets:
     set_name: Weekly Shōnen Jump 2015, Issue 34 promotional card
     rarities:
     - Millennium Rare
+  en-HK:
+  - set_number: CR12-AE003
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: BOSH-KR083
     set_name: Breakers of Shadow

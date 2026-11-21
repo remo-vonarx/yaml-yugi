@@ -103,6 +103,11 @@ sets:
     set_name: Starter Deck 2013
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE149
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR001
     set_name: Return of the Duelist

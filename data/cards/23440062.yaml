@@ -94,6 +94,11 @@ sets:
     set_name: Raging Battle
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE067
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR067
     set_name: Raging Battle

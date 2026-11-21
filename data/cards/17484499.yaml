@@ -184,6 +184,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: 26AT-AE220
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: DP17-KR037
     set_name: "Duelist Pack: Pharaoh's Memories"

@@ -77,6 +77,11 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Common
+  en-HK:
+  - set_number: DUAD-AE065
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ko:
   - set_number: DUAD-KR065
     set_name: Duelist's Advance

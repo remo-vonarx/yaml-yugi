@@ -172,6 +172,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultra Rare (Special Blue Version)
+  en-HK:
+  - set_number: CR13-AE028
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: AE13-KR017
     set_name: Advanced Event Pack 2019 Vol.1

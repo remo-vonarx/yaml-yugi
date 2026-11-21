@@ -142,6 +142,11 @@ sets:
     set_name: Cyberstorm Access
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE115
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: CYAC-KR061
     set_name: Cyberstorm Access

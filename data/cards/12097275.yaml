@@ -108,6 +108,11 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC49
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: FLOD-KR010
     set_name: Flames of Destruction

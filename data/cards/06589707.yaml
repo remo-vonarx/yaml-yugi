@@ -128,6 +128,12 @@ sets:
     set_name: Darkwing Blast
     rarities:
     - Common
+  en-HK:
+  - set_number: DBPR-AE059
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DABL-KR069
     set_name: Darkwing Blast

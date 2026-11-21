@@ -269,6 +269,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: 24AT-AE103
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: HA07-KR020
     set_name: 'Hidden Arsenal 7: Knight of Stars'

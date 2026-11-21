@@ -300,6 +300,11 @@ sets:
     set_name: Legendary Duel Selection
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: LON-097
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Super Rare
   ko:
   - set_number: LON-KR097
     set_name: Labyrinth of Nightmare

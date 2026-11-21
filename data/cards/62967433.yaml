@@ -94,6 +94,11 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: DBCB-AE014
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Super Rare
   ko:
   - set_number: 23PP-KRB21
     set_name: Premium Pack 2023 2nd Wave

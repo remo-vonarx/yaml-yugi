@@ -108,6 +108,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR12-AE048
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR069
     set_name: Phantom Rage

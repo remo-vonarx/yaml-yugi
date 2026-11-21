@@ -99,6 +99,11 @@ sets:
     set_name: The Valuable Book EX 3 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DI01-AE030
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: 24PP-KRB05
     set_name: Premium Pack 2024 2nd Wave

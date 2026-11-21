@@ -96,6 +96,11 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: TFTV-AE000
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: 26PP-KR033
     set_name: Premium Pack 2026

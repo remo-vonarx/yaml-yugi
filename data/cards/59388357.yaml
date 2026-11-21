@@ -215,6 +215,11 @@ sets:
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE196
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: SD24-KR023
     set_name: 'Structure Deck: Onslaught of the Fire Kings'

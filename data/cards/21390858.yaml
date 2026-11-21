@@ -75,6 +75,11 @@ sets:
     set_name: Order of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AES13
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: ORCS-KR033
     set_name: Order of Chaos

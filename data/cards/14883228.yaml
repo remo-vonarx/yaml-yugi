@@ -142,6 +142,13 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: ES01-AE073
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EP15-KR089
     set_name: Extra Pack 2015

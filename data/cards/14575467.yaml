@@ -125,6 +125,11 @@ sets:
     set_name: Extreme Force
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: BN01-AE174
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: EXFO-KR001
     set_name: Extreme Force

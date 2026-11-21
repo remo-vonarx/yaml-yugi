@@ -205,6 +205,11 @@ sets:
     set_name: Tournament Pack 2019 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE012
+    set_name: Invasion of Chaos
+    rarities:
+    - Super Rare
   ko:
   - set_number: IOC-KR012
     set_name: Invasion of Chaos

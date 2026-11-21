@@ -111,6 +111,13 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: ES02-AE023
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DBGC-KR028
     set_name: 'Deck-Build Pack: Grand Creators'

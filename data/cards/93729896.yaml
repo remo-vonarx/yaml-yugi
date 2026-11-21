@@ -141,6 +141,16 @@ sets:
     set_name: Winner's Pack 2026 Vol.1
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: LEDE-AE061
+    set_name: Legacy of Destruction
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: LEDE-AE061
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: LEDE-KR061
     set_name: Legacy of Destruction

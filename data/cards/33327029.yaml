@@ -153,6 +153,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE173
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: TDIL-KR072
     set_name: The Dark Illusion

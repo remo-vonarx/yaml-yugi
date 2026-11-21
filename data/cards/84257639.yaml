@@ -179,6 +179,11 @@ sets:
     set_name: Remote Duel Twitter Campaigns
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: SDY-023
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K023
     set_name: 'Starter Deck: Yugi'

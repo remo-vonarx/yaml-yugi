@@ -350,6 +350,15 @@ sets:
     set_name: 'Memories of the Duel King: Duelist Kingdom Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-002
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: MRD-001
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K002
     set_name: 'Starter Deck: Yugi'

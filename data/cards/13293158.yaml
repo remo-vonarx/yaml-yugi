@@ -150,6 +150,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE010
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: DP06-KR015
     set_name: 'Duelist Pack: Jaden Yuki 3'

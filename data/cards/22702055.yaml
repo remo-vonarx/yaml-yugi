@@ -197,6 +197,11 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-050
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K050
     set_name: Legend of Blue Eyes White Dragon

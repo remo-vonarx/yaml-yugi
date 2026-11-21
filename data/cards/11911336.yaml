@@ -90,6 +90,12 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CH02-AE028
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CH02-KR028
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'

@@ -146,6 +146,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: EEN-AE035
+    set_name: Elemental Energy
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: EEN-KR035
     set_name: Elemental Energy

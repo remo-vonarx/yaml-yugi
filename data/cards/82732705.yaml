@@ -420,6 +420,18 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: DCR-049
+    set_name: Dark Crisis
+    rarities:
+    - Rare
+  - set_number: ES01-AE071
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DCR-KR049
     set_name: Dark Crisis

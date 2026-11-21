@@ -266,6 +266,11 @@ sets:
     set_name: 'Structure Deck: Yugi Muto'
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-005
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
   ko:
   - set_number: PSV-K005
     set_name: Pharaoh's Servant

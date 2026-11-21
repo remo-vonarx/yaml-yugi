@@ -180,6 +180,20 @@ sets:
     set_name: Limit Over Special Pack Vol.1
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: AGOV-AE030
+    set_name: Age of Overlord
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+    - Holographic Rare
+  - set_number: AGOV-AE030
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AGOV-KR030
     set_name: Age of Overlord

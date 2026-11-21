@@ -100,6 +100,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 6'
     rarities:
     - Rare
+  en-HK:
+  - set_number: DUNE-AE118
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: DP23-KR027
     set_name: 'Duelist Pack: Legend Duelist 6'

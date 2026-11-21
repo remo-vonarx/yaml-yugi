@@ -130,6 +130,15 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: AGOV-AE089
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  - set_number: LAVD-AEO12
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: PP17-KR018
     set_name: Premium Pack Vol.17

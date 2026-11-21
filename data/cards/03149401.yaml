@@ -89,6 +89,11 @@ sets:
     set_name: Rage of the Abyss
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ROTA-AE000
+    set_name: Rage of the Abyss
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: ROTA-KR000
     set_name: Rage of the Abyss

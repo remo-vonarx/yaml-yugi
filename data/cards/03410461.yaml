@@ -159,6 +159,11 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH01-AE045
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: DIFO-KR035
     set_name: Dimension Force

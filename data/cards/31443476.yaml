@@ -222,6 +222,17 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR10-AE015
+    set_name: Creation Pack 10
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR10-AES04
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CIBR-KR056
     set_name: Circuit Break

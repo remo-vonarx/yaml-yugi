@@ -175,6 +175,11 @@ sets:
     set_name: Animation Chronicle 2023
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE042
+    set_name: Creation Pack 01
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: CIBR-KR047
     set_name: Circuit Break

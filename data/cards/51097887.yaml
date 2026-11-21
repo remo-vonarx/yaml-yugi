@@ -135,6 +135,11 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE016
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR053
     set_name: Phantom Rage

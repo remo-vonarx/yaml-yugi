@@ -126,6 +126,11 @@ sets:
     set_name: Ignition Assault
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AE084
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: IGAS-KR028
     set_name: Ignition Assault

@@ -161,6 +161,11 @@ sets:
     set_name: Animation Chronicle 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE177
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: CORE-KR017
     set_name: Clash of Rebellions

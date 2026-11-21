@@ -146,6 +146,11 @@ sets:
     set_name: Tournament Pack 2019 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE058
+    set_name: Crimson Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: CRMS-KR058
     set_name: Crimson Crisis

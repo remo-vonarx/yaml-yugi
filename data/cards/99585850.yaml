@@ -161,6 +161,11 @@ sets:
     set_name: Limit Over Special Pack Vol.2
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR11-AE015
+    set_name: Creation Pack 11
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: LGB1-KR021
     set_name: Legendary Gold Set

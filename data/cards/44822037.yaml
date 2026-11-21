@@ -156,6 +156,15 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE118
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
+  - set_number: CH02-AE040
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: BLVO-KR079
     set_name: Blazing Vortex

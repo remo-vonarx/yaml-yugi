@@ -256,6 +256,21 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: MFC-048
+    set_name: Magician's Force
+    rarities:
+    - Common
+  - set_number: 24AT-AE219
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
+  - set_number: ES02-AE110
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MFC-KR048
     set_name: Magician's Force

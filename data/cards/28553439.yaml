@@ -316,6 +316,15 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE031
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: SDID-AE021
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: SD6-KR029
     set_name: "Structure Deck: Spellcaster's Judgment"

@@ -119,6 +119,11 @@ sets:
     set_name: Yu-Gi-Oh! 5D's Volume 6 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR11-AE020
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: SD26-KRDE1
     set_name: 'Structure Deck: Cyber Dragon Revolution Deluxe Edition'

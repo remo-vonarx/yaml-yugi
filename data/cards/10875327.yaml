@@ -172,6 +172,12 @@ sets:
     rarities:
     - Common
     - Collector's Rare
+  en-HK:
+  - set_number: RGBT-AE019
+    set_name: Raging Battle
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: RGBT-KR019
     set_name: Raging Battle

@@ -464,6 +464,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDY-041
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SDY-K041
     set_name: 'Starter Deck: Yugi'

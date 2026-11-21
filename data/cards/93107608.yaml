@@ -146,6 +146,15 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE025
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
+  - set_number: LEDE-AE095
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR025
     set_name: Soul of the Duelist

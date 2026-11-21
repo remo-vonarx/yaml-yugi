@@ -142,6 +142,11 @@ sets:
     set_name: Duelist Legacy Volume.4
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-081
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K081
     set_name: Metal Raiders

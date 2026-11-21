@@ -85,6 +85,13 @@ sets:
     set_name: Promotion Pack 2025
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES02-AE071
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 26PP-KR045
     set_name: Premium Pack 2026

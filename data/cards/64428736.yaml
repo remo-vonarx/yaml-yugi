@@ -194,6 +194,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BN01-AE102
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP08-KR003
     set_name: Tournament Pack 2011 Vol.8

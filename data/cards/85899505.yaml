@@ -96,6 +96,15 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR13-AE099
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
+  - set_number: CR13-AES40
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: TTP1-KR002
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'

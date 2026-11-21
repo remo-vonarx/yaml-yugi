@@ -257,6 +257,20 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: SLF1-AE032
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Normal Parallel Rare
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CORI-AES04
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: SPFE-KR035
     set_name: 'Booster SP: Fusion Enforcers'

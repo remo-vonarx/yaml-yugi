@@ -315,6 +315,11 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: EEN-AE008
+    set_name: Elemental Energy
+    rarities:
+    - Common
   ko:
   - set_number: EEN-KR008
     set_name: Elemental Energy

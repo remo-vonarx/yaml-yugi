@@ -103,6 +103,11 @@ sets:
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR05-AE106
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: SD23-KR022
     set_name: 'Structure Deck: Roar of the Sea Emperor'

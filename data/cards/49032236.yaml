@@ -182,6 +182,13 @@ sets:
     set_name: 'Tactical-Try Deck: Eldlich the Conqueror'
     rarities:
     - Common
+  en-HK:
+  - set_number: SLF1-AE012
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: EP15-KR055
     set_name: Extra Pack 2015

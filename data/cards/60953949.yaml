@@ -118,6 +118,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR04-AE011
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: PRIO-KR032
     set_name: Primal Origin

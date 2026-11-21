@@ -267,6 +267,15 @@ sets:
     set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE082
+    set_name: Ancient Sanctuary
+    rarities:
+    - Rare
+  - set_number: SDID-AEP07
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: AST-KR082
     set_name: Ancient Sanctuary

@@ -96,6 +96,19 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: WCS-001
+    set_name: Yu-Gi-Oh! Japanese World Championship Qualifier 2003 participation card
+    rarities:
+    - Super Rare
+  - set_number: WCS-001
+    set_name: 'Duelist King Tournament: World Ranking Season 3 top 100 prize card'
+    rarities:
+    - Super Rare
+  - set_number: WCS-001
+    set_name: Yu-Gi-Oh! World Championship 2004 tournament promotional cards
+    rarities:
+    - Super Rare
   ko:
   - set_number: 15AX-KRM14
     set_name: 'Duelist Road -Piece of Memory- Side: Yugi Muto'

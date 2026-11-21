@@ -82,6 +82,18 @@ sets:
     set_name: World Premiere Pack 2026
     rarities:
     - Common
+  en-HK:
+  - set_number: CR12-AE075
+    set_name: Creation Pack 12
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR12-AES28
+    set_name: Creation Pack 12 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP7-KR037
     set_name: World Premiere Pack 2026

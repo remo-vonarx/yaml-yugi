@@ -107,6 +107,18 @@ sets:
     set_name: Yu-Gi-Oh! OCG Stories Magistus Arc Volume 4 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR11-AE081
+    set_name: Creation Pack 11
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR11-AES30
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 25PP-KRB18
     set_name: Premium Pack 2025 2nd Wave

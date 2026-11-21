@@ -74,6 +74,11 @@ sets:
     set_name: Photon Shockwave
     rarities:
     - Common
+  en-HK:
+  - set_number: DUAD-AES11
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PHSW-KR027
     set_name: Photon Shockwave

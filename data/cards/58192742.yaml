@@ -194,6 +194,11 @@ sets:
     set_name: Beginner's Edition 1 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-023
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K023
     set_name: Metal Raiders

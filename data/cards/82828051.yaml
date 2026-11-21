@@ -214,6 +214,11 @@ sets:
     set_name: Duel Terminal - Justice Strikes Back!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: AST-AE043
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR043
     set_name: Ancient Sanctuary

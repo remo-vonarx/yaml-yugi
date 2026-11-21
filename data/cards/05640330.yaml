@@ -147,6 +147,11 @@ sets:
     rarities:
     - Common
     - Millennium Rare
+  en-HK:
+  - set_number: SD16-AE004
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: SD16-KR004
     set_name: 'Structure Deck: Lord of Magician'

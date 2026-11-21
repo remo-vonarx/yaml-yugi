@@ -163,6 +163,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AE089
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: PRIO-KR035
     set_name: Primal Origin

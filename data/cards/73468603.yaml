@@ -266,6 +266,13 @@ sets:
     set_name: Winner's Pack 2025 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: ES02-AE086
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MACR-KR064
     set_name: Maximum Crisis

@@ -108,6 +108,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: AGOV-AE039
+    set_name: Age of Overlord
+    rarities:
+    - Rare
   ko:
   - set_number: AGOV-KR039
     set_name: Age of Overlord

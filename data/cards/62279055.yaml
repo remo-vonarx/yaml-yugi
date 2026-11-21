@@ -722,6 +722,19 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LON-104
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Secret Rare
+  - set_number: SD16-AE038
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: SDID-AE040
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR104
     set_name: Labyrinth of Nightmare

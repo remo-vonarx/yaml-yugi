@@ -101,6 +101,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR01-AE151
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: CDIP-KR048
     set_name: Cyberdark Impact

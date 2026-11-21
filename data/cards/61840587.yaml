@@ -72,6 +72,11 @@ sets:
     set_name: Duelist Edition Volume 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AEC42
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR074
     set_name: Light of Destruction

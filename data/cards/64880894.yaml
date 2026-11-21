@@ -161,6 +161,13 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ES01-AE027
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP11-KR005
     set_name: Premium Pack Vol.11

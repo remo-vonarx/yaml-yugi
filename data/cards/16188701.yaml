@@ -113,6 +113,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SDSS-AE021
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: SD33-KR005
     set_name: 'Structure Deck: Powercode Link'

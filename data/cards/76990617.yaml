@@ -105,6 +105,11 @@ sets:
     set_name: Duelist Alliance
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE029
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: DUEA-KR015
     set_name: Duelist Alliance

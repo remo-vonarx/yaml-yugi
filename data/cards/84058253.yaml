@@ -183,6 +183,11 @@ sets:
     set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE100
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: EP15-KR048
     set_name: Extra Pack 2015

@@ -150,6 +150,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR04-AE138
+    set_name: Creation Pack 04
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DBGC-KR008
     set_name: 'Deck-Build Pack: Grand Creators'

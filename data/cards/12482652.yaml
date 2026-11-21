@@ -208,6 +208,11 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DCR-056
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR056
     set_name: Dark Crisis

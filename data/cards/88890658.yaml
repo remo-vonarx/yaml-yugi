@@ -84,6 +84,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR02-AE143
+    set_name: Creation Pack 02
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DBWS-KR034
     set_name: 'Deck-Build Pack: Wild Survivors'

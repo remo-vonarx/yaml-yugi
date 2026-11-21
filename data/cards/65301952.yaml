@@ -82,6 +82,11 @@ sets:
     set_name: Return of the Duelist
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: 26AT-AE215
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR047
     set_name: Return of the Duelist

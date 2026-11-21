@@ -155,6 +155,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE018
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: BOSH-KR002
     set_name: Breakers of Shadow

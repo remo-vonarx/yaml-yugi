@@ -86,6 +86,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: WCS-AE503
+    set_name: Yu-Gi-Oh! World Championship 2005 prize cards
+    rarities:
+    - Super Rare
+  - set_number: BN01-AE100
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   zh-CN:
   - set_number: TDB1-SC058
     set_name: 'Bonus Pack: Awakened by the Primites'

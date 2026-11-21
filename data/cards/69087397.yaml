@@ -107,6 +107,16 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR05-AE158
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR05-AES23
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BACH-KR060
     set_name: Battle of Chaos

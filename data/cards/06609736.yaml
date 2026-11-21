@@ -142,6 +142,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR04-AE133
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: DIFO-KR022
     set_name: Dimension Force

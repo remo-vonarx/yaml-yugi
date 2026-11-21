@@ -148,6 +148,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: 24AT-AE514
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EP18-KR028
     set_name: Extra Pack 2018

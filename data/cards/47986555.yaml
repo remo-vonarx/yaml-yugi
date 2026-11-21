@@ -77,6 +77,11 @@ sets:
     set_name: Booster 7
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE071
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   zh-CN:
   - set_number: TDB1-SC039
     set_name: 'Bonus Pack: Awakened by the Primites'

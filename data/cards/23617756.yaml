@@ -134,6 +134,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: INFO-AE068
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR068
     set_name: The Infinite Forbidden

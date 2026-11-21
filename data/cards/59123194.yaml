@@ -142,6 +142,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE104
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: BOSH-KR047
     set_name: Breakers of Shadow

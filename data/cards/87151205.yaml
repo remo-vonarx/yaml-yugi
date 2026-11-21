@@ -143,6 +143,11 @@ sets:
     set_name: 'Half Deck 2018: LIGHT'
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE148
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: GAOV-KR001
     set_name: Galactic Overlord

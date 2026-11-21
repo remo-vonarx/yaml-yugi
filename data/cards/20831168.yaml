@@ -55,6 +55,11 @@ sets:
     set_name: Struggle of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-038
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR038
     set_name: Legacy of Darkness

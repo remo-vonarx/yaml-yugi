@@ -144,6 +144,11 @@ sets:
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC42
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ANPR-KR039
     set_name: Ancient Prophecy

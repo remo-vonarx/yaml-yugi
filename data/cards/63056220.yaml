@@ -111,6 +111,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DOOD-AE094
+    set_name: Doom of Dimensions
+    rarities:
+    - Super Rare
   ko:
   - set_number: IGAS-KR035
     set_name: Ignition Assault

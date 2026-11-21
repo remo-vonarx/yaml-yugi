@@ -102,6 +102,11 @@ sets:
     set_name: 'Structure Deck R: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE110
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EXP3-KR003
     set_name: Extra Pack Volume 3

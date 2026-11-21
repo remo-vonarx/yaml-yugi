@@ -135,6 +135,11 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR04-AE044
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: NECH-KR059
     set_name: The New Challengers

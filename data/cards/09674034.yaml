@@ -141,6 +141,18 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: AGOV-AE007
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: AGOV-AE007
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AGOV-KR007
     set_name: Age of Overlord

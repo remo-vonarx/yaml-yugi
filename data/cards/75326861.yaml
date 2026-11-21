@@ -90,6 +90,11 @@ sets:
     set_name: Yu-Gi-Oh! 5D's Volume 1 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AEC23
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP08-KR001
     set_name: Premium Pack Vol.8

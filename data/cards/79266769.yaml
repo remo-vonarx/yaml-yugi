@@ -119,6 +119,11 @@ sets:
     set_name: V Jump July 2018 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: 26AT-AE317
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PP14-KRA38
     set_name: Premium Pack Vol.14 1st Wave

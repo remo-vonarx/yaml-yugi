@@ -134,6 +134,11 @@ sets:
     set_name: 'Structure Deck: Curse of Darkness'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-012
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR012
     set_name: Magician's Force

@@ -108,6 +108,11 @@ sets:
     set_name: Secret Shiny Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BLZD-AE083
+    set_name: Blazing Dominion
+    rarities:
+    - Rare
   ko:
   - set_number: IGAS-KR026
     set_name: Ignition Assault

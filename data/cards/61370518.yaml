@@ -185,6 +185,11 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DCR-073
+    set_name: Dark Crisis
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DCR-KR073
     set_name: Dark Crisis

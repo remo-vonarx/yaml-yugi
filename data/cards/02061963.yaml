@@ -127,6 +127,15 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR07-AE093
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES28
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: JOTL-KR055
     set_name: Judgment of the Light

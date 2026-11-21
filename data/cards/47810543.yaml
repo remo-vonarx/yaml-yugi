@@ -76,6 +76,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE117
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: DANE-KR072
     set_name: Dark Neostorm

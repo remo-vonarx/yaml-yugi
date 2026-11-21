@@ -198,6 +198,11 @@ sets:
     set_name: 'Structure Deck R: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-018
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LON-KR018
     set_name: Labyrinth of Nightmare

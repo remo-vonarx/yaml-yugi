@@ -156,6 +156,11 @@ sets:
     set_name: Tournament Pack 2021 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE410
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SOFU-KR028
     set_name: Soul Fusion

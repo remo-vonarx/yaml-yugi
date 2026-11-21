@@ -410,6 +410,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR13-AE002
+    set_name: Creation Pack 13
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: PP04-KR014
     set_name: Premium Pack Vol.4

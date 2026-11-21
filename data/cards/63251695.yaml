@@ -141,6 +141,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR03-AE145
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: BOSH-KR029
     set_name: Breakers of Shadow

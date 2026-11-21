@@ -74,6 +74,11 @@ sets:
     set_name: Absolute Powerforce
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE142
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: ABPF-KR001
     set_name: Absolute Powerforce

@@ -356,6 +356,44 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: RC04-AE005
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: DI01-AE013
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
+  - set_number: DI02-AE010
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
+  - set_number: TT02-AEA10
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
+  - set_number: TT02-AEB12
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
+  - set_number: LAVD-AEO16
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+  - set_number: LAVD-AEL11
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+  - set_number: LAVD-AES13
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: EXP4-KR037
     set_name: Extra Pack Volume 4

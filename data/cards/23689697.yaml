@@ -147,6 +147,11 @@ sets:
     set_name: Legacy of the Valiant
     rarities:
     - Rare
+  en-HK:
+  - set_number: DOOD-AE088
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: LVAL-KR040
     set_name: Legacy of the Valiant

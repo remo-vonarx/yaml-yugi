@@ -135,6 +135,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.4
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR11-AE049
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: MACR-KR052
     set_name: Maximum Crisis

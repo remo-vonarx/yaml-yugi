@@ -139,6 +139,11 @@ sets:
     set_name: Rise of the Duelist
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR01-AE082
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
   ko:
   - set_number: ROTD-KR041
     set_name: Rise of the Duelist

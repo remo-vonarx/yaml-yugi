@@ -407,6 +407,15 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-018
+    set_name: Legacy of Darkness
+    rarities:
+    - Ultra Rare
+  - set_number: SSD1-AE007
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR018
     set_name: Legacy of Darkness

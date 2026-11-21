@@ -226,6 +226,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE041
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD25-KR040
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"

@@ -96,6 +96,11 @@ sets:
     set_name: Tournament Pack 2019 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE100
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: SECE-KR084
     set_name: Secrets of Eternity

@@ -178,6 +178,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE115
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR060
     set_name: Return of the Duelist

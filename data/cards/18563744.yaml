@@ -84,6 +84,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE007
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: DP17-KR003
     set_name: "Duelist Pack: Pharaoh's Memories"

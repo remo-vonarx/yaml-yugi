@@ -657,6 +657,17 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-142
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
+  - set_number: ES02-AE078
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MRD-K142
     set_name: Metal Raiders

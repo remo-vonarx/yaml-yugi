@@ -104,6 +104,12 @@ sets:
     set_name: 'Duelist Set: Version Machine-Gear Troopers'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DBPR-AE047
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP07-KR014
     set_name: Premium Pack Vol.7

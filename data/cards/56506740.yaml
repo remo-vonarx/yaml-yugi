@@ -228,6 +228,18 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ROTA-AE058
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ROTA-AE058
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ROTA-KR058
     set_name: Rage of the Abyss

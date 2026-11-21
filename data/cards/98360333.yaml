@@ -99,6 +99,13 @@ sets:
     set_name: 'Tactical-Try Deck: Evil★Twin the Kaito Pair'
     rarities:
     - Common
+  en-HK:
+  - set_number: SLF1-AE093
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: DBGI-KR021
     set_name: 'Deck-Build Pack: Genesis Impactors'

@@ -128,6 +128,11 @@ sets:
     set_name: Promotion Pack 2017
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE168
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: AE09-KR015
     set_name: Advanced Event Pack 2016 Vol.1

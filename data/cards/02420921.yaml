@@ -100,6 +100,11 @@ sets:
     set_name: Extra Pack Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE097
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: EXP3-KR023
     set_name: Extra Pack Volume 3

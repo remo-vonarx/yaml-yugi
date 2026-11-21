@@ -102,6 +102,11 @@ sets:
     set_name: Absolute Powerforce
     rarities:
     - Common
+  en-HK:
+  - set_number: CR09-AE032
+    set_name: Creation Pack 09
+    rarities:
+    - Common
   ko:
   - set_number: ABPF-KR013
     set_name: Absolute Powerforce

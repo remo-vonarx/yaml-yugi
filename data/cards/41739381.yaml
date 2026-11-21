@@ -166,6 +166,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: SUDA-AE050
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: SUDA-KR050
     set_name: Supreme Darkness

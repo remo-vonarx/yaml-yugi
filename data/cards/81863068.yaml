@@ -168,6 +168,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-024
+    set_name: Magic Ruler
+    rarities:
+    - Rare
   ko:
   - set_number: SRL-K024
     set_name: Spell Ruler

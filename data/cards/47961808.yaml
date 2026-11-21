@@ -132,6 +132,11 @@ sets:
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AE018
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: CDIP-KR020
     set_name: Cyberdark Impact

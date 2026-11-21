@@ -124,6 +124,11 @@ sets:
     set_name: Tournament Pack 2009 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-119
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K119
     set_name: Metal Raiders

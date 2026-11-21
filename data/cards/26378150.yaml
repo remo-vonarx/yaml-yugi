@@ -134,6 +134,11 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDK-027
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K027
     set_name: 'Starter Deck: Kaiba'

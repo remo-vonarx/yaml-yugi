@@ -397,6 +397,11 @@ sets:
     set_name: 'Duelist Pack: Battle City'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-076
+    set_name: Magic Ruler
+    rarities:
+    - Super Rare
   ko:
   - set_number: SRL-K076
     set_name: Spell Ruler

@@ -153,6 +153,11 @@ sets:
     set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE111
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: CYHO-KR046
     set_name: Cybernetic Horizon

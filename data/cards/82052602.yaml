@@ -80,6 +80,11 @@ sets:
     set_name: 'Duelist Pack: Yuma'
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AEC05
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP12-KR023
     set_name: 'Duelist Pack: Yuma'

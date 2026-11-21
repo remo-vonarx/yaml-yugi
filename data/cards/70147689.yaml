@@ -146,6 +146,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR04-AE027
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: SR03-KR022
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'

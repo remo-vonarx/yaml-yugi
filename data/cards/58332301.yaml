@@ -202,6 +202,15 @@ sets:
     set_name: Tournament Pack 2019 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE009
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: CR06-AES02
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: GLAS-KR040
     set_name: Gladiator's Assault

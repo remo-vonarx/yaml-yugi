@@ -280,6 +280,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE022
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: AST-KR022
     set_name: Ancient Sanctuary

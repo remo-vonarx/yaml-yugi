@@ -77,6 +77,11 @@ sets:
     set_name: V Jump Spring 2025 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AE092
+    set_name: Blazing Dominion
+    rarities:
+    - Common
   ko:
   - set_number: 25PP-KRB26
     set_name: Premium Pack 2025 2nd Wave

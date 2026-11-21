@@ -130,6 +130,19 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: LEDE-AE043
+    set_name: Legacy of Destruction
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
+  - set_number: LEDE-AE043
+    set_name: Legacy of Destruction +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LEDE-KR043
     set_name: Legacy of Destruction

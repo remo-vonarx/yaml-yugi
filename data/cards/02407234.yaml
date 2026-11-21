@@ -129,6 +129,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR07-AE059
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD26-KRDE2
     set_name: 'Structure Deck: Cyber Dragon Revolution Deluxe Edition'

@@ -106,6 +106,11 @@ sets:
     set_name: 'Structure Deck: Cyberse Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE010
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: ANPR-KR009
     set_name: Ancient Prophecy

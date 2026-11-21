@@ -96,6 +96,11 @@ sets:
     set_name: Tournament Pack 2026 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BETB-AEC44
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SD4-KR001
     set_name: 'Structure Deck: Fury from the Deep'

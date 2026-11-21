@@ -210,6 +210,15 @@ sets:
     set_name: Tournament Pack 2009 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-049
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-049
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K049
     set_name: 'Starter Deck: Yugi'

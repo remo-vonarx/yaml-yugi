@@ -218,6 +218,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE105
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: AST-KR105
     set_name: Ancient Sanctuary

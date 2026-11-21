@@ -176,6 +176,17 @@ sets:
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE413
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
+  - set_number: ES02-AE064
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MACR-KR043
     set_name: Maximum Crisis

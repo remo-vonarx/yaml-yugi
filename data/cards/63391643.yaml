@@ -294,6 +294,11 @@ sets:
     set_name: Millennium Box Gold Edition
     rarities:
     - Millennium Rare
+  en-HK:
+  - set_number: SDID-AEP10
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP01-KR016
     set_name: Premium Pack Vol.1

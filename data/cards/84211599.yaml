@@ -254,6 +254,24 @@ sets:
     set_name: 'Tactical-Try Deck: Rescue-ACE'
     rarities:
     - Common
+  en-HK:
+  - set_number: RC04-AE067
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: TT02-AEA19
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
+  - set_number: LAVD-AEL25
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: BLVO-KR065
     set_name: Blazing Vortex

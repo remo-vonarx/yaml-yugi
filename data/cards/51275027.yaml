@@ -147,6 +147,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-134
+    set_name: Metal Raiders
+    rarities:
+    - Short Print
   ko:
   - set_number: MRD-K134
     set_name: Metal Raiders

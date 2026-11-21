@@ -137,6 +137,11 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE034
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR034
     set_name: Raging Battle

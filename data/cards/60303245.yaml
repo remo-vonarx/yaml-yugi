@@ -227,6 +227,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SDSS-AEP08
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Super Rare
+  - set_number: LAVD-AEL38
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: PP14-KRA06
     set_name: Premium Pack Vol.14 1st Wave

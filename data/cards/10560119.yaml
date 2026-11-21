@@ -90,6 +90,11 @@ sets:
     set_name: Jump Festa 2015 - Promotion Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE093
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: AE05-KR020
     set_name: Advanced Event Pack 2014 Vol.3

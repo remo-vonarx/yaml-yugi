@@ -102,6 +102,15 @@ sets:
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR06-AE043
+    set_name: Creation Pack 06
+    rarities:
+    - Common
+  - set_number: LAVD-AES23
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: DP25-KR007
     set_name: 'Duelist Pack: Duelists of Whirlwind'

@@ -238,6 +238,18 @@ sets:
     set_name: eFootball collaboration cards
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR06-AE097
+    set_name: Creation Pack 06
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR06-AES29
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PHSW-KR037
     set_name: Photon Shockwave

@@ -261,6 +261,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR06-AE091
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
   ko:
   - set_number: LTGY-KR053
     set_name: Lord of the Tachyon Galaxy

@@ -83,6 +83,18 @@ sets:
     set_name: World Premiere Pack 2023
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR03-AE077
+    set_name: Creation Pack 03
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR03-AES11
+    set_name: Creation Pack 03 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: WPP4-KR015
     set_name: World Premiere Pack 2023

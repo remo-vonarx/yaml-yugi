@@ -246,6 +246,13 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: DBCB-AE013
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: BOSH-KR085
     set_name: Breakers of Shadow

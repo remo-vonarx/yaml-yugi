@@ -110,6 +110,11 @@ sets:
     set_name: 'Structure Deck: Surge of Radiance'
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE072
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR072
     set_name: Ancient Sanctuary

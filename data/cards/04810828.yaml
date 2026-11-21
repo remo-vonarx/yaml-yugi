@@ -200,6 +200,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE099
+    set_name: Phantom Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: INOV-KR037
     set_name: 'Invasion: Vengeance'

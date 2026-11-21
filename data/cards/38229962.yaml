@@ -135,6 +135,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR05-AE180
+    set_name: Creation Pack 05
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: WPP3-KR009
     set_name: World Premiere Pack 2022

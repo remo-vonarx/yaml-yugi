@@ -179,6 +179,12 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: EOJ-AE007
+    set_name: Enemy of Justice
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: EOJ-KR007
     set_name: Enemy of Justice

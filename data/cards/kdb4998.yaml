@@ -520,6 +520,11 @@ sets:
     set_name: 'Artwork Series Mini Hanging Scrolls: Egyptian Gods'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR14-AE002
+    set_name: Creation Pack 14
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: MOV-KR006
     set_name: Movie Pack Vol.2

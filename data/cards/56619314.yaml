@@ -85,6 +85,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Extra Secret Rare
+  en-HK:
+  - set_number: DOOD-AEC44
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: VS15-KRD00
     set_name: 'Duelist Entry Deck VS: Dark Legion'

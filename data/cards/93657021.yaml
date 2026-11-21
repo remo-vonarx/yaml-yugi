@@ -142,6 +142,12 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: BETB-AES10
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: CP17-KR029
     set_name: Collectors Pack 2017

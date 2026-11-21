@@ -230,6 +230,18 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR05-AE142
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR05-AES17
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EXP3-KR030
     set_name: Extra Pack Volume 3

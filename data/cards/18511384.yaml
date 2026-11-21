@@ -197,6 +197,11 @@ sets:
     set_name: Tournament Pack 2019 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: CRV-AE038
+    set_name: Cybernetic Revolution
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR038
     set_name: Cybernetic Revolution

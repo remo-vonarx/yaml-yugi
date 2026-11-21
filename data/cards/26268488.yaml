@@ -142,6 +142,13 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES02-AE053
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SHVI-KR082
     set_name: Shining Victories

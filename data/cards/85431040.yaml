@@ -150,6 +150,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE009
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR009
     set_name: Raging Battle

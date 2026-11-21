@@ -101,6 +101,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC37
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SPRG-KR001
     set_name: 'Booster SP: Raging Masters'

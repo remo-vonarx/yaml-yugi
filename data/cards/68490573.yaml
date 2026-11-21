@@ -131,6 +131,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR11-AE028
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: HC01-KR020
     set_name: History Archive Collection

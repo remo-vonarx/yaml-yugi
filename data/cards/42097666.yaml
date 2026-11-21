@@ -145,6 +145,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR07-AE074
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES18
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: SD47-KR034
     set_name: 'Structure Deck: Advent of the Eyes of Blue'

@@ -120,6 +120,11 @@ sets:
     set_name: 'Structure Deck: Yugi Muto'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BPRO-AEC28
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SDMY-KR033
     set_name: 'Structure Deck: Yugi Muto'

@@ -187,6 +187,11 @@ sets:
     set_name: 'Structure Deck: Forest of the Traptrix - The Legend of Duelist Quarter Century Edition'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: 24AT-AE306
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EP16-KR022
     set_name: Extra Pack 2016

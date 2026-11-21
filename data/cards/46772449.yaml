@@ -255,6 +255,17 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR05-AE194
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
+  - set_number: ES02-AE062
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LVAL-KR056
     set_name: Legacy of the Valiant

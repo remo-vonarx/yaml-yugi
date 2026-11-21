@@ -161,6 +161,20 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR01-AE171
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+  - set_number: CR01-AES24
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+  - set_number: TT02-AEA01
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
+    - Ultra Rare
   ko:
   - set_number: DBAD-KR007
     set_name: 'Deck-Build Pack: Amazing Defenders'

@@ -120,6 +120,15 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR11-AE090
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
+  - set_number: CR11-AES34
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: LIOV-KR042
     set_name: Lightning Overdrive

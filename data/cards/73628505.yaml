@@ -914,6 +914,25 @@ sets:
     set_name: Winner's Pack 2025 Vol.4
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: PGD-088
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
+  - set_number: SD16-AE028
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: SDRB-AE031
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
+  - set_number: ES02-AE079
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PGD-KR088
     set_name: Pharaonic Guardian

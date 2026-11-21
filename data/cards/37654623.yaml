@@ -80,6 +80,13 @@ sets:
     set_name: Chaos Origins
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AE050
+    set_name: Chaos Origins
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CORI-KR050
     set_name: Chaos Origins

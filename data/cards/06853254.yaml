@@ -198,6 +198,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SDRB-AEP11
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SR02-KR024
     set_name: 'Structure Deck R: Revival of the Great Divine Dragon'

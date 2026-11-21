@@ -84,6 +84,13 @@ sets:
     set_name: Promotion Pack 2026
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ES02-AE057
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

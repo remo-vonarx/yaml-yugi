@@ -142,6 +142,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ROTA-AE092
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ko:
   - set_number: DBSW-KR005
     set_name: 'Deck-Build Pack: Spirit Warriors'

@@ -134,6 +134,11 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC07
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP12-KR030
     set_name: 'Duelist Pack: Yuma'

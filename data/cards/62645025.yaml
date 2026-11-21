@@ -133,6 +133,11 @@ sets:
     set_name: Maximum Crisis
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AEC11
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: MACR-KR067
     set_name: Maximum Crisis

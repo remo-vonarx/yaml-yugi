@@ -113,6 +113,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: BPRO-AEC12
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: LVDS-KRA04
     set_name: LINK VRAINS Duelist Set

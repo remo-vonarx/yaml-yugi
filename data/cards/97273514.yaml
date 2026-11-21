@@ -178,6 +178,11 @@ sets:
     set_name: Tournament Pack 2022 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE212
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: LVP1-KR026
     set_name: LINK VRAINS Pack

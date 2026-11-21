@@ -108,6 +108,11 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE039
+    set_name: Crimson Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: CRMS-KR039
     set_name: Crimson Crisis

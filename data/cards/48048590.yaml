@@ -168,6 +168,15 @@ sets:
     set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE019
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: CH01-AE018
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: PP13-KR050
     set_name: Premium Pack Vol.13

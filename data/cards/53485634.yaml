@@ -157,6 +157,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR13-AE007
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: BOSH-KR081
     set_name: Breakers of Shadow

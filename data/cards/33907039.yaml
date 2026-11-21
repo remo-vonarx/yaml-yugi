@@ -156,6 +156,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DBJH-AE030
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Super Rare
   ko:
   - set_number: AC01-KR023
     set_name: Animation Chronicle 2021

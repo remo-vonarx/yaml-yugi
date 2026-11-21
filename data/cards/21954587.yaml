@@ -190,6 +190,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE118
+    set_name: Creation Pack 05
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: ABYR-KR020
     set_name: Abyss Rising

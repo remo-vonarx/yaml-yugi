@@ -177,6 +177,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE048
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
   ko:
   - set_number: GLAS-KR020
     set_name: Gladiator's Assault

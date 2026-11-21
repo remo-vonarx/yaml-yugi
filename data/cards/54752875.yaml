@@ -183,6 +183,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: MRD-120
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K120
     set_name: Metal Raiders

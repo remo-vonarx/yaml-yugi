@@ -76,6 +76,11 @@ sets:
     set_name: 'Structure Deck: Soulburner'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDSS-AE027
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: SD35-KR024
     set_name: 'Structure Deck: Soulburner'

@@ -110,6 +110,11 @@ sets:
     set_name: "Structure Deck R: Warriors' Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: DUAD-AE081
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ko:
   - set_number: EP14-KR056
     set_name: 'Extra Pack: Knights of Order'

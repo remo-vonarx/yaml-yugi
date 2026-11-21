@@ -109,6 +109,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE037
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: NECH-KR006
     set_name: The New Challengers

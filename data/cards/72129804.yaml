@@ -176,6 +176,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR11-AE048
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: DBLE-KR005
     set_name: Dimension Box Limited Edition

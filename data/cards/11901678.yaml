@@ -263,6 +263,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: MRD-018
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MRD-K018
     set_name: Metal Raiders

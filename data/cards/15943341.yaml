@@ -98,6 +98,11 @@ sets:
     set_name: Burst of Destiny
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE424
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR070
     set_name: Burst of Destiny

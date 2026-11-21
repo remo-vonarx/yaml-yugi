@@ -119,6 +119,17 @@ sets:
     set_name: 'Tactical-Try Deck: Exosister'
     rarities:
     - Common
+  en-HK:
+  - set_number: DBCB-AE049
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
+  - set_number: TT02-AEB06
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: SHSP-KR035
     set_name: Shadow Specters

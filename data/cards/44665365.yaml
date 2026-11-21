@@ -168,6 +168,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE148
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: TSHD-KR039
     set_name: The Shining Darkness

@@ -95,6 +95,11 @@ sets:
     - Secret Rare
     - 20th Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR02-AE182
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: SOFU-KR045
     set_name: Soul Fusion

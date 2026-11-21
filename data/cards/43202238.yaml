@@ -185,6 +185,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: DI02-AE027
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
   ko:
   - set_number: NECH-KR051
     set_name: The New Challengers

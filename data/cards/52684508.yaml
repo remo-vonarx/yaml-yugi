@@ -233,6 +233,12 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SOD-AE042
+    set_name: Soul of the Duelist
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: SOD-KR042
     set_name: Soul of the Duelist

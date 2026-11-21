@@ -121,6 +121,11 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR02-AE190
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: BLVO-KR040
     set_name: Blazing Vortex

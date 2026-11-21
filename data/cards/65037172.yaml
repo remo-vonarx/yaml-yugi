@@ -81,6 +81,15 @@ sets:
     set_name: Cyberstorm Access
     rarities:
     - Common
+  en-HK:
+  - set_number: CR07-AE038
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES06
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: CYAC-KR033
     set_name: Cyberstorm Access

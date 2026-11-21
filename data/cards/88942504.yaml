@@ -114,6 +114,13 @@ sets:
     set_name: Starter Deck 2012
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ES02-AE058
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: ST12-KR042
     set_name: Starter Deck 2012

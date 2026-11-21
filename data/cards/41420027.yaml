@@ -652,6 +652,25 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: MRD-127
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: SDID-AE039
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: TT02-AEB21
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
+  - set_number: ES02-AE108
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: MRD-K127
     set_name: Metal Raiders

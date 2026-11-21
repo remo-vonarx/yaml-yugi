@@ -214,6 +214,19 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: DI01-AE035
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
+  - set_number: CR13-AE043
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
+  - set_number: CR13-AES18
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DANE-KR045
     set_name: Dark Neostorm

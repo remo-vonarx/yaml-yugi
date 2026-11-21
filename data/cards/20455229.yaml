@@ -86,6 +86,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR07-AE036
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: CYAC-KR001
     set_name: Cyberstorm Access

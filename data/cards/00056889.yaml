@@ -99,6 +99,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 2'
     rarities:
     - Rare
+  en-HK:
+  - set_number: LEDE-AE117
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: DP19-KR033
     set_name: 'Duelist Pack: Legend Duelist 2'

@@ -150,6 +150,15 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE060
+    set_name: Creation Pack 08
+    rarities:
+    - Ultra Rare
+  - set_number: CR08-AES16
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SHSP-KR067
     set_name: Shadow Specters

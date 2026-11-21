@@ -123,6 +123,15 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOD-070
+    set_name: Legacy of Darkness
+    rarities:
+    - Ultra Rare
+  - set_number: 25AT-AE300
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: LOD-KR070
     set_name: Legacy of Darkness

@@ -89,6 +89,12 @@ sets:
     set_name: Prismatic Special Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DBPR-AE013
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP16-KR034
     set_name: Premium Pack Vol.16

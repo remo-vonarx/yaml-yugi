@@ -198,6 +198,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CORI-AEC01
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SD6-KR030
     set_name: "Structure Deck: Spellcaster's Judgment"

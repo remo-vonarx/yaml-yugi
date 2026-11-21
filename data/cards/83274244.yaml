@@ -143,6 +143,11 @@ sets:
     set_name: 'Duelist Pack: Yuma 2: Gogogo & Dododo'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC04
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP12-KR011
     set_name: 'Duelist Pack: Yuma'

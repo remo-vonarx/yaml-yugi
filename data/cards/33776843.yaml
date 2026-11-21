@@ -127,6 +127,11 @@ sets:
     set_name: Animation Chronicle 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE019
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP09-KR010
     set_name: Premium Pack Vol.9

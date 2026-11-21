@@ -649,6 +649,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDID-AEP17
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
+  - set_number: 26AT-AE301
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: SDJ-KR041
     set_name: 'Starter Deck: Joey'

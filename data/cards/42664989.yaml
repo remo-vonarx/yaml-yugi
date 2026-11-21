@@ -195,6 +195,12 @@ sets:
     set_name: 'Structure Deck: Yugi Muto'
     rarities:
     - Common
+  en-HK:
+  - set_number: TLM-AE037
+    set_name: The Lost Millennium
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: TLM-KR037
     set_name: The Lost Millennium

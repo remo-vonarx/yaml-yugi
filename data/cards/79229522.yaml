@@ -237,6 +237,11 @@ sets:
     set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE099
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: DP4-KRSE1
     set_name: 'Duelist Pack: Zane Truesdale Special Edition'

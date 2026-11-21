@@ -94,6 +94,13 @@ sets:
     set_name: Yu-Gi-Oh! 5D's Volume 9 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ES02-AE054
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP11-KR041
     set_name: Premium Pack Vol.11

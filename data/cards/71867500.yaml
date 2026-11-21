@@ -102,6 +102,11 @@ sets:
     set_name: Extra Pack 2018
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: SDRB-AE029
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: EP18-KR051
     set_name: Extra Pack 2018

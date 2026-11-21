@@ -184,6 +184,11 @@ sets:
     set_name: 'Structure Deck: Alba Strike'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE503
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP16-KR023
     set_name: Extra Pack 2016

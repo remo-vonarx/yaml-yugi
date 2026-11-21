@@ -101,6 +101,15 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: 25AT-AE221
+    set_name: Tournament Pack 2025 Vol.2 (Asian-English)
+    rarities:
+    - Common
+  - set_number: DUAD-AE106
+    set_name: Duelist's Advance
+    rarities:
+    - Common
   ko:
   - set_number: HC01-KR027
     set_name: History Archive Collection

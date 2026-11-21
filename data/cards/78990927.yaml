@@ -109,6 +109,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: DOOD-AE100
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: ROTD-KR036
     set_name: Rise of the Duelist

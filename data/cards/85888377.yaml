@@ -154,6 +154,12 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR10-AE071
+    set_name: Creation Pack 10
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: 23PP-KRB11
     set_name: Premium Pack 2023 2nd Wave

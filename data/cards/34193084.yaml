@@ -175,6 +175,11 @@ sets:
     rarities:
     - Normal Parallel Rare
     - Common
+  en-HK:
+  - set_number: DCR-025
+    set_name: Dark Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: DCR-KR025
     set_name: Dark Crisis

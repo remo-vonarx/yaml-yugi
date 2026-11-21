@@ -286,6 +286,19 @@ sets:
     set_name: 'Structure Deck: Yugi Volume 2'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-060
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: SDY-048
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-048
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K060
     set_name: Legend of Blue Eyes White Dragon

@@ -96,6 +96,15 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR07-AE094
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES29
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: JOTL-KR053
     set_name: Judgment of the Light

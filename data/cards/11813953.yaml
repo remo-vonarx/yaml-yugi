@@ -118,6 +118,11 @@ sets:
     set_name: 'Structure Deck: Blaze of Destruction'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-055
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR055
     set_name: Magician's Force

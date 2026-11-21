@@ -108,6 +108,11 @@ sets:
     set_name: Duelist Edition Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE006
+    set_name: Raging Battle
+    rarities:
+    - Common
   ko:
   - set_number: RGBT-KR006
     set_name: Raging Battle

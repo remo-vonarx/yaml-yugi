@@ -216,6 +216,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE164
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: ESP2-KR064
     set_name: Expansion Pack Vol.2

@@ -159,6 +159,11 @@ sets:
     set_name: Winner's Pack 2026 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: BLZD-AES18
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DABL-KR047
     set_name: Darkwing Blast

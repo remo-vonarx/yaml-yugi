@@ -144,6 +144,12 @@ sets:
     rarities:
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DUAD-AE050
+    set_name: Duelist's Advance
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUAD-KR050
     set_name: Duelist's Advance

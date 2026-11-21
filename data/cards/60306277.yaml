@@ -108,6 +108,13 @@ sets:
     set_name: 'Structure Deck: Power of Fellows'
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE118
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 23PP-KRA17
     set_name: Premium Pack 2023 1st Wave

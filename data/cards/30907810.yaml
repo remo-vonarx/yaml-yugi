@@ -81,6 +81,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: INFO-AE088
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: DBSW-KR022
     set_name: 'Deck-Build Pack: Spirit Warriors'

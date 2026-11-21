@@ -294,6 +294,16 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CRV-AE037
+    set_name: Cybernetic Revolution
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: ALIN-AE112
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: CRV-KR037
     set_name: Cybernetic Revolution

@@ -215,6 +215,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE092
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   ko:
   - set_number: IOC-KR092
     set_name: Invasion of Chaos

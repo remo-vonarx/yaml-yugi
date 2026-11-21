@@ -97,6 +97,11 @@ sets:
     set_name: Galactic Overlord
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE107
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: GAOV-KR058
     set_name: Galactic Overlord

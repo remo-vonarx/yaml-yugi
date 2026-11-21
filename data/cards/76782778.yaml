@@ -128,6 +128,13 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SLF1-AE064
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: DBMF-KR015
     set_name: 'Deck-Build Pack: Mystic Fighters'

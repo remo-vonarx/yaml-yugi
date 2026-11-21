@@ -300,6 +300,11 @@ sets:
     set_name: The Gold Box
     rarities:
     - Gold Rare
+  en-HK:
+  - set_number: PSV-073
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
   ko:
   - set_number: PSV-K073
     set_name: Pharaoh's Servant

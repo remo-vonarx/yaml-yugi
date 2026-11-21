@@ -80,6 +80,12 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BPRO-AE081
+    set_name: Burst Protocol
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SYP2-KR044
     set_name: 'Synergy Pack 02: The Generation Next'

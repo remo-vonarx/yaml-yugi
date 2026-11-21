@@ -227,6 +227,12 @@ sets:
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOI-AE010
+    set_name: Shadow of Infinity
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR010
     set_name: Shadow of Infinity

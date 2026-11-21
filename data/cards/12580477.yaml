@@ -620,6 +620,19 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: LOB-053
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Super Rare
+  - set_number: SDID-AEP16
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
+  - set_number: DI02-AE018
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K053
     set_name: Legend of Blue Eyes White Dragon

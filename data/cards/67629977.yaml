@@ -169,6 +169,11 @@ sets:
     set_name: 'Half Deck 2018: LIGHT'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-102
+    set_name: Metal Raiders
+    rarities:
+    - Rare
   ko:
   - set_number: MRD-K102
     set_name: Metal Raiders

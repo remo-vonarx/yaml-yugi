@@ -139,6 +139,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DUAD-AE089
+    set_name: Duelist's Advance
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: WPP5-KR028
     set_name: World Premiere Pack 2024

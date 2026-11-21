@@ -84,6 +84,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR09-AE005
+    set_name: Creation Pack 09
+    rarities:
+    - Common
   ko:
   - set_number: SPRG-KR002
     set_name: 'Booster SP: Raging Masters'

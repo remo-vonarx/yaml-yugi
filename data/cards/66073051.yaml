@@ -132,6 +132,15 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE002
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
+  - set_number: SSD1-AE004
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR002
     set_name: Ancient Sanctuary

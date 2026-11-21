@@ -98,6 +98,11 @@ sets:
     set_name: Soul Fusion
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC56
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SOFU-KR054
     set_name: Soul Fusion

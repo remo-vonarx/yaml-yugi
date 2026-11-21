@@ -83,6 +83,12 @@ sets:
     set_name: Tournament Pack 2021 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: DBCB-AE059
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PHSW-KR049
     set_name: Photon Shockwave

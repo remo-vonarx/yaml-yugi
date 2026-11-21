@@ -127,6 +127,12 @@ sets:
     - Secret Rare
     - Collector's Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BETB-AES08
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: SHSP-KR047
     set_name: Shadow Specters

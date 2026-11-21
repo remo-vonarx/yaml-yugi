@@ -134,6 +134,13 @@ sets:
     set_name: Extreme Victory
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: DBJH-AE046
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: EXVC-KR005
     set_name: Extreme Victory

@@ -129,6 +129,15 @@ sets:
     set_name: Supreme Darkness
     rarities:
     - Rare
+  en-HK:
+  - set_number: SUDA-AE007
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
+  - set_number: LAVD-AES10
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SUDA-KR007
     set_name: Supreme Darkness

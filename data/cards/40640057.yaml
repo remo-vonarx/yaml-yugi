@@ -680,6 +680,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-071
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K071
     set_name: Metal Raiders

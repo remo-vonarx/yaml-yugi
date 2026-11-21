@@ -222,6 +222,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 2'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE078
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR078
     set_name: Invasion of Chaos

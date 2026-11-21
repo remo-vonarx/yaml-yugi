@@ -107,6 +107,11 @@ sets:
     set_name: Savage Strike
     rarities:
     - Rare
+  en-HK:
+  - set_number: SDSS-AE025
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: SAST-KR057
     set_name: Savage Strike

@@ -223,6 +223,17 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: 24AT-AE304
+    set_name: Tournament Pack 2024 Vol.3 (Asian-English)
+    rarities:
+    - Super Rare
+  - set_number: ES02-AE112
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CSOC-KR079
     set_name: Crossroads of Chaos

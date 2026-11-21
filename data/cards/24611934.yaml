@@ -260,6 +260,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDK-024
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: MRD-092
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K024
     set_name: 'Starter Deck: Kaiba'

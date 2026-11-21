@@ -122,6 +122,11 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD2-AE018
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: TAEV-KR074
     set_name: Tactical Evolution

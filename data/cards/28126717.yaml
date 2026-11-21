@@ -100,6 +100,16 @@ sets:
     set_name: Burst of Destiny
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE156
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR05-AES21
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: BODE-KR058
     set_name: Burst of Destiny

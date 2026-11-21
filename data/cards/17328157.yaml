@@ -133,6 +133,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE025
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: RATE-KR006
     set_name: Raging Tempest

@@ -148,6 +148,11 @@ sets:
     set_name: Extreme Force
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE046
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
   ko:
   - set_number: EXFO-KR070
     set_name: Extreme Force

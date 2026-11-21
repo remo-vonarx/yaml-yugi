@@ -430,6 +430,12 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE045
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: HGP3-KR105
     set_name: Expert Edition Volume 3

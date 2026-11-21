@@ -125,6 +125,11 @@ sets:
     set_name: Abyss Rising
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE310
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: ABYR-KR031
     set_name: Abyss Rising

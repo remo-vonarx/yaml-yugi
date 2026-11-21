@@ -248,6 +248,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR06-AE093
+    set_name: Creation Pack 06
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: SPHR-KR028
     set_name: 'Booster SP: High-Speed Riders'

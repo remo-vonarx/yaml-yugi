@@ -138,6 +138,11 @@ sets:
     set_name: LINK VRAINS Duelist Set
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: SSD1-AE021
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: LVB1-KR003
     set_name: LINK VRAINS Box

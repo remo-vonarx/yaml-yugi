@@ -151,6 +151,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDSS-AE038
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Common
   ko:
   - set_number: SD35-KR032
     set_name: 'Structure Deck: Soulburner'

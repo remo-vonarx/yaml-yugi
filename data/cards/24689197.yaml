@@ -89,6 +89,11 @@ sets:
     rarities:
     - Super Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: PHNI-AE022
+    set_name: Phantom Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: PHNI-KR022
     set_name: Phantom Nightmare

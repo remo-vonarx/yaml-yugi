@@ -119,6 +119,13 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ES02-AE060
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CBLZ-KR052
     set_name: Cosmo Blazer

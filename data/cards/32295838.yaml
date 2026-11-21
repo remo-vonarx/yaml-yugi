@@ -82,6 +82,11 @@ sets:
     set_name: Starter Deck 2019
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE172
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: SD32-KR001
     set_name: 'Structure Deck: Cyberse Link'

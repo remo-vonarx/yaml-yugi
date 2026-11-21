@@ -104,6 +104,11 @@ sets:
     set_name: Order of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE311
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: ORCS-KR030
     set_name: Order of Chaos

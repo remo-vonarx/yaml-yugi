@@ -267,6 +267,11 @@ sets:
     set_name: Terminal World 3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SDRB-AE030
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: SD19-KR020
     set_name: 'Structure Deck: Dragunity Drive'

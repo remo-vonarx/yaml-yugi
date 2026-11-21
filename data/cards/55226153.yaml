@@ -134,6 +134,17 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR09-AE060
+    set_name: Creation Pack 09
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR09-AES22
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DBAG-KR014
     set_name: 'Deck-Build Pack: Ancient Guardians'

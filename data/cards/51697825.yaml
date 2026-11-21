@@ -135,6 +135,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: DBJH-AE059
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Super Rare
   ko:
   - set_number: PHRA-KR067
     set_name: Phantom Rage

@@ -88,6 +88,11 @@ sets:
     set_name: Judgment of the Light
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE090
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: JOTL-KR049
     set_name: Judgment of the Light

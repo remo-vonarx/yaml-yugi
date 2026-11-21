@@ -105,6 +105,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE103
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: ORCS-KR035
     set_name: Order of Chaos

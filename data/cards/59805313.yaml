@@ -92,6 +92,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Rare
+  en-HK:
+  - set_number: AGOV-AE097
+    set_name: Age of Overlord
+    rarities:
+    - Rare
   ko:
   - set_number: DP28-KR020
     set_name: 'Duelist Pack: Duelists of Explosion'

@@ -261,6 +261,15 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE146
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
+  - set_number: CR04-AES23
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: EXP2-KR013
     set_name: Extra Pack Volume 2

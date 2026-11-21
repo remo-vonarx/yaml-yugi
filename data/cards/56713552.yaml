@@ -53,6 +53,11 @@ sets:
     set_name: Booster 2
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE088
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
 limit_regulation:
   tcg: Unlimited
   ocg: Unlimited

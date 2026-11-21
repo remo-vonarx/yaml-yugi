@@ -180,6 +180,11 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE004
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: DBDS-KR042
     set_name: 'Deck-Build Pack: Dark Saviors'

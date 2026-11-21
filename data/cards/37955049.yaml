@@ -127,6 +127,13 @@ sets:
     set_name: "Structure Deck: Devil's Gate"
     rarities:
     - Common
+  en-HK:
+  - set_number: DBPR-AE046
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: PP04-KR017
     set_name: Premium Pack Vol.4

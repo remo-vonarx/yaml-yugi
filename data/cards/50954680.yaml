@@ -283,6 +283,22 @@ sets:
     set_name: Tournament Pack 2026 Vol.1
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR06-AE030
+    set_name: Creation Pack 06
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR06-AES09
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AES27
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SHVI-KR049
     set_name: Shining Victories

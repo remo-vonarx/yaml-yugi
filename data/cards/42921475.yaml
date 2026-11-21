@@ -218,6 +218,11 @@ sets:
     set_name: Blazing Dominion +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AES07
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: INOV-KR035
     set_name: 'Invasion: Vengeance'

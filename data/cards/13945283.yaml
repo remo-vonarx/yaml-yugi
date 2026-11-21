@@ -223,6 +223,11 @@ sets:
     set_name: Duel Terminal - Pulse of the Trishula!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: SDY-034
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K034
     set_name: 'Starter Deck: Yugi'

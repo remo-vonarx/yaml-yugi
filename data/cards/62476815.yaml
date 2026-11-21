@@ -319,6 +319,11 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC03
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: GENF-KR002
     set_name: Generation Force

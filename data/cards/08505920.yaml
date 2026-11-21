@@ -94,6 +94,17 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: PHNI-AE101
+    set_name: Phantom Nightmare
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+  - set_number: PHNI-AE101
+    set_name: Phantom Nightmare +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: WPP4-KR003
     set_name: World Premiere Pack 2023

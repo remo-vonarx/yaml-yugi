@@ -80,6 +80,11 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE307
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: PHHY-KR023
     set_name: Photon Hypernova

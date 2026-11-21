@@ -375,6 +375,11 @@ sets:
     set_name: 'Half Deck: Warrior-Type x Xyz Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-049
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LON-KR049
     set_name: Labyrinth of Nightmare

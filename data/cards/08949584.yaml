@@ -332,6 +332,11 @@ sets:
     rarities:
     - Common
     - Ultimate Rare
+  en-HK:
+  - set_number: DI01-AE016
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: PP06-KR030
     set_name: Premium Pack Vol.6

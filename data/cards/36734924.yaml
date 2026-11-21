@@ -152,6 +152,11 @@ sets:
     set_name: V Jump January 2016 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDRB-AEP06
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SHVI-KR084
     set_name: Shining Victories

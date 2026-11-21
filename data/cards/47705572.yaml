@@ -135,6 +135,15 @@ sets:
     set_name: Duelist Advance +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR08-AE036
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+  - set_number: LAVD-AEL02
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SHVI-KR012
     set_name: Shining Victories

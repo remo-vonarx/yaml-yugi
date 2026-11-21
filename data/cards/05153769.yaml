@@ -76,6 +76,11 @@ sets:
     set_name: Raging Tempest
     rarities:
     - Common
+  en-HK:
+  - set_number: CR03-AE137
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: RATE-KR075
     set_name: Raging Tempest

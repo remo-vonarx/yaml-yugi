@@ -201,6 +201,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: IOC-AE086
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   ko:
   - set_number: IOC-KR086
     set_name: Invasion of Chaos

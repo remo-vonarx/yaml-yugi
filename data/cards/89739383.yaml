@@ -193,6 +193,15 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDID-AE033
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: CH02-AE032
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR057
     set_name: Return of the Duelist

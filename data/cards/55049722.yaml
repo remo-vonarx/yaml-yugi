@@ -80,6 +80,11 @@ sets:
     set_name: I:P Masquerena & S:P Little Knight Duel Set
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: CORI-AE119
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: LIOV-KR077
     set_name: Lightning Overdrive

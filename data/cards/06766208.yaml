@@ -90,6 +90,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR09-AE019
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: COTD-KR040
     set_name: Code of the Duelist

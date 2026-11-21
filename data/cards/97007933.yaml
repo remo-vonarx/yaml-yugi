@@ -160,6 +160,11 @@ sets:
     set_name: 'Booster SP: High-Speed Riders'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR06-AE036
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: SPHR-KR009
     set_name: 'Booster SP: High-Speed Riders'

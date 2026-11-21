@@ -130,6 +130,11 @@ sets:
     set_name: 'Structure Deck: Revolver'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC09
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CIBR-KR055
     set_name: Circuit Break

@@ -298,6 +298,11 @@ sets:
     set_name: Entry Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-047
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Super Rare
   ko:
   - set_number: LON-KR047
     set_name: Labyrinth of Nightmare

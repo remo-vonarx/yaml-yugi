@@ -828,6 +828,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PSV-011
+    set_name: Pharaoh's Servant
+    rarities:
+    - Super Rare
   ko:
   - set_number: PSV-K011
     set_name: Pharaoh's Servant

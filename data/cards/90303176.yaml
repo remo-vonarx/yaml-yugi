@@ -158,6 +158,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of the Abyss'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE078
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: DP15-KR002
     set_name: 'Duelist Pack: Kastle Siblings'

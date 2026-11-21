@@ -176,6 +176,11 @@ sets:
     set_name: 'Structure Deck: Surge of Radiance'
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-090
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR090
     set_name: Dark Crisis

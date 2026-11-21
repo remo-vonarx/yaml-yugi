@@ -371,6 +371,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-124
+    set_name: Metal Raiders
+    rarities:
+    - Common
+  - set_number: DUNE-AE081
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K124
     set_name: Metal Raiders

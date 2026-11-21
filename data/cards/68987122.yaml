@@ -124,6 +124,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: BPRO-AE111
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: CP18-KR044
     set_name: Collectors Pack 2018

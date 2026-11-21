@@ -161,6 +161,11 @@ sets:
     set_name: World Premiere Pack 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-017
+    set_name: Dark Crisis
+    rarities:
+    - Super Rare
   ko:
   - set_number: DCR-KR017
     set_name: Dark Crisis

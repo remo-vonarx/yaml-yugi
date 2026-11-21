@@ -136,6 +136,11 @@ sets:
     set_name: Collectors Pack 2018
     rarities:
     - Rare
+  en-HK:
+  - set_number: BPRO-AEC16
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CP18-KR045
     set_name: Collectors Pack 2018

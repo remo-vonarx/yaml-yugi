@@ -134,6 +134,15 @@ sets:
     set_name: 'Tactical-Try Deck: Rescue-ACE'
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE119
+    set_name: Duelist Nexus
+    rarities:
+    - Common
+  - set_number: TT02-AEA23
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: CYAC-KR075
     set_name: Cyberstorm Access

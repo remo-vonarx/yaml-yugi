@@ -81,6 +81,11 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Rare
+  en-HK:
+  - set_number: DOOD-AEC13
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CBLZ-KR055
     set_name: Cosmo Blazer

@@ -225,6 +225,11 @@ sets:
     set_name: World Premiere Pack 2025
     rarities:
     - Common
+  en-HK:
+  - set_number: CR10-AE070
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KRPR1
     set_name: Pharaonic Guardian promotional cards

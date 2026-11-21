@@ -88,6 +88,15 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-056
+    set_name: Magician's Force
+    rarities:
+    - Common
+  - set_number: BN01-AE115
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR056
     set_name: Magician's Force

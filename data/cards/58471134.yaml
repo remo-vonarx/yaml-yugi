@@ -162,6 +162,11 @@ sets:
     set_name: Abyss Rising
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR05-AE114
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: ABYR-KR018
     set_name: Abyss Rising

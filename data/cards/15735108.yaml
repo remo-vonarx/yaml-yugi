@@ -109,6 +109,13 @@ sets:
     set_name: Tournament Pack 2025 Vol.4
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: ES02-AE099
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: 24PP-KRB29
     set_name: Premium Pack 2024 2nd Wave

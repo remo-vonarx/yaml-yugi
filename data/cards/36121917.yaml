@@ -130,6 +130,11 @@ sets:
     set_name: Tournament Pack 2010 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-017
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K017
     set_name: Legend of Blue Eyes White Dragon

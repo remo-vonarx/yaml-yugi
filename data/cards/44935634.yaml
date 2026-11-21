@@ -107,6 +107,11 @@ sets:
     set_name: 'Structure Deck R: Machiners Command'
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE088
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: PP13-KR013
     set_name: Premium Pack Vol.13

@@ -102,6 +102,11 @@ sets:
     set_name: Crossed Souls
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: BN01-AE159
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: CROS-KR001
     set_name: Crossed Souls

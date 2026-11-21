@@ -115,6 +115,12 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: CRV-AE057
+    set_name: Cybernetic Revolution
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: CRV-KR057
     set_name: Cybernetic Revolution

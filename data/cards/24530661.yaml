@@ -134,6 +134,11 @@ sets:
     set_name: 'Structure Deck: Zombie Madness'
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-053
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR053
     set_name: Pharaonic Guardian

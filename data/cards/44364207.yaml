@@ -128,6 +128,11 @@ sets:
     set_name: 'Structure Deck: Blitzkrieg of the Mechlight Dragons'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC41
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CSOC-KR037
     set_name: Crossroads of Chaos

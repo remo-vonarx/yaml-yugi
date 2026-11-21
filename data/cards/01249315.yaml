@@ -117,6 +117,11 @@ sets:
     set_name: 'Structure Deck R: Lost Sanctuary'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE150
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: JOTL-KR058
     set_name: Judgment of the Light

@@ -150,6 +150,11 @@ sets:
     set_name: Tournament Pack 2008 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-024
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
   ko:
   - set_number: PSV-K024
     set_name: Pharaoh's Servant

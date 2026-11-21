@@ -118,6 +118,11 @@ sets:
     set_name: Duelist Legacy Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-012
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K012
     set_name: Metal Raiders

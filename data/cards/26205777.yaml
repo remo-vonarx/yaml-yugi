@@ -274,6 +274,16 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: RDS-AE021
+    set_name: Rise of Destiny
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: DUAD-AES16
+    set_name: Duelist Advance +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: RDS-KR021
     set_name: Rise of Destiny

@@ -80,6 +80,11 @@ sets:
     set_name: Burst of Destiny
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC63
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR026
     set_name: Burst of Destiny

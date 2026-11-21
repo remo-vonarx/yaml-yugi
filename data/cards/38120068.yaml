@@ -448,6 +448,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE032
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: SD13-KR018
     set_name: 'Structure Deck: Revival of the Great Dragon'

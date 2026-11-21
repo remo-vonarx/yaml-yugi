@@ -106,6 +106,19 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: DUNE-AE032
+    set_name: Duelist Nexus
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: DUNE-AE032
+    set_name: Duelist Nexus +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DUNE-KR032
     set_name: Duelist Nexus

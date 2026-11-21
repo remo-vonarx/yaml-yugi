@@ -108,6 +108,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC42
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP14-KRB16
     set_name: Premium Pack Vol.14 2nd Wave

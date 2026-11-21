@@ -150,6 +150,11 @@ sets:
     set_name: 'Structure Deck: Cyberse Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE117
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EP15-KR079
     set_name: Extra Pack 2015

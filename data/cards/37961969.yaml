@@ -108,6 +108,13 @@ sets:
     set_name: Power of the Elements
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE026
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: POTE-KR013
     set_name: Power of the Elements

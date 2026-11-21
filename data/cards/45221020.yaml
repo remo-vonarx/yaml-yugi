@@ -102,6 +102,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE509
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR032
     set_name: Code of the Duelist

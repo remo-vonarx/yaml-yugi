@@ -153,6 +153,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: 24AT-AE400
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: PP01-KR022
     set_name: Premium Pack Vol.1

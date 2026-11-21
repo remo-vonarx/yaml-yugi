@@ -117,6 +117,11 @@ sets:
     set_name: Jump Victory Carnival 2016 - Promotion Pack
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR02-AE030
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: ST14-KRA01
     set_name: Starter Deck 2014 Enhancement Pack

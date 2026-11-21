@@ -226,6 +226,22 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: RC04-AE050
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CORI-AES13
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DBGI-KR008
     set_name: 'Deck-Build Pack: Genesis Impactors'

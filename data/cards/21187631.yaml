@@ -88,6 +88,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE039
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: DANE-KR033
     set_name: Dark Neostorm

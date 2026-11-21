@@ -75,6 +75,11 @@ sets:
     set_name: 'Limited Edition: Kaiba Pack'
     rarities:
     - Ultra Secret Rare
+  en-HK:
+  - set_number: BN01-AE048
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   zh-CN:
   - set_number: TDB1-SC030
     set_name: 'Bonus Pack: Awakened by the Primites'

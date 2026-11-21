@@ -138,6 +138,15 @@ sets:
     - Rare
     - Secret Rare
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: DUNE-AE099
+    set_name: Duelist Nexus
+    rarities:
+    - Super Rare
+  - set_number: DUNE-AE099
+    set_name: Duelist Nexus +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: CYAC-KR019
     set_name: Cyberstorm Access

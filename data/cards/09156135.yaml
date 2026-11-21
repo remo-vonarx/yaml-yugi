@@ -309,6 +309,15 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-066
+    set_name: Magician's Force
+    rarities:
+    - Rare
+  - set_number: SD16-AE011
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR066
     set_name: Magician's Force

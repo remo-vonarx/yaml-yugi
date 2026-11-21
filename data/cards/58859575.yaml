@@ -173,6 +173,11 @@ sets:
     set_name: Advanced Tournament Pack 2016 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: EEN-AE030
+    set_name: Elemental Energy
+    rarities:
+    - Common
   ko:
   - set_number: DP2-KR016
     set_name: 'Duelist Pack: Chazz Princeton'
