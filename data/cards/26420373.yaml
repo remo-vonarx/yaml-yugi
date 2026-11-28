@@ -127,6 +127,11 @@ sets:
     set_name: V Jump December 2016 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR06-AE027
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: PP12-KR025
     set_name: Premium Pack Vol.12

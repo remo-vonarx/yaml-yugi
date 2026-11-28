@@ -163,6 +163,12 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: BPRO-AES12
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DP09-KR001
     set_name: 'Duelist Pack: Yusei 2'

@@ -153,6 +153,12 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: TFTV-AE011
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PHRA-KR048
     set_name: Phantom Rage

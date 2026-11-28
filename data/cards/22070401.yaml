@@ -111,6 +111,11 @@ sets:
     - Common
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR11-AE039
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: PP14-KRA11
     set_name: Premium Pack Vol.14 1st Wave

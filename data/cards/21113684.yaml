@@ -93,6 +93,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AEC24
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: STBL-KR038
     set_name: Starstrike Blast

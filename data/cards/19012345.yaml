@@ -80,6 +80,11 @@ sets:
     set_name: V Jump Spring 2010 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AEC21
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: SYP1-KR007
     set_name: 'Synergy Pack 01: Syncro Acceleration'

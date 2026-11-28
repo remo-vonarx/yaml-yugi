@@ -192,6 +192,11 @@ sets:
     set_name: Advanced Tournament Pack 2015 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE052
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR052
     set_name: Ancient Sanctuary

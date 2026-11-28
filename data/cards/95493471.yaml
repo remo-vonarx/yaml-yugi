@@ -90,6 +90,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR08-AE093
+    set_name: Creation Pack 08
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DANE-KR046
     set_name: Dark Neostorm

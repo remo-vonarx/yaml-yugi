@@ -223,6 +223,16 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR13-AE039
+    set_name: Creation Pack 13
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR13-AES16
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP12-KR029
     set_name: Premium Pack Vol.12

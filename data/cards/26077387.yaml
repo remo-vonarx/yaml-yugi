@@ -368,6 +368,15 @@ sets:
     set_name: 'Deluxe Duel Set: Sky Striker Ace'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SLF1-AE035
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Normal Parallel Rare
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBDS-KR029
     set_name: 'Deck-Build Pack: Dark Saviors'

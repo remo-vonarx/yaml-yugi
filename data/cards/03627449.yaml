@@ -52,6 +52,11 @@ sets:
     set_name: Dark Ceremony Edition
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: PHNI-AE097
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: TP2-KR007
     set_name: 'Tournament Pack: 2nd Season'

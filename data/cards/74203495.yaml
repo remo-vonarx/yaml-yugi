@@ -173,6 +173,18 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR06-AE095
+    set_name: Creation Pack 06
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR06-AES27
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SPHR-KR032
     set_name: 'Booster SP: High-Speed Riders'

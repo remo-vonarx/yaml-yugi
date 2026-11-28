@@ -226,6 +226,11 @@ sets:
     set_name: 'Booster SP: Destiny Soldiers'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR13-AE045
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
   ko:
   - set_number: DP05-KR020
     set_name: 'Duelist Pack: Aster Phoenix'

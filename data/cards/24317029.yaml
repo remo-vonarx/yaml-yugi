@@ -319,6 +319,11 @@ sets:
     set_name: Duel Terminal - Xyz Startup!!
     rarities:
     - Duel Terminal Rare Parallel Rare
+  en-HK:
+  - set_number: PGD-059
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR059
     set_name: Pharaonic Guardian

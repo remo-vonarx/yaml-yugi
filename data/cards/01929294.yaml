@@ -92,6 +92,11 @@ sets:
     set_name: Advanced Tournament Pack 2016 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE030
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: AE09-KR014
     set_name: Advanced Event Pack 2016 Vol.1

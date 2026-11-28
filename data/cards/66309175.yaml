@@ -118,6 +118,16 @@ sets:
     set_name: Blazing Dominion +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR11-AE045
+    set_name: Creation Pack 11
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR11-AES17
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DIFO-KR037
     set_name: Dimension Force

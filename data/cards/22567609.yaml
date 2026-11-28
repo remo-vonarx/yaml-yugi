@@ -255,6 +255,11 @@ sets:
     - Common
     - Gold Rare
     - Gold Secret Rare
+  en-HK:
+  - set_number: MRL-086
+    set_name: Magic Ruler
+    rarities:
+    - Rare
   ko:
   - set_number: SRL-K086
     set_name: Spell Ruler

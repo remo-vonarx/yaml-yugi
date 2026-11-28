@@ -115,6 +115,11 @@ sets:
     set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE115
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
   ko:
   - set_number: IGAS-KR019
     set_name: Ignition Assault

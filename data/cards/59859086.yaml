@@ -181,6 +181,18 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Secret Rare (Special Blue Version)
+  en-HK:
+  - set_number: CR07-AE041
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR07-AES07
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ETCO-KR048
     set_name: Eternity Code

@@ -127,6 +127,11 @@ sets:
     set_name: Storm of Ragnarok
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE119
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: STOR-KR079
     set_name: Storm of Ragnarok

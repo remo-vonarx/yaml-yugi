@@ -134,6 +134,11 @@ sets:
     set_name: Blazing Vortex
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR04-AE160
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: BLVO-KR021
     set_name: Blazing Vortex

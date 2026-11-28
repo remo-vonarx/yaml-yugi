@@ -188,6 +188,11 @@ sets:
     set_name: "Duelist Pack: Pharaoh's Memories"
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-092
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Rare
   ko:
   - set_number: LON-KR092
     set_name: Labyrinth of Nightmare

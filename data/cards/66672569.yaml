@@ -184,6 +184,11 @@ sets:
     set_name: Duelist Legacy Volume.4
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-014
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K014
     set_name: 'Starter Deck: Yugi'

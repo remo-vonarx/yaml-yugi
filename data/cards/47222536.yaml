@@ -278,6 +278,15 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDID-AE022
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: 24AT-AE100
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: TDIL-KR057
     set_name: The Dark Illusion

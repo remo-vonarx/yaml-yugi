@@ -226,6 +226,19 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: INFO-AE107
+    set_name: The Infinite Forbidden
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: INFO-AE107
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: BACH-KR049
     set_name: Battle of Chaos

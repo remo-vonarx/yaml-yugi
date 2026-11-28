@@ -82,6 +82,12 @@ sets:
     set_name: Premium Pack 2021
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: DBCB-AE053
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PP15-KR041
     set_name: Premium Pack Vol.15

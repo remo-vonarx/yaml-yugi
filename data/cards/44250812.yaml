@@ -89,6 +89,11 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC11
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CBLZ-KR008
     set_name: Cosmo Blazer

@@ -107,6 +107,11 @@ sets:
     set_name: V Jump Fall 2019 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AEC42
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP15-KR028
     set_name: Premium Pack Vol.15

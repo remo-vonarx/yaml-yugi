@@ -199,6 +199,13 @@ sets:
     set_name: Tournament Pack 2023 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: ES01-AE033
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: GENF-KR043
     set_name: Generation Force

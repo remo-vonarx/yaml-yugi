@@ -63,6 +63,11 @@ sets:
     set_name: Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE086
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   zh-CN:
   - set_number: FRP1-SCB16
     set_name: Fusion Ready Pack B

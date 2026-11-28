@@ -134,6 +134,11 @@ sets:
     set_name: Legacy of the Valiant
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC17
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: LVAL-KR011
     set_name: Legacy of the Valiant

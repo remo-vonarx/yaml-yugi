@@ -114,6 +114,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: DI02-AE028
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
   ko:
   - set_number: CROS-KR047
     set_name: Crossed Souls

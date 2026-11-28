@@ -188,6 +188,11 @@ sets:
     set_name: Tournament Pack 2021 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE069
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR069
     set_name: Invasion of Chaos

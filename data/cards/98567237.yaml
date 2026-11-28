@@ -137,6 +137,18 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: INFO-AE061
+    set_name: The Infinite Forbidden
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: INFO-AE061
+    set_name: Infinite Forbidden +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: INFO-KR061
     set_name: The Infinite Forbidden

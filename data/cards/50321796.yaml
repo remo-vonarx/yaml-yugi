@@ -291,6 +291,11 @@ sets:
     - Super Parallel Rare
     - Secret Rare
     - Secret Parallel Rare
+  en-HK:
+  - set_number: SSD2-AE021
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: GS01-KR010
     set_name: Gold Series (OCG)

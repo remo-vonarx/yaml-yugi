@@ -132,6 +132,15 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-094
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Rare
+  - set_number: SSD1-AE013
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR094
     set_name: Labyrinth of Nightmare

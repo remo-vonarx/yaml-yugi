@@ -260,6 +260,25 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: RC04-AE021
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CH01-AE014
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: TFTV-AE002
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: ROTD-KR005
     set_name: Rise of the Duelist

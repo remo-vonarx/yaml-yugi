@@ -193,6 +193,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SDSS-AEP12
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: FLOD-KR068
     set_name: Flames of Destruction

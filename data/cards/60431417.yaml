@@ -74,6 +74,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE115
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR060
     set_name: Code of the Duelist

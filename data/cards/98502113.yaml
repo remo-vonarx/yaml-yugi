@@ -428,6 +428,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: MFC-105
+    set_name: Magician's Force
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DMG-KR001
     set_name: Duel Master's Guide promotional cards

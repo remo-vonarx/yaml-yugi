@@ -239,6 +239,11 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD2-AE013
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: SD15-KR019
     set_name: 'Structure Deck: Undead World'

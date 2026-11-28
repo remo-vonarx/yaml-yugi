@@ -115,6 +115,18 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR11-AE019
+    set_name: Creation Pack 11
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR11-AES07
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP12-KR030
     set_name: Premium Pack Vol.12

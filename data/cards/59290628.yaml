@@ -86,6 +86,11 @@ sets:
     set_name: Expert Edition Volume.1
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-077
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: HGP1-KR025
     set_name: Expert Edition Volume.1

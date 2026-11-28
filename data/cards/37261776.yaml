@@ -146,6 +146,15 @@ sets:
     set_name: Tournament Pack 2023 Vol.3
     rarities:
     - Secret Rare (Special Blue Version)
+  en-HK:
+  - set_number: SDSS-AE041
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Normal Parallel Rare
+  - set_number: SDSS-AEP03
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SAST-KR034
     set_name: Savage Strike

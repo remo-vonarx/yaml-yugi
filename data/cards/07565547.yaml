@@ -126,6 +126,11 @@ sets:
     set_name: Tournament Pack 2010 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-078
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR078
     set_name: Labyrinth of Nightmare

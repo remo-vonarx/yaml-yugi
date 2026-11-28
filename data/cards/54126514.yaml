@@ -80,6 +80,11 @@ sets:
     set_name: Duelist Nexus
     rarities:
     - Rare
+  en-HK:
+  - set_number: DUNE-AE010
+    set_name: Duelist Nexus
+    rarities:
+    - Rare
   ko:
   - set_number: DUNE-KR010
     set_name: Duelist Nexus

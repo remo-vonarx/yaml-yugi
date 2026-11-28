@@ -108,6 +108,11 @@ sets:
     set_name: Burst Protocol +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BPRO-AEC49
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: RIRA-KR024
     set_name: Rising Rampage

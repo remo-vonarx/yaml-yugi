@@ -189,6 +189,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDID-AE027
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: DP23-KR004
     set_name: 'Duelist Pack: Legend Duelist 6'

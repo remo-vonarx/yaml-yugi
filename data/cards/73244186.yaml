@@ -82,6 +82,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: PHNI-AE117
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: WPP4-KR059
     set_name: World Premiere Pack 2023

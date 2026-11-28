@@ -80,6 +80,11 @@ sets:
     set_name: Doom of Dimensions
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AE001
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: DOOD-KR001
     set_name: Doom of Dimensions

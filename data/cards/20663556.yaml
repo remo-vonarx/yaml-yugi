@@ -154,6 +154,11 @@ sets:
     set_name: Light of Destruction
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR12-AE079
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR028
     set_name: Light of Destruction

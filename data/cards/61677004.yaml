@@ -85,6 +85,15 @@ sets:
     set_name: Blazing Dominion +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR11-AE032
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
+  - set_number: CR11-AES11
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: MACR-KR010
     set_name: Maximum Crisis

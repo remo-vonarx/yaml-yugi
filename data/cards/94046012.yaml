@@ -110,6 +110,11 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR02-AE174
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: SOFU-KR014
     set_name: Soul Fusion

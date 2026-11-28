@@ -114,6 +114,11 @@ sets:
     set_name: Tournament Pack 2008 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-064
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K064
     set_name: Spell Ruler

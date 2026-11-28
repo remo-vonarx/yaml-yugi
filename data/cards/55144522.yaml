@@ -523,6 +523,11 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-119
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
   ko:
   - set_number: LOB-K119
     set_name: Legend of Blue Eyes White Dragon

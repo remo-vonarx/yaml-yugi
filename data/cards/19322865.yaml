@@ -104,6 +104,11 @@ sets:
     set_name: Animation Chronicle 2023
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR02-AE152
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: AC03-KR019
     set_name: Animation Chronicle 2023

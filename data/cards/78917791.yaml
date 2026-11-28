@@ -143,6 +143,11 @@ sets:
     - Super Rare
     - Secret Rare
     - 20th Secret Rare
+  en-HK:
+  - set_number: DI02-AE031
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
   ko:
   - set_number: RIRA-KR044
     set_name: Rising Rampage

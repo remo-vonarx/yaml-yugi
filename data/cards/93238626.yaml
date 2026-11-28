@@ -74,6 +74,11 @@ sets:
     set_name: Primal Origin
     rarities:
     - Rare
+  en-HK:
+  - set_number: BETB-AEC34
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PRIO-KR059
     set_name: Primal Origin

@@ -211,6 +211,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-033
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR033
     set_name: Legacy of Darkness

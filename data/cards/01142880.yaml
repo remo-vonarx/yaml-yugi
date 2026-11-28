@@ -149,6 +149,11 @@ sets:
     set_name: 'Tactical-Try Deck: Decisive Strike Cyber Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: ALIN-AE084
+    set_name: Alliance Insight
+    rarities:
+    - Rare
   ko:
   - set_number: PP14-KRA26
     set_name: Premium Pack Vol.14 1st Wave

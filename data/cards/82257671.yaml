@@ -116,6 +116,11 @@ sets:
     set_name: Master Guide 6 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR07-AE009
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP15-KR044
     set_name: Premium Pack Vol.15

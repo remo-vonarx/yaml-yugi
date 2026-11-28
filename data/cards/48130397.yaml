@@ -521,6 +521,15 @@ sets:
     set_name: Limit Over Special Pack Vol.1
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR05-AE198
+    set_name: Creation Pack 05
+    rarities:
+    - Common
+  - set_number: CH01-AE033
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: PTDN-KR046
     set_name: Phantom Darkness

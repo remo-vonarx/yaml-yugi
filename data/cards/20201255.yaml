@@ -101,6 +101,11 @@ sets:
     set_name: Chaos Impact
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE067
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
   ko:
   - set_number: CHIM-KR056
     set_name: Chaos Impact

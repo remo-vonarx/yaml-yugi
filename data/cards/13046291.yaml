@@ -83,6 +83,11 @@ sets:
     set_name: Chaos Impact
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE094
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: CHIM-KR020
     set_name: Chaos Impact

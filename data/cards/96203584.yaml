@@ -76,6 +76,11 @@ sets:
     set_name: Battle of Chaos
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR02-AE109
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: BACH-KR058
     set_name: Battle of Chaos

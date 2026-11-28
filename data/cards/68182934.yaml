@@ -126,6 +126,11 @@ sets:
     set_name: Extra Pack 2016
     rarities:
     - Rare
+  en-HK:
+  - set_number: BN01-AE165
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: EP16-KR033
     set_name: Extra Pack 2016

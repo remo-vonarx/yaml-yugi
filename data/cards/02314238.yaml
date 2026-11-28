@@ -370,6 +370,15 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE095
+    set_name: Ancient Sanctuary
+    rarities:
+    - Ultra Rare
+  - set_number: SDID-AEP12
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: AST-KR095
     set_name: Ancient Sanctuary

@@ -77,6 +77,11 @@ sets:
     set_name: Burst of Destiny
     rarities:
     - Common
+  en-HK:
+  - set_number: INFO-AE108
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: BODE-KR066
     set_name: Burst of Destiny

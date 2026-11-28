@@ -161,6 +161,17 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: AGOV-AE093
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  - set_number: LAVD-AEO15
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: AC02-KR031
     set_name: Animation Chronicle 2022

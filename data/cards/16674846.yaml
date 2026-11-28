@@ -118,6 +118,11 @@ sets:
     set_name: 'Duelist Pack: Yusei 2'
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE064
+    set_name: Crimson Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: CRMS-KR064
     set_name: Crimson Crisis

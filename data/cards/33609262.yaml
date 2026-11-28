@@ -156,6 +156,18 @@ sets:
     set_name: Duelist Advance +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR08-AE063
+    set_name: Creation Pack 08
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
+  - set_number: CR08-AES18
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SECE-KR061
     set_name: Secrets of Eternity

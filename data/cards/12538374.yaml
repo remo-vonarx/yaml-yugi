@@ -271,6 +271,16 @@ sets:
     set_name: 'Structure Deck: Cyberse Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOI-AE025
+    set_name: Shadow of Infinity
+    rarities:
+    - Rare
+    - Ultimate Rare
+  - set_number: CR12-AE078
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: SOI-KR025
     set_name: Shadow of Infinity

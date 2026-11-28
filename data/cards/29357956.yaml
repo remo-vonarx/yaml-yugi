@@ -114,6 +114,11 @@ sets:
     set_name: 'Extra Pack: Knights of Order'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR06-AE060
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: EP14-KR037
     set_name: 'Extra Pack: Knights of Order'

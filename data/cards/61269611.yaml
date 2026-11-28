@@ -105,6 +105,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AES19
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LVDS-KRA08
     set_name: LINK VRAINS Duelist Set

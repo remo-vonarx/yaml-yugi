@@ -223,6 +223,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE002
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: GLAS-KR004
     set_name: Gladiator's Assault

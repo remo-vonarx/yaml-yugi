@@ -96,6 +96,16 @@ sets:
     rarities:
     - Normal Parallel Rare
     - Secret Rare
+  en-HK:
+  - set_number: SUDA-AE089
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: SUDA-AE089
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: AC03-KR005
     set_name: Animation Chronicle 2023

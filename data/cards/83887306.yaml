@@ -210,6 +210,19 @@ sets:
     set_name: Tournament Pack 2008 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-061
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
+  - set_number: SDY-028
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-034
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K061
     set_name: Legend of Blue Eyes White Dragon

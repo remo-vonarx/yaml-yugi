@@ -76,6 +76,15 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD2-AE012
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
+  - set_number: LEDE-AE098
+    set_name: Legacy of Destruction
+    rarities:
+    - Common
   ko:
   - set_number: TSHD-KR008
     set_name: The Shining Darkness

@@ -128,6 +128,11 @@ sets:
     set_name: Extra Pack 2016
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: 24AT-AE508
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EP16-KR028
     set_name: Extra Pack 2016

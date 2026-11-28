@@ -78,6 +78,11 @@ sets:
     set_name: "Structure Deck R: Tyranno's Rage"
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE019
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: SR04-KR003
     set_name: "Structure Deck R: Tyranno's Rage"

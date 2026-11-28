@@ -132,6 +132,11 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR11-AE041
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: DIFO-KR036
     set_name: Dimension Force

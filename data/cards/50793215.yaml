@@ -130,6 +130,16 @@ sets:
     - Super Rare
     - Secret Rare
     - 20th Secret Rare
+  en-HK:
+  - set_number: ROTA-AE104
+    set_name: Rage of the Abyss
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: ROTA-AE104
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Super Rare
   ko:
   - set_number: ETCO-KR042
     set_name: Eternity Code

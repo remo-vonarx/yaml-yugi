@@ -87,6 +87,18 @@ sets:
     set_name: The Valuable Book EX 3 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR07-AE042
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR07-AES08
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: 24PP-KRB06
     set_name: Premium Pack 2024 2nd Wave

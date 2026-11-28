@@ -105,6 +105,16 @@ sets:
     set_name: Legacy of the Valiant
     rarities:
     - Common
+  en-HK:
+  - set_number: CR07-AE056
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR07-AES10
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: EP14-KR043
     set_name: 'Extra Pack: Knights of Order'

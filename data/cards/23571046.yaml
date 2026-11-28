@@ -278,6 +278,11 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE087
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: TDGS-KR003
     set_name: The Duelist Genesis

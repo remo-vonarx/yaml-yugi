@@ -128,6 +128,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE085
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: SOVR-KR002
     set_name: Stardust Overdrive

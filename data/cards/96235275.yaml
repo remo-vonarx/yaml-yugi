@@ -223,6 +223,11 @@ sets:
     set_name: 'Structure Deck R: Revival of the Great Divine Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE099
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: LODT-KR018
     set_name: Light of Destruction

@@ -91,6 +91,12 @@ sets:
     set_name: Tournament Pack 2026 Vol.3
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: DBPR-AE003
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: DBPR-KR003
     set_name: 'Deck-Build Pack: Phantom Revengers'

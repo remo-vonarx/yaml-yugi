@@ -314,6 +314,11 @@ sets:
     set_name: 'Structure Deck: Master Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: LEDE-AE120
+    set_name: Legacy of Destruction
+    rarities:
+    - Rare
   ko:
   - set_number: CBLZ-KR078
     set_name: Cosmo Blazer

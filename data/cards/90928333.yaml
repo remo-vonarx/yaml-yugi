@@ -282,6 +282,15 @@ sets:
     set_name: "Structure Deck R: Warriors' Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE037
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
+  - set_number: 24AT-AE415
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR037
     set_name: Soul of the Duelist

@@ -190,6 +190,19 @@ sets:
     set_name: Duelist Advance +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR08-AE041
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+  - set_number: CR08-AES12
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Secret Rare
+  - set_number: LAVD-AEL16
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: TDIL-KR054
     set_name: The Dark Illusion

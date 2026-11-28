@@ -161,6 +161,19 @@ sets:
     set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE401
+    set_name: Tournament Pack 2024 Vol.4 (Asian-English)
+    rarities:
+    - Ultra Rare
+  - set_number: CR09-AE023
+    set_name: Creation Pack 09
+    rarities:
+    - Ultimate Rare
+  - set_number: CR09-AES10
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: COTD-KR042
     set_name: Code of the Duelist

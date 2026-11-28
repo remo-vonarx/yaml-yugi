@@ -130,6 +130,11 @@ sets:
     set_name: Blue-Eyes Ultimate Dragon, the God-Surpassing Servant Duel Set
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: SDRB-AEP05
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DP20-KR005
     set_name: 'Duelist Pack: Legend Duelist 3'

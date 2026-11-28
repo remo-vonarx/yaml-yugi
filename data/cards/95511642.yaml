@@ -111,6 +111,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE171
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: COTD-KR018
     set_name: Code of the Duelist

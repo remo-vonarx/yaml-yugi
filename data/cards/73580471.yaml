@@ -542,6 +542,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR09-AE039
+    set_name: Creation Pack 09
+    rarities:
+    - Ultimate Rare
+  - set_number: CR09-AES14
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: CSOC-KR039
     set_name: Crossroads of Chaos

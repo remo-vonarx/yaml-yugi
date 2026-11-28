@@ -145,6 +145,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CR06-AE085
+    set_name: Creation Pack 06
+    rarities:
+    - Ultimate Rare
+  - set_number: CR06-AES24
+    set_name: Creation Pack 06 +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: LVP1-KR091
     set_name: LINK VRAINS Pack

@@ -142,6 +142,11 @@ sets:
     set_name: 'Tactical-Try Deck: Exosister'
     rarities:
     - Common
+  en-HK:
+  - set_number: TT02-AEB01
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
   ko:
   - set_number: POTE-KR025
     set_name: Power of the Elements

@@ -155,6 +155,17 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR04-AE167
+    set_name: Creation Pack 04
+    rarities:
+    - Ultimate Rare
+  - set_number: LAVD-AEO35
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LVP1-KR086
     set_name: LINK VRAINS Pack

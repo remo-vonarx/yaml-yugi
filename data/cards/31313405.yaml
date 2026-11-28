@@ -140,6 +140,15 @@ sets:
     set_name: Tournament Pack 2026 Vol.3
     rarities:
     - Secret Rare (Special Blue Version)
+  en-HK:
+  - set_number: SDSS-AE047
+    set_name: 'Structure Deck: Salamangreat Sanctum'
+    rarities:
+    - Ultra Rare
+  - set_number: SDSS-AEP01
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Secret Rare
   ko:
   - set_number: CHIM-KR039
     set_name: Chaos Impact

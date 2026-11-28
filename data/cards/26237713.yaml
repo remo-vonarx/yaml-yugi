@@ -128,6 +128,13 @@ sets:
     set_name: Winner's Pack 2025 Vol.4
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: ES02-AE092
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DAMA-KR068
     set_name: Dawn of Majesty

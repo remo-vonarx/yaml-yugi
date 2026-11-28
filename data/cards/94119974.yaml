@@ -232,6 +232,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: SSD2-AE001
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: TP2-KR025
     set_name: 'Tournament Pack: 2nd Season'

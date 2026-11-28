@@ -154,6 +154,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultra Rare (Special Blue Version)
+  en-HK:
+  - set_number: EOJ-AE001
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR001
     set_name: Enemy of Justice

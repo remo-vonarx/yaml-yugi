@@ -308,6 +308,11 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SOD-AE013
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR013
     set_name: Soul of the Duelist

@@ -137,6 +137,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Holographic Rare
+  en-HK:
+  - set_number: AGOV-AE105
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: TDIL-KR046
     set_name: The Dark Illusion

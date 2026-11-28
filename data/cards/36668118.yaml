@@ -140,6 +140,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR10-AE016
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: EXFO-KR053
     set_name: Extreme Force

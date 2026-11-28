@@ -95,6 +95,11 @@ sets:
     set_name: Terminal World 3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR13-AE082
+    set_name: Creation Pack 13
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR051
     set_name: 'Invasion: Vengeance'

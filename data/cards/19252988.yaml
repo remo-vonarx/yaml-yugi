@@ -274,6 +274,11 @@ sets:
     set_name: Duel Terminal - Justice Strikes Back!!
     rarities:
     - Duel Terminal Normal Parallel Rare
+  en-HK:
+  - set_number: IOC-AE110
+    set_name: Invasion of Chaos
+    rarities:
+    - Super Rare
   ko:
   - set_number: IOC-KR110
     set_name: Invasion of Chaos

@@ -138,6 +138,13 @@ sets:
     - Common
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SLF1-AE004
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: EP15-KR043
     set_name: Extra Pack 2015

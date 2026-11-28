@@ -222,6 +222,11 @@ sets:
     rarities:
     - Common
     - Ultimate Rare
+  en-HK:
+  - set_number: SDID-AE036
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Super Rare
   ko:
   - set_number: MB01-KR040
     set_name: Millennium Deck

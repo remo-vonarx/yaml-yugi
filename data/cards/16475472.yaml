@@ -178,6 +178,11 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-003
+    set_name: Legacy of Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: LOD-KR003
     set_name: Legacy of Darkness

@@ -286,6 +286,16 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: FET-AE033
+    set_name: Flaming Eternity
+    rarities:
+    - Common
+  - set_number: CORI-AES07
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: FET-KR033
     set_name: Flaming Eternity

@@ -74,6 +74,11 @@ sets:
     set_name: Labyrinth of Nightmare (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-058
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR058
     set_name: Labyrinth of Nightmare

@@ -81,6 +81,11 @@ sets:
     set_name: Photon Shockwave
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: DUNE-AE097
+    set_name: Duelist Nexus
+    rarities:
+    - Rare
   ko:
   - set_number: PHSW-KR020
     set_name: Photon Shockwave

@@ -192,6 +192,16 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH01-AE023
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
+  - set_number: TFTV-AE046
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DAMA-KR054
     set_name: Dawn of Majesty

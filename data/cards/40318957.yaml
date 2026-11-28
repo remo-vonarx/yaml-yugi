@@ -273,6 +273,22 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: AGOV-AE082
+    set_name: Age of Overlord
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: AGOV-AE082
+    set_name: Age of Overlord +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AEO02
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SD29-KR005
     set_name: 'Structure Deck: Master of Pendulum'

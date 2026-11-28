@@ -88,6 +88,11 @@ sets:
     set_name: V Jump Edition 9
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR12-AE026
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: PP09-KR025
     set_name: Premium Pack Vol.9

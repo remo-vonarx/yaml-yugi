@@ -92,6 +92,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR14-AE034
+    set_name: Creation Pack 14
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: RV01-KR001
     set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'

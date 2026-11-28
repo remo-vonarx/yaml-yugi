@@ -154,6 +154,11 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: 25AT-AE316
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: DREV-KR061
     set_name: Duelist Revolution

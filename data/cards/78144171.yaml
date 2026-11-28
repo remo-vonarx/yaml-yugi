@@ -144,6 +144,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: 26AT-AE201
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PP14-KRB24
     set_name: Premium Pack Vol.14 2nd Wave

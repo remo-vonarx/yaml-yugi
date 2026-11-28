@@ -188,6 +188,11 @@ sets:
     set_name: Coco's x Yu-Gi-Oh! Card Game Anniversary Campaign 2024 Part 2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR08-AE016
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
   ko:
   - set_number: EP15-KR052
     set_name: Extra Pack 2015

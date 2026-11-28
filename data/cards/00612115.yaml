@@ -131,6 +131,11 @@ sets:
     set_name: Advanced Tournament Pack 2013 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE046
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: EXP2-KR027
     set_name: Extra Pack Volume 2

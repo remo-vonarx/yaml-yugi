@@ -133,6 +133,15 @@ sets:
     set_name: Burst Protocol +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR10-AE023
+    set_name: Creation Pack 10
+    rarities:
+    - Ultra Rare
+  - set_number: CR10-AES05
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SPDS-KR032
     set_name: 'Booster SP: Destiny Soldiers'

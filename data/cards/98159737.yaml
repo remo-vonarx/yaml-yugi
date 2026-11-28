@@ -176,6 +176,11 @@ sets:
     set_name: Rising Rampage
     rarities:
     - Rare
+  en-HK:
+  - set_number: DI02-AE005
+    set_name: 'Duel-Ignition Deck: Swordsoul'
+    rarities:
+    - Common
   ko:
   - set_number: RIRA-KR012
     set_name: Rising Rampage

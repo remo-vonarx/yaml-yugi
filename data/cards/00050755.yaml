@@ -334,6 +334,11 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE033
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: SD16-KR033
     set_name: 'Structure Deck: Lord of Magician'

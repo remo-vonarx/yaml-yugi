@@ -1033,6 +1033,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRD-138
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: SDID-AEP20
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K138
     set_name: Metal Raiders

@@ -116,6 +116,11 @@ sets:
     set_name: 'Complete File: Story of White'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TFTV-AE066
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Super Rare
   ko:
   - set_number: BACH-KR006
     set_name: Battle of Chaos

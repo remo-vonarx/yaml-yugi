@@ -244,6 +244,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-061
+    set_name: Magician's Force
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: MFC-KR061
     set_name: Magician's Force

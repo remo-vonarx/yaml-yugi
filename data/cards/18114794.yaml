@@ -99,6 +99,11 @@ sets:
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: 26AT-AE117
+    set_name: Tournament Pack 2026 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR068
     set_name: Lord of the Tachyon Galaxy

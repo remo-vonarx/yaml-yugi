@@ -194,6 +194,15 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR12-AE018
+    set_name: Creation Pack 12
+    rarities:
+    - Super Rare
+  - set_number: CR12-AES05
+    set_name: Creation Pack 12 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: SRL-KRPR1
     set_name: Spell Ruler promotional cards

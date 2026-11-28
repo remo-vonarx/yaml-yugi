@@ -212,6 +212,11 @@ sets:
     set_name: "Structure Deck: HERO's Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE038
+    set_name: Enemy of Justice
+    rarities:
+    - Common
   ko:
   - set_number: EOJ-KR038
     set_name: Enemy of Justice

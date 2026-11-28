@@ -74,6 +74,11 @@ sets:
     set_name: Photon Shockwave
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE075
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: PHSW-KR009
     set_name: Photon Shockwave

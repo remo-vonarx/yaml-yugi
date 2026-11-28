@@ -245,6 +245,16 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CRV-AE014
+    set_name: Cybernetic Revolution
+    rarities:
+    - Rare
+    - Ultimate Rare
+  - set_number: 24AT-AE500
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: CRV-KR014
     set_name: Cybernetic Revolution

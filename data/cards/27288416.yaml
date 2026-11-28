@@ -182,6 +182,11 @@ sets:
     set_name: Tournament Pack 2022 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE057
+    set_name: Ancient Sanctuary
+    rarities:
+    - Common
   ko:
   - set_number: AST-KR057
     set_name: Ancient Sanctuary

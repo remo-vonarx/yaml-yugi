@@ -466,6 +466,23 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES01-AE062
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: LAVD-AEL21
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+  - set_number: BETB-AES11
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CBLZ-KR059
     set_name: Cosmo Blazer

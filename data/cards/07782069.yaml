@@ -90,6 +90,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AE036
+    set_name: Doom of Dimensions
+    rarities:
+    - Rare
   ko:
   - set_number: DOOD-KR036
     set_name: Doom of Dimensions

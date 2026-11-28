@@ -200,6 +200,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: DI01-AE004
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: 20AP-KR005
     set_name: 20th Anniversary Pack 1st Wave

@@ -223,6 +223,23 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: ROTA-AE079
+    set_name: Rage of the Abyss
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ROTA-AE079
+    set_name: Rage of the Abyss +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  - set_number: DA01-AE120
+    set_name: Duel Arrival Box -Heroes Edition-
+    rarities:
+    - Collector's Rare
   ko:
   - set_number: ROTA-KR079
     set_name: Rage of the Abyss

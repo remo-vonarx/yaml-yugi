@@ -164,6 +164,11 @@ sets:
     set_name: 'Structure Deck R: Revival of the Great Divine Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE104
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: EXP2-KR003
     set_name: Extra Pack Volume 2

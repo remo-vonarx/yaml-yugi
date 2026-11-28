@@ -101,6 +101,16 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR07-AE061
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR07-AES11
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: ABYR-KR055
     set_name: Abyss Rising

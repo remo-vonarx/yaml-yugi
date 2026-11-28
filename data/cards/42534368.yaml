@@ -226,6 +226,11 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SSD1-AE015
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: SD17-KR023
     set_name: "Structure Deck: Warriors' Strike"

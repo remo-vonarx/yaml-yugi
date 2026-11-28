@@ -363,6 +363,11 @@ sets:
     set_name: Starter Deck 2019
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE093
+    set_name: Creation Pack 04
+    rarities:
+    - Rare
   ko:
   - set_number: LODT-KR022
     set_name: Light of Destruction

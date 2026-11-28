@@ -321,6 +321,11 @@ sets:
     set_name: 'Structure Deck: Powercode Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-051
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR051
     set_name: Labyrinth of Nightmare

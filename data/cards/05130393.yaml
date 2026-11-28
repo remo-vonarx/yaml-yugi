@@ -81,6 +81,11 @@ sets:
     set_name: Prismatic God Box
     rarities:
     - Millennium Rare
+  en-HK:
+  - set_number: CR14-AE013
+    set_name: Creation Pack 14
+    rarities:
+    - Common
   ko:
   - set_number: 23PP-KRB30
     set_name: Premium Pack 2023 2nd Wave

@@ -135,6 +135,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR05-AE155
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: BODE-KR017
     set_name: Burst of Destiny

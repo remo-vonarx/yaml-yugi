@@ -431,6 +431,11 @@ sets:
     set_name: Tournament Pack 2022 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE093
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR093
     set_name: Invasion of Chaos

@@ -122,6 +122,11 @@ sets:
     set_name: Starter Deck 2006
     rarities:
     - Common
+  en-HK:
+  - set_number: SOD-AE059
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR059
     set_name: Soul of the Duelist

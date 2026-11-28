@@ -137,6 +137,15 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DI01-AE005
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
+  - set_number: 25AT-AE100
+    set_name: Tournament Pack 2025 Vol.1 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: POTE-KR001
     set_name: Power of the Elements

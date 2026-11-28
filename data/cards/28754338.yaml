@@ -105,6 +105,11 @@ sets:
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE103
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR033
     set_name: Lord of the Tachyon Galaxy

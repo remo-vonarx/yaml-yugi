@@ -203,6 +203,11 @@ sets:
     set_name: 'Structure Deck: Synchron Extreme'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE120
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SD15-KR030
     set_name: 'Structure Deck: Undead World'

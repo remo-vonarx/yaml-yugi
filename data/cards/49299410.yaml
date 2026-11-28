@@ -172,6 +172,20 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: PHNI-AE078
+    set_name: Phantom Nightmare
+    rarities:
+    - Rare
+  - set_number: CH01-AE038
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
+  - set_number: TFTV-AE145
+    set_name: The Fallen & The Virtuous (set)
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PHNI-KR078
     set_name: Phantom Nightmare

@@ -84,6 +84,11 @@ sets:
     set_name: V Jump August 2016 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR04-AE004
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP11-KR034
     set_name: Premium Pack Vol.11

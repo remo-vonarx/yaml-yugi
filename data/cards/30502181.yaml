@@ -96,6 +96,11 @@ sets:
     set_name: The Duelist Genesis
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE115
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: TDGS-KR059
     set_name: The Duelist Genesis

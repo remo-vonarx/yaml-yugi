@@ -156,6 +156,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: SDID-AE042
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: RC02-KR001
     set_name: Rarity Collection 20th Anniversary Edition

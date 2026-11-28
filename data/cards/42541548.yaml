@@ -128,6 +128,11 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE015
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR015
     set_name: Invasion of Chaos

@@ -133,6 +133,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AES05
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SPFE-KR005
     set_name: 'Booster SP: Fusion Enforcers'

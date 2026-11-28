@@ -130,6 +130,15 @@ sets:
     set_name: Starter Deck 2007
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-002
+    set_name: Dark Crisis
+    rarities:
+    - Common
+  - set_number: BN01-AE117
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR002
     set_name: Dark Crisis

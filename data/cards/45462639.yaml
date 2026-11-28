@@ -170,6 +170,11 @@ sets:
     set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE008
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: ESP3-KR059
     set_name: Expansion Pack Vol.3

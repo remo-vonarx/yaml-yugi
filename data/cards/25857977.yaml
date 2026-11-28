@@ -123,6 +123,15 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR09-AE014
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
+  - set_number: CR09-AES08
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: LGB1-KR037
     set_name: Legendary Gold Set

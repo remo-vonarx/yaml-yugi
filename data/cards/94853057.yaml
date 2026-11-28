@@ -191,6 +191,12 @@ sets:
     set_name: 'Structure Deck: Advent of the Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: EOJ-AE022
+    set_name: Enemy of Justice
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: EOJ-KR022
     set_name: Enemy of Justice

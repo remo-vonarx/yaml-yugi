@@ -96,6 +96,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR05-AE065
+    set_name: Creation Pack 05
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: DBGI-KR029
     set_name: 'Deck-Build Pack: Genesis Impactors'

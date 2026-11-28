@@ -199,6 +199,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: AST-AE063
+    set_name: Ancient Sanctuary
+    rarities:
+    - Rare
   ko:
   - set_number: AST-KR063
     set_name: Ancient Sanctuary

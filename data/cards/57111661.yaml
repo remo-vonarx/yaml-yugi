@@ -105,6 +105,11 @@ sets:
     set_name: Maliss Duel Set
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: DBCB-AE024
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBCB-KR024
     set_name: 'Deck-Build Pack: Crossover Breakers'

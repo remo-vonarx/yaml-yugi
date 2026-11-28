@@ -170,6 +170,11 @@ sets:
     set_name: 'Structure Deck R: Machiners Command'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE107
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR107
     set_name: Invasion of Chaos

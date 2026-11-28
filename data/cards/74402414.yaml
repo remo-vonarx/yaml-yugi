@@ -102,6 +102,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: PHNI-AE109
+    set_name: Phantom Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: PTDN-KR050
     set_name: Phantom Darkness

@@ -1457,6 +1457,21 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PSV-012
+    set_name: Pharaoh's Servant
+    rarities:
+    - Ultra Rare
+  - set_number: SDRB-AE038
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
+  - set_number: ES02-AE109
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PSV-K012
     set_name: Pharaoh's Servant

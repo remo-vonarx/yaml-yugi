@@ -149,6 +149,11 @@ sets:
     set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
     rarities:
     - Common
+  en-HK:
+  - set_number: CH01-AE048
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Common
   ko:
   - set_number: BLVO-KR038
     set_name: Blazing Vortex

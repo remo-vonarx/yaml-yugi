@@ -175,6 +175,15 @@ sets:
     set_name: Collectors Pack 2017
     rarities:
     - Common
+  en-HK:
+  - set_number: AGOV-AE084
+    set_name: Age of Overlord
+    rarities:
+    - Common
+  - set_number: LAVD-AEO07
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: CP17-KR003
     set_name: Collectors Pack 2017

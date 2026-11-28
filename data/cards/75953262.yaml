@@ -221,6 +221,11 @@ sets:
     set_name: Starter Deck 2014
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-020
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR020
     set_name: Legacy of Darkness

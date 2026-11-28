@@ -178,6 +178,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: CR14-AE017
+    set_name: Creation Pack 14
+    rarities:
+    - Common
   ko:
   - set_number: CPL1-KR025
     set_name: 'Collectors Pack: Duelist of Legend Version'

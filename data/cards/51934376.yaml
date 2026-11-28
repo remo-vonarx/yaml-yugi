@@ -202,6 +202,11 @@ sets:
     set_name: "Structure Deck: Dinosaur's Rage"
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-054
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR054
     set_name: Pharaonic Guardian

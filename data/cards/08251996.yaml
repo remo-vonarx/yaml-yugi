@@ -172,6 +172,11 @@ sets:
     set_name: 'Duelist Pack: Chazz Princeton'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE034
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR034
     set_name: Invasion of Chaos

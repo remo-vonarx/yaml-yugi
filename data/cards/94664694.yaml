@@ -116,6 +116,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AEC15
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CSOC-KR003
     set_name: Crossroads of Chaos

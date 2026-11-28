@@ -308,6 +308,11 @@ sets:
     set_name: 'Revolution Booster: Toon / Witchcrafter / Unchained'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-072
+    set_name: Magic Ruler
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SRL-K072
     set_name: Spell Ruler

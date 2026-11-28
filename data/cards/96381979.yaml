@@ -205,6 +205,15 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: 25AT-AE201
+    set_name: Tournament Pack 2025 Vol.2 (Asian-English)
+    rarities:
+    - Ultra Rare
+  - set_number: LAVD-AEL35
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: CBLZ-KR048
     set_name: Cosmo Blazer

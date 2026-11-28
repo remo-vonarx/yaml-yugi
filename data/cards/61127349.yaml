@@ -227,6 +227,11 @@ sets:
     set_name: "Structure Deck: Warriors' Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-086
+    set_name: Magician's Force
+    rarities:
+    - Rare
   ko:
   - set_number: MFC-KR086
     set_name: Magician's Force

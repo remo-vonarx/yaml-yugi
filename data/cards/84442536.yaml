@@ -92,6 +92,11 @@ sets:
     set_name: 'Invasion: Vengeance'
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC61
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR075
     set_name: 'Invasion: Vengeance'

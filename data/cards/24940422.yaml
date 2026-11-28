@@ -122,6 +122,13 @@ sets:
     set_name: Flames of Destruction
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE088
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: FLOD-KR062
     set_name: Flames of Destruction

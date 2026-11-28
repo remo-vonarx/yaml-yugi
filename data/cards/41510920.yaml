@@ -122,6 +122,11 @@ sets:
     set_name: Duelist Alliance
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE324
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: DUEA-KR071
     set_name: Duelist Alliance

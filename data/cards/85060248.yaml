@@ -72,6 +72,11 @@ sets:
     set_name: The Duelist Genesis
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE205
+    set_name: Tournament Pack 2025 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: TDGS-KR019
     set_name: The Duelist Genesis

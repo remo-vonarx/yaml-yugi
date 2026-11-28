@@ -105,6 +105,11 @@ sets:
     set_name: Lord of the Tachyon Galaxy
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC14
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: LTGY-KR057
     set_name: Lord of the Tachyon Galaxy

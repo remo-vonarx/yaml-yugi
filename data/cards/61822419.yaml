@@ -113,6 +113,18 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DUAD-AE070
+    set_name: Duelist's Advance
+    rarities:
+    - Rare
+    - Secret Rare
+  - set_number: ES02-AE101
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUAD-KR070
     set_name: Duelist's Advance

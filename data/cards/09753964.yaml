@@ -178,6 +178,16 @@ sets:
     set_name: Tournament Pack 2025 Vol.4
     rarities:
     - Secret Rare (Special Blue Version)
+  en-HK:
+  - set_number: CR11-AE021
+    set_name: Creation Pack 11
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
+  - set_number: CR11-AES08
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: SPHR-KR040
     set_name: 'Booster SP: High-Speed Riders'

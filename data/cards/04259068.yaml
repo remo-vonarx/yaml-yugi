@@ -123,6 +123,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: AST-AE089
+    set_name: Ancient Sanctuary
+    rarities:
+    - Rare
   ko:
   - set_number: AST-KR089
     set_name: Ancient Sanctuary

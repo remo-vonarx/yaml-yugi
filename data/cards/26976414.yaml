@@ -133,6 +133,11 @@ sets:
     set_name: 'Structure Deck: Roar of the Sea Emperor'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE098
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: PTDN-KR002
     set_name: Phantom Darkness

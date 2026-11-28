@@ -437,6 +437,15 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: TLM-AE004
+    set_name: The Lost Millennium
+    rarities:
+    - Common
+  - set_number: SSD1-AE003
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: TLM-KR004
     set_name: The Lost Millennium

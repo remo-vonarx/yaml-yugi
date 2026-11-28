@@ -226,6 +226,15 @@ sets:
     set_name: Supreme Darkness +1 Bonus Pack
     rarities:
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SUDA-AE113
+    set_name: Supreme Darkness
+    rarities:
+    - Rare
+  - set_number: SUDA-AES01
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: GLAS-KR047
     set_name: Gladiator's Assault

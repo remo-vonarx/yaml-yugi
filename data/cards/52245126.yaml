@@ -78,6 +78,13 @@ sets:
     rarities:
     - Ultra Rare
     - Starlight Rare
+  en-HK:
+  - set_number: BETB-AE095
+    set_name: Beyond the Brave
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
 limit_regulation:
   tcg: Unlimited
   ocg:

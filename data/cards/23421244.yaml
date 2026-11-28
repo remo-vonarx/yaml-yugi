@@ -110,6 +110,11 @@ sets:
     set_name: 'Structure Deck: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: EEN-AE009
+    set_name: Elemental Energy
+    rarities:
+    - Common
   ko:
   - set_number: EEN-KR009
     set_name: Elemental Energy

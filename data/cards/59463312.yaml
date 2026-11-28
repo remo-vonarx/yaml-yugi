@@ -106,6 +106,12 @@ sets:
     set_name: Duelist Advance +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR08-AE058
+    set_name: Creation Pack 08
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: SR01-KR002
     set_name: 'Structure Deck R: Advent of the True Monarch'

@@ -101,6 +101,13 @@ sets:
     set_name: Duel Academia Selection
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES02-AE046
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SYP2-KR063
     set_name: 'Synergy Pack 02: The Generation Next'

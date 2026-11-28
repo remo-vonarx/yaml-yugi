@@ -144,6 +144,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR09-AE099
+    set_name: Creation Pack 09
+    rarities:
+    - Common
   ko:
   - set_number: WPP2-KR049
     set_name: World Premiere Pack 2021

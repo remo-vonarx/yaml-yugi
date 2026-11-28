@@ -183,6 +183,15 @@ sets:
     set_name: Duel Royale Deck Set EX Round 2
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-040
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SSD1-AE019
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K040
     set_name: 'Starter Deck: Kaiba'

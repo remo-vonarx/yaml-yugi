@@ -74,6 +74,11 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE052
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: PHHY-KR074
     set_name: Photon Hypernova

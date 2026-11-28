@@ -152,6 +152,11 @@ sets:
     set_name: Extra Pack 2018
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE173
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: EP18-KR040
     set_name: Extra Pack 2018

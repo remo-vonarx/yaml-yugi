@@ -251,6 +251,13 @@ sets:
     set_name: Tournament Pack 2022 Vol.4
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ES01-AE006
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EXP4-KR036
     set_name: Extra Pack Volume 4

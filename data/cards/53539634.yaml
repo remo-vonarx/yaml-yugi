@@ -137,6 +137,15 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SOD-AE036
+    set_name: Soul of the Duelist
+    rarities:
+    - Common
+  - set_number: 24AT-AE110
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: SOD-KR036
     set_name: Soul of the Duelist

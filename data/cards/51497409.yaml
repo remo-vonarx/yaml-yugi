@@ -90,6 +90,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: DOOD-AE106
+    set_name: Doom of Dimensions
+    rarities:
+    - Common
   ko:
   - set_number: MACR-KR045
     set_name: Maximum Crisis

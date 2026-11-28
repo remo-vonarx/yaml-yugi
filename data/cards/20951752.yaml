@@ -92,6 +92,12 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: EOJ-AE023
+    set_name: Enemy of Justice
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: EOJ-KR023
     set_name: Enemy of Justice

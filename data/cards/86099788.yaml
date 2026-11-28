@@ -144,6 +144,17 @@ sets:
     set_name: Beginner's Edition 2 (2011)
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: LON-077
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Ultra Rare
+  - set_number: ES02-AE040
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LON-KR077
     set_name: Labyrinth of Nightmare

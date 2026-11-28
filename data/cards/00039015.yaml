@@ -78,6 +78,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AES14
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DANE-KR011
     set_name: Dark Neostorm

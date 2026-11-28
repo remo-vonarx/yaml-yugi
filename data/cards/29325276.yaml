@@ -100,6 +100,11 @@ sets:
     set_name: Yu-Gi-Oh! OCG Structures Volume 9 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LAVD-AEO25
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: 25PP-KRB17
     set_name: Premium Pack 2025 2nd Wave

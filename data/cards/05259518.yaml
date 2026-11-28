@@ -105,6 +105,15 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 5'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CR11-AE033
+    set_name: Creation Pack 11
+    rarities:
+    - Common
+  - set_number: CR11-AES12
+    set_name: Creation Pack 11 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DP22-KR046
     set_name: 'Duelist Pack: Legend Duelist 5'

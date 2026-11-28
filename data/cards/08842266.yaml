@@ -158,6 +158,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-033
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR033
     set_name: Magician's Force

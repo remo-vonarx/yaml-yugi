@@ -220,6 +220,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Joey'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PSV-086
+    set_name: Pharaoh's Servant
+    rarities:
+    - Rare
+  - set_number: SSD1-AE008
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K086
     set_name: Pharaoh's Servant

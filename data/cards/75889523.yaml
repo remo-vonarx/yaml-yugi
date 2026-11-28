@@ -83,6 +83,11 @@ sets:
     set_name: Tournament Pack 2008 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE032
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP6-KR016
     set_name: Tournament Pack 6

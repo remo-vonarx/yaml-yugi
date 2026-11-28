@@ -90,6 +90,11 @@ sets:
     set_name: Collectors Pack 2017
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE061
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: CP17-KR026
     set_name: Collectors Pack 2017

@@ -110,6 +110,14 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Grand Master Rare
+  en-HK:
+  - set_number: DA01-AE005
+    set_name: Duel Arrival Box -Heroes Edition-
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: LOCH-KR005
     set_name: 'Limit Over Collection: The Heroes'

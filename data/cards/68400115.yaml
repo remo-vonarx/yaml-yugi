@@ -128,6 +128,11 @@ sets:
     set_name: Tournament Pack 2012 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-087
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR087
     set_name: Labyrinth of Nightmare

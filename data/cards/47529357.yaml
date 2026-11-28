@@ -124,6 +124,11 @@ sets:
     set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE024
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: PP02-KR017
     set_name: Premium Pack Vol.2

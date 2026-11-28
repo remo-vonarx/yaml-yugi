@@ -109,6 +109,11 @@ sets:
     set_name: 'Tactical-Try Pack: Dark Magic / HERO / Mikanko'
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE100
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: PP07-KR026
     set_name: Premium Pack Vol.7

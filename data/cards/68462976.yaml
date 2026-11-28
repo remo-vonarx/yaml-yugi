@@ -285,6 +285,17 @@ sets:
     set_name: 'Structure Deck: Masters of the Spiritual Arts - The Legend of Duelist Quarter Century Edition'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDID-AE030
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
+  - set_number: ES02-AE083
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CSOC-KR061
     set_name: Crossroads of Chaos

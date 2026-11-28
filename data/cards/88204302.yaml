@@ -160,6 +160,15 @@ sets:
     set_name: 'Duelist Pack: Duelists of Whirlwind'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE040
+    set_name: Creation Pack 06
+    rarities:
+    - Common
+  - set_number: LAVD-AES18
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: SPHR-KR011
     set_name: 'Booster SP: High-Speed Riders'

@@ -94,6 +94,12 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: EEN-AE017
+    set_name: Elemental Energy
+    rarities:
+    - Super Rare
+    - Ultimate Rare
   ko:
   - set_number: EEN-KR017
     set_name: Elemental Energy

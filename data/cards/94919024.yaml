@@ -132,6 +132,11 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR08-AE033
+    set_name: Creation Pack 08
+    rarities:
+    - Common
   ko:
   - set_number: DBLE-KR013
     set_name: Dimension Box Limited Edition

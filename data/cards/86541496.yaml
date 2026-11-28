@@ -196,6 +196,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Gloom'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR14-AE016
+    set_name: Creation Pack 14
+    rarities:
+    - Super Rare
   ko:
   - set_number: MP01-KR018
     set_name: Millennium Pack (OCG)

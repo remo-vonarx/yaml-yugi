@@ -122,6 +122,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR07-AE057
+    set_name: Creation Pack 07
+    rarities:
+    - Common
   ko:
   - set_number: ABYR-KR045
     set_name: Abyss Rising

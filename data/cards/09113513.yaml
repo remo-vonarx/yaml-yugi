@@ -186,6 +186,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE046
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: DBLE-KR006
     set_name: Dimension Box Limited Edition

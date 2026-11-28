@@ -112,6 +112,15 @@ sets:
     set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-094
+    set_name: Magician's Force
+    rarities:
+    - Rare
+  - set_number: SD16-AE029
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR094
     set_name: Magician's Force

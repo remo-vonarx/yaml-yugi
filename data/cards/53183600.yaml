@@ -353,6 +353,15 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: MRL-000
+    set_name: Magic Ruler
+    rarities:
+    - Secret Rare
+  - set_number: CR14-AE032
+    set_name: Creation Pack 14
+    rarities:
+    - Super Rare
   ko:
   - set_number: SRL-K000
     set_name: Spell Ruler

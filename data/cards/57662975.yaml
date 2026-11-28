@@ -168,6 +168,11 @@ sets:
     set_name: "Structure Deck R: Warriors' Strike"
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE507
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: ORCS-KR037
     set_name: Order of Chaos

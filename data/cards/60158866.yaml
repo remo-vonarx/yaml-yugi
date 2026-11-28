@@ -97,6 +97,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of the Abyss'
     rarities:
     - Rare
+  en-HK:
+  - set_number: BETB-AE117
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: DP26-KR007
     set_name: 'Duelist Pack: Duelists of the Abyss'

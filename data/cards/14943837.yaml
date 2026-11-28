@@ -290,6 +290,11 @@ sets:
     set_name: 'Structure Deck: Cyberse Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: CRMS-AE002
+    set_name: Crimson Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: CRMS-KR002
     set_name: Crimson Crisis

@@ -116,6 +116,17 @@ sets:
     set_name: Eternity Code
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR09-AE058
+    set_name: Creation Pack 09
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR09-AES20
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: ETCO-KR053
     set_name: Eternity Code

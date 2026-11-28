@@ -184,6 +184,11 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE123
+    set_name: Creation Pack 03
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: CORE-KR050
     set_name: Clash of Rebellions

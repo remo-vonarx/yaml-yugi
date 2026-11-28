@@ -98,6 +98,12 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BETB-AES05
+    set_name: Beyond the Brave +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: PRIO-KR043
     set_name: Primal Origin

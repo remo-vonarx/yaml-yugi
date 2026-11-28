@@ -156,6 +156,15 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE160
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
+  - set_number: CR02-AES24
+    set_name: Creation Pack 02 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: FOTB-KR010
     set_name: Force of the Breaker

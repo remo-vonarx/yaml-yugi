@@ -116,6 +116,11 @@ sets:
     rarities:
     - Normal Parallel Rare
     - Secret Parallel Rare
+  en-HK:
+  - set_number: CR13-AE070
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
   ko:
   - set_number: BLVO-KR022
     set_name: Blazing Vortex

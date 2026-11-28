@@ -139,6 +139,15 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR01-AE145
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+  - set_number: CR01-AES19
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBTM-KR009
     set_name: 'Deck-Build Pack: Tactical Masters'

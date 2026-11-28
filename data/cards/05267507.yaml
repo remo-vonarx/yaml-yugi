@@ -103,6 +103,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: BLZD-AES02
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: AC04-KR013
     set_name: Animation Chronicle 2024

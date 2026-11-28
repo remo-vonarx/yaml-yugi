@@ -113,6 +113,16 @@ sets:
     set_name: 'Structure Deck: Sacred Beasts of Chaos'
     rarities:
     - Common
+  en-HK:
+  - set_number: SOI-AE041
+    set_name: Shadow of Infinity
+    rarities:
+    - Rare
+    - Ultimate Rare
+  - set_number: CR03-AE014
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: SOI-KR041
     set_name: Shadow of Infinity

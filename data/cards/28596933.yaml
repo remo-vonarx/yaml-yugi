@@ -195,6 +195,11 @@ sets:
     set_name: 'Structure Deck R: Revival of the Great Divine Dragon'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-044
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR044
     set_name: Legacy of Darkness

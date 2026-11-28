@@ -128,6 +128,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR05-AE017
+    set_name: Creation Pack 05
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP08-KR018
     set_name: Premium Pack Vol.8

@@ -80,6 +80,11 @@ sets:
     set_name: Duelist Revolution
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE076
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: DREV-KR024
     set_name: Duelist Revolution

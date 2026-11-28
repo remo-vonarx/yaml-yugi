@@ -114,6 +114,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: INFO-AE105
+    set_name: The Infinite Forbidden
+    rarities:
+    - Rare
   ko:
   - set_number: LVP2-KR096
     set_name: LINK VRAINS Pack 2

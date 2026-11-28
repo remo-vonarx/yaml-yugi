@@ -84,6 +84,11 @@ sets:
     set_name: Beginner's Edition 2
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-082
+    set_name: Legacy of Darkness
+    rarities:
+    - Common
   ko:
   - set_number: LOD-KR082
     set_name: Legacy of Darkness

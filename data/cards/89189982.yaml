@@ -133,6 +133,11 @@ sets:
     set_name: 'Structure Deck: Master of Pendulum'
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE153
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: DUEA-KR003
     set_name: Duelist Alliance

@@ -177,6 +177,15 @@ sets:
     rarities:
     - Ultra Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CR02-AE032
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
+  - set_number: LAVD-AEO05
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CPF1-KR001
     set_name: 'Collectors Pack: Duelist of Flash Version'

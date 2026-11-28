@@ -76,6 +76,11 @@ sets:
     set_name: 'Deck-Build Pack: Spirit Warriors'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ROTA-AE116
+    set_name: Rage of the Abyss
+    rarities:
+    - Common
   ko:
   - set_number: DBSW-KR007
     set_name: 'Deck-Build Pack: Spirit Warriors'

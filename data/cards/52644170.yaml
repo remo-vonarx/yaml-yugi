@@ -89,6 +89,12 @@ sets:
     set_name: Duelist's Advance
     rarities:
     - Rare
+  en-HK:
+  - set_number: DUAD-AE039
+    set_name: Duelist's Advance
+    rarities:
+    - Rare
+    - Secret Rare
   ko:
   - set_number: DUAD-KR039
     set_name: Duelist's Advance

@@ -80,6 +80,15 @@ sets:
     set_name: Crimson Crisis
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: CRMS-AE030
+    set_name: Crimson Crisis
+    rarities:
+    - Super Rare
+  - set_number: BPRO-AEC51
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: CRMS-KR030
     set_name: Crimson Crisis

@@ -125,6 +125,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR07-AE040
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
   ko:
   - set_number: SAST-KR044
     set_name: Savage Strike

@@ -83,6 +83,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR02-AE011
+    set_name: Creation Pack 02
+    rarities:
+    - Common
   ko:
   - set_number: SD31-KR023
     set_name: 'Structure Deck: Pendulum Evolution'

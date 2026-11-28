@@ -93,6 +93,11 @@ sets:
     set_name: Selection 10
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR03-AE191
+    set_name: Creation Pack 03
+    rarities:
+    - Common
   ko:
   - set_number: SLT1-KR033
     set_name: Selection 10

@@ -126,6 +126,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: BLZD-AES16
+    set_name: Blazing Dominion +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: AE05-KR022
     set_name: Advanced Event Pack 2014 Vol.3

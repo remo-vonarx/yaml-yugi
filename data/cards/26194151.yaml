@@ -82,6 +82,11 @@ sets:
     set_name: Tournament Pack 2023 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: DUNE-AE111
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: PP12-KR012
     set_name: Premium Pack Vol.12

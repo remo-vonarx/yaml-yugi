@@ -124,6 +124,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR02-AE068
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
   ko:
   - set_number: SAST-KR050
     set_name: Savage Strike

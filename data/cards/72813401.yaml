@@ -150,6 +150,15 @@ sets:
     set_name: Tournament Pack 2024 Vol.4
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR06-AE039
+    set_name: Creation Pack 06
+    rarities:
+    - Ultimate Rare
+  - set_number: LAVD-AES37
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: LVP2-KR081
     set_name: LINK VRAINS Pack 2

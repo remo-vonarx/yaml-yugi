@@ -108,6 +108,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR10-AE007
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: SD36-KR005
     set_name: 'Structure Deck: Revolver'

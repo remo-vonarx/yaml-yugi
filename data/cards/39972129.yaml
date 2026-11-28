@@ -119,6 +119,11 @@ sets:
     set_name: Number Complete File -Piece of Memories-
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: 26AT-AE202
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: SHSP-KR051
     set_name: Shadow Specters

@@ -138,6 +138,19 @@ sets:
     set_name: 'Tactical-Try Deck: Rescue-ACE'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE168
+    set_name: Creation Pack 01
+    rarities:
+    - Ultra Rare
+  - set_number: CR01-AES23
+    set_name: Creation Pack 01 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+  - set_number: TT02-AEA07
+    set_name: 'Tactical-Try Deck: Rescue-ACE'
+    rarities:
+    - Common
   ko:
   - set_number: DBAD-KR004
     set_name: 'Deck-Build Pack: Amazing Defenders'

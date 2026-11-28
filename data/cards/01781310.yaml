@@ -158,6 +158,11 @@ sets:
     set_name: Tournament Pack 2018 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: RDS-AE055
+    set_name: Rise of Destiny
+    rarities:
+    - Common
   ko:
   - set_number: RDS-KR055
     set_name: Rise of Destiny

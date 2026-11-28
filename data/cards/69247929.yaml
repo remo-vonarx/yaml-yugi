@@ -216,6 +216,11 @@ sets:
     set_name: Starter Deck 2016
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE131
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: STON-KR001
     set_name: Strike of Neos

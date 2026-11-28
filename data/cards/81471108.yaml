@@ -110,6 +110,15 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE009
+    set_name: Creation Pack 08
+    rarities:
+    - Super Rare
+  - set_number: CR08-AES05
+    set_name: Creation Pack 08 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: CBLZ-KR006
     set_name: Cosmo Blazer

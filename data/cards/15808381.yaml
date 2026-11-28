@@ -132,6 +132,16 @@ sets:
     set_name: Tournament Pack 2024 Vol.5
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: CR07-AE004
+    set_name: Creation Pack 07
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+  - set_number: CR07-AES02
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: IGAS-KR004
     set_name: Ignition Assault

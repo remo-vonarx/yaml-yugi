@@ -84,6 +84,11 @@ sets:
     set_name: Tournament Pack 2007 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE051
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: TP04-KR003
     set_name: Tournament Pack 2009 Vol.4 (Korean)

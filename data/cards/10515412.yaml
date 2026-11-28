@@ -118,6 +118,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SUDA-AE043
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: SUDA-KR043
     set_name: Supreme Darkness

@@ -238,6 +238,11 @@ sets:
     set_name: 'Structure Deck R: Machine Dragon Re-Volt'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE021
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR021
     set_name: Invasion of Chaos

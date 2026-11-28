@@ -153,6 +153,11 @@ sets:
     set_name: Fiendsmith Duel Set
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: INFO-AE035
+    set_name: The Infinite Forbidden
+    rarities:
+    - Common
   ko:
   - set_number: INFO-KR035
     set_name: The Infinite Forbidden

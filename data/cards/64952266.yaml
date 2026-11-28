@@ -98,6 +98,11 @@ sets:
     set_name: 'Duelist Pack: Crow'
     rarities:
     - Common
+  en-HK:
+  - set_number: RGBT-AE050
+    set_name: Raging Battle
+    rarities:
+    - Rare
   ko:
   - set_number: RGBT-KR050
     set_name: Raging Battle

@@ -198,6 +198,17 @@ sets:
     set_name: 'Structure Deck R: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE022
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: ES02-AE084
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SD16-KR022
     set_name: 'Structure Deck: Lord of Magician'

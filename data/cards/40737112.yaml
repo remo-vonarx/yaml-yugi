@@ -405,6 +405,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: IOC-AE065
+    set_name: Invasion of Chaos
+    rarities:
+    - Ultra Rare
+  - set_number: CR12-AE005
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR065
     set_name: Invasion of Chaos

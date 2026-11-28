@@ -149,6 +149,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: AGOV-AE103
+    set_name: Age of Overlord
+    rarities:
+    - Common
   ko:
   - set_number: WPP3-KR038
     set_name: World Premiere Pack 2022

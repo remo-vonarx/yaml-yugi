@@ -185,6 +185,15 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE008
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
+  - set_number: SSD2-AE008
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR008
     set_name: Invasion of Chaos

@@ -126,6 +126,12 @@ sets:
     set_name: 'Deluxe Duel Set: Sky Striker Ace'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DUAD-AE049
+    set_name: Duelist's Advance
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUAD-KR049
     set_name: Duelist's Advance

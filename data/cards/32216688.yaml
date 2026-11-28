@@ -123,6 +123,16 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR10-AE079
+    set_name: Creation Pack 10
+    rarities:
+    - Ultimate Rare
+    - Prismatic Secret Rare
+  - set_number: CR10-AES27
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Prismatic Secret Rare
   ko:
   - set_number: WPP7-KR019
     set_name: World Premiere Pack 2026

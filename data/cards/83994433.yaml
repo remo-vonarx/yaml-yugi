@@ -118,6 +118,11 @@ sets:
     set_name: Yu-Gi-Oh! 5D's Volume 5 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDRB-AEP08
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD25-KRSS2
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent Special Set"

@@ -162,6 +162,11 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE003
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD16-KR003
     set_name: 'Structure Deck: Lord of Magician'

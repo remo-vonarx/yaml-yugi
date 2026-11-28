@@ -211,6 +211,13 @@ sets:
     set_name: 'Duelist Pack: Duelists of Pyroxene'
     rarities:
     - Holographic Rare
+  en-HK:
+  - set_number: RGBT-AE042
+    set_name: Raging Battle
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Holographic Rare
   ko:
   - set_number: RGBT-KR042
     set_name: Raging Battle

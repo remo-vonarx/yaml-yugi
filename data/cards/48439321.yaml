@@ -71,6 +71,11 @@ sets:
     set_name: Return of the Duelist
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE055
+    set_name: Creation Pack 05
+    rarities:
+    - Common
   ko:
   - set_number: REDU-KR071
     set_name: Return of the Duelist

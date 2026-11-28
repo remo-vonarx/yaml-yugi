@@ -116,6 +116,11 @@ sets:
     - 20th Secret Rare
     - Ultimate Rare
     - Holographic Rare
+  en-HK:
+  - set_number: BPRO-AE110
+    set_name: Burst Protocol
+    rarities:
+    - Rare
   ko:
   - set_number: RIRA-KR039
     set_name: Rising Rampage

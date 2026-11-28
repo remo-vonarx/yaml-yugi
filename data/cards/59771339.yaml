@@ -125,6 +125,11 @@ sets:
     - Ultra Rare
     - Ultimate Rare
     - Holographic Rare
+  en-HK:
+  - set_number: BLZD-AEC64
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: EXVC-KR037
     set_name: Extreme Victory

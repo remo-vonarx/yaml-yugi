@@ -78,6 +78,12 @@ sets:
     set_name: World Premiere Pack 2020
     rarities:
     - Common
+  en-HK:
+  - set_number: DBCB-AE054
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: WPP1-KR060
     set_name: World Premiere Pack 2020

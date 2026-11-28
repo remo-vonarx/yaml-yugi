@@ -77,6 +77,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR03-AE182
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: DBSS-KR025
     set_name: 'Deck-Build Pack: Secret Slayers'

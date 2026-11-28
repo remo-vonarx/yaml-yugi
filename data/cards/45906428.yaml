@@ -300,6 +300,16 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CRV-AE039
+    set_name: Cybernetic Revolution
+    rarities:
+    - Rare
+    - Ultimate Rare
+  - set_number: DI01-AE017
+    set_name: 'Duel-Ignition Deck: HERO'
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR039
     set_name: Cybernetic Revolution

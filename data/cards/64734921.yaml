@@ -205,6 +205,11 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: AST-AE008
+    set_name: Ancient Sanctuary
+    rarities:
+    - Rare
   ko:
   - set_number: AST-KR008
     set_name: Ancient Sanctuary

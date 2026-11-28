@@ -102,6 +102,11 @@ sets:
     set_name: 'Invasion: Vengeance'
     rarities:
     - Rare
+  en-HK:
+  - set_number: BN01-AE169
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR001
     set_name: 'Invasion: Vengeance'

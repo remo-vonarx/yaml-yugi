@@ -153,6 +153,11 @@ sets:
     set_name: World Premiere Pack 2021
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: MFC-054
+    set_name: Magician's Force
+    rarities:
+    - Super Rare
   ko:
   - set_number: MFC-KR054
     set_name: Magician's Force

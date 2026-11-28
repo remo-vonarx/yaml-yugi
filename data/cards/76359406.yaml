@@ -88,6 +88,11 @@ sets:
     set_name: 'Invasion: Vengeance'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR06-AE082
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR045
     set_name: 'Invasion: Vengeance'

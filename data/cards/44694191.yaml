@@ -78,6 +78,12 @@ sets:
     set_name: Blazing Dominion
     rarities:
     - Common
+  en-HK:
+  - set_number: BLZD-AE023
+    set_name: Blazing Dominion
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: BLZD-KR023
     set_name: Blazing Dominion

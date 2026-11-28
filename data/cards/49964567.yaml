@@ -108,6 +108,11 @@ sets:
     set_name: Premium Pack 2022
     rarities:
     - Secret Rare
+  en-HK:
+  - set_number: CR11-AE098
+    set_name: Creation Pack 11
+    rarities:
+    - Super Rare
   ko:
   - set_number: PP16-KR047
     set_name: Premium Pack Vol.16

@@ -109,6 +109,11 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: CORI-AEC48
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: 24PP-KRB19
     set_name: Premium Pack 2024 2nd Wave

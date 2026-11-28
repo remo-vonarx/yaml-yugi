@@ -192,6 +192,12 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: DBJH-AE054
+    set_name: 'Deck-Build Pack: Justice Hunters'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: PRIO-KR049
     set_name: Primal Origin

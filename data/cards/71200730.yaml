@@ -274,6 +274,11 @@ sets:
     set_name: Tournament Pack 2018 Vol.4
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-023
+    set_name: Dark Crisis
+    rarities:
+    - Common
   ko:
   - set_number: DCR-KR023
     set_name: Dark Crisis

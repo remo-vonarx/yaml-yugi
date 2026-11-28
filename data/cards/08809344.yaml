@@ -115,6 +115,11 @@ sets:
     set_name: 'Extra Pack: Knights of Order'
     rarities:
     - Rare
+  en-HK:
+  - set_number: LAVD-AEL36
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: LVAL-KR083
     set_name: Legacy of the Valiant

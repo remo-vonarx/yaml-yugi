@@ -206,6 +206,15 @@ sets:
     set_name: 'Half Deck: Spellcaster-Type x Synchro Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-095
+    set_name: Magician's Force
+    rarities:
+    - Common
+  - set_number: SD16-AE034
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR095
     set_name: Magician's Force

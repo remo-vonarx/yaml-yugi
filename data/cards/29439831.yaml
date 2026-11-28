@@ -91,6 +91,12 @@ sets:
     set_name: 'Complete File: Seeker of Sinful Spoils'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DUAD-AE026
+    set_name: Duelist's Advance
+    rarities:
+    - Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DUAD-KR026
     set_name: Duelist's Advance

@@ -87,6 +87,12 @@ sets:
     rarities:
     - Secret Rare
     - Secret Rare (Special Red Version)
+  en-HK:
+  - set_number: BPRO-AE082
+    set_name: Burst Protocol
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: SYP2-KR042
     set_name: 'Synergy Pack 02: The Generation Next'

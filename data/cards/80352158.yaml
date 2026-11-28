@@ -108,6 +108,11 @@ sets:
     set_name: 'Structure Deck R: Machiners Command'
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC26
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP17-KR005
     set_name: "Duelist Pack: Pharaoh's Memories"

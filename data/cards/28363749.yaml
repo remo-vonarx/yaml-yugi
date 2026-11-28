@@ -118,6 +118,11 @@ sets:
     set_name: Promotion Pack 2018
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE175
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: PP14-KRA22
     set_name: Premium Pack Vol.14 1st Wave

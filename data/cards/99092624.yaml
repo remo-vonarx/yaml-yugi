@@ -124,6 +124,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR09-AE048
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: DP21-KR027
     set_name: 'Duelist Pack: Legend Duelist 4'

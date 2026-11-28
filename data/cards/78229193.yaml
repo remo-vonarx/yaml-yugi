@@ -117,6 +117,11 @@ sets:
     rarities:
     - Super Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CR03-AE066
+    set_name: Creation Pack 03
+    rarities:
+    - Rare
   ko:
   - set_number: CP17-KR019
     set_name: Collectors Pack 2017

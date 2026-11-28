@@ -239,6 +239,16 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: RC04-AE036
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: LVAL-KR057
     set_name: Legacy of the Valiant

@@ -157,6 +157,11 @@ sets:
     set_name: LINK VRAINS Pack 3
     rarities:
     - Common
+  en-HK:
+  - set_number: CR06-AE090
+    set_name: Creation Pack 06
+    rarities:
+    - Common
   ko:
   - set_number: JOTL-KR024
     set_name: Judgment of the Light

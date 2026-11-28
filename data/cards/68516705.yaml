@@ -242,6 +242,15 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDK-012
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: MRD-076
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K012
     set_name: 'Starter Deck: Kaiba'

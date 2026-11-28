@@ -234,6 +234,15 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-075
+    set_name: Magic Ruler
+    rarities:
+    - Rare
+  - set_number: BN01-AE101
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: SRL-K075
     set_name: Spell Ruler

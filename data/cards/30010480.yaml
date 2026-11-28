@@ -155,6 +155,11 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: DOOD-AES14
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: CIBR-KR045
     set_name: Circuit Break

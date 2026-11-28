@@ -163,6 +163,15 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR09-AE026
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
+  - set_number: CR09-AES12
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: SPRG-KR008
     set_name: 'Booster SP: Raging Masters'

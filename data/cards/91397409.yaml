@@ -137,6 +137,11 @@ sets:
     set_name: Phantom Rage
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AEC59
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PHRA-KR039
     set_name: Phantom Rage

@@ -190,6 +190,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR01-AE020
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: STON-KR002
     set_name: Strike of Neos

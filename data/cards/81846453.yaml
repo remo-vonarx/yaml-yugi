@@ -147,6 +147,13 @@ sets:
     set_name: Winner's Pack 2025 Vol.2
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: ES01-AE029
+    set_name: Essential Selection 01
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AE12-KR020
     set_name: Advanced Event Pack 2018 Vol.1

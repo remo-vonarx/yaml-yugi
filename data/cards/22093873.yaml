@@ -86,6 +86,11 @@ sets:
     rarities:
     - Common
     - Secret Rare
+  en-HK:
+  - set_number: BETB-AE102
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: SD27-KR043
     set_name: "Structure Deck: HERO's Strike"

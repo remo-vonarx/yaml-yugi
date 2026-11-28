@@ -229,6 +229,11 @@ sets:
     set_name: Duelist Entry Deck VS
     rarities:
     - Common
+  en-HK:
+  - set_number: DCR-057
+    set_name: Dark Crisis
+    rarities:
+    - Rare
   ko:
   - set_number: DCR-KR057
     set_name: Dark Crisis

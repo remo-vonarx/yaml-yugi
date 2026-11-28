@@ -311,6 +311,11 @@ sets:
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions 10th Anniversary Movie Box
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDRB-AEP01
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Secret Rare
   ko:
   - set_number: MVPC-KR000
     set_name: Yu-Gi-Oh! The Dark Side of Dimensions Advance Ticket promotional card

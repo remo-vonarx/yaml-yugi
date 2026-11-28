@@ -222,6 +222,11 @@ sets:
     set_name: Expert Edition Volume.2
     rarities:
     - Rare
+  en-HK:
+  - set_number: IOC-AE026
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
   ko:
   - set_number: IOC-KR026
     set_name: Invasion of Chaos

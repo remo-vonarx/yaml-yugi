@@ -260,6 +260,11 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-100
+    set_name: Pharaoh's Servant
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: PSV-K100
     set_name: Pharaoh's Servant

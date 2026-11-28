@@ -98,6 +98,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: BPRO-AE113
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: LVP1-KR001
     set_name: LINK VRAINS Pack

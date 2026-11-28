@@ -151,6 +151,11 @@ sets:
     set_name: The Valuable Book 17 promotional cards
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DOOD-AEC43
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: PP11-KR037
     set_name: Premium Pack Vol.11

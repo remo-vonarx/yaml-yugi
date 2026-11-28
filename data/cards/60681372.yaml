@@ -80,6 +80,11 @@ sets:
     set_name: V Jump Fall 2025 subscription bonus
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AE081
+    set_name: Blazing Dominion
+    rarities:
+    - Rare
   ko:
   - set_number: 26PP-KR036
     set_name: Premium Pack 2026

@@ -77,6 +77,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.4
     rarities:
     - Super Parallel Rare
+  en-HK:
+  - set_number: 26AT-AE307
+    set_name: Tournament Pack 2026 Vol.3 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: 26PP-KR050
     set_name: Premium Pack 2026

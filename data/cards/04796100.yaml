@@ -231,6 +231,18 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: DUNE-AE102
+    set_name: Duelist Nexus
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: DUNE-AE102
+    set_name: Duelist Nexus +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SDMY-KR045
     set_name: 'Structure Deck: Yugi Muto'

@@ -382,6 +382,11 @@ sets:
     set_name: 'Yu-Gi-Oh! Duel Links Legend Deck Guide: Yami Yugi VS Seto Kaiba promotional cards'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-063
+    set_name: Legacy of Darkness
+    rarities:
+    - Super Rare
   ko:
   - set_number: LOD-KR063
     set_name: Legacy of Darkness

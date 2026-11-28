@@ -136,6 +136,11 @@ sets:
     set_name: The Pot Collection
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: IOC-AE009
+    set_name: Invasion of Chaos
+    rarities:
+    - Common
   ko:
   - set_number: IOC-KR009
     set_name: Invasion of Chaos

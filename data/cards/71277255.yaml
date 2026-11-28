@@ -112,6 +112,11 @@ sets:
     rarities:
     - Super Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR01-AE067
+    set_name: Creation Pack 01
+    rarities:
+    - Super Rare
   ko:
   - set_number: CYAC-KR012
     set_name: Cyberstorm Access

@@ -128,6 +128,13 @@ sets:
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE113
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SOVR-KR080
     set_name: Stardust Overdrive

@@ -145,6 +145,18 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SUDA-AE117
+    set_name: Supreme Darkness
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: SUDA-AE117
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: AC02-KR007
     set_name: Animation Chronicle 2022

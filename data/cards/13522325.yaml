@@ -177,6 +177,11 @@ sets:
     set_name: 'Structure Deck R: Onslaught of the Fire Kings'
     rarities:
     - Common
+  en-HK:
+  - set_number: LON-067
+    set_name: Labyrinth of Nightmare
+    rarities:
+    - Common
   ko:
   - set_number: LON-KR067
     set_name: Labyrinth of Nightmare

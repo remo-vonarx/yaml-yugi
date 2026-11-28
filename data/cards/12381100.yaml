@@ -167,6 +167,13 @@ sets:
     set_name: Limit Over Special Pack Vol.2
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ES02-AE043
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: QCDB-KR001
     set_name: Quarter Century Duelist Box

@@ -485,6 +485,24 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: SDY-030
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: MRD-060
+    set_name: Metal Raiders
+    rarities:
+    - Ultra Rare
+  - set_number: RC04-AE051
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SDY-K032
     set_name: 'Starter Deck: Yugi'

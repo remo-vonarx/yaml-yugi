@@ -162,6 +162,12 @@ sets:
     set_name: LINK VRAINS Box
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR09-AE050
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: COTD-KR010
     set_name: Code of the Duelist

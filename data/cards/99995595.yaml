@@ -132,6 +132,12 @@ sets:
     set_name: Tournament Pack 2022 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AES06
+    set_name: Chaos Origins +1 Expansion Pack
+    rarities:
+    - Ultra Rare
+    - Secret Rare
   ko:
   - set_number: TDGS-KR061
     set_name: The Duelist Genesis

@@ -319,6 +319,19 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SDY-031
+    set_name: 'Starter Deck: Yugi'
+    rarities:
+    - Common
+  - set_number: SDK-038
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
+  - set_number: SSD1-AE017
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: SDY-K031
     set_name: 'Starter Deck: Yugi'

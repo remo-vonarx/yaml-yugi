@@ -91,6 +91,12 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: EEN-AE010
+    set_name: Elemental Energy
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: EEN-KR010
     set_name: Elemental Energy

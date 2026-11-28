@@ -172,6 +172,11 @@ sets:
     set_name: 'Structure Deck: Undead World'
     rarities:
     - Common
+  en-HK:
+  - set_number: PSV-062
+    set_name: Pharaoh's Servant
+    rarities:
+    - Common
   ko:
   - set_number: PSV-K062
     set_name: Pharaoh's Servant

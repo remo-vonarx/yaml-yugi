@@ -78,6 +78,11 @@ sets:
     set_name: Dimension Box Limited Edition
     rarities:
     - Ultra Parallel Rare
+  en-HK:
+  - set_number: CORI-AEC12
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DBLE-KR003
     set_name: Dimension Box Limited Edition

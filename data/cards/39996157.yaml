@@ -204,6 +204,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 4'
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE217
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: CPF1-KR015
     set_name: 'Collectors Pack: Duelist of Flash Version'

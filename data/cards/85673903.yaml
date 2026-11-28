@@ -82,6 +82,11 @@ sets:
     - Common
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: DUNE-AE095
+    set_name: Duelist Nexus
+    rarities:
+    - Common
   ko:
   - set_number: PP15-KR005
     set_name: Premium Pack Vol.15

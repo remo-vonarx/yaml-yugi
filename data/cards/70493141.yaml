@@ -102,6 +102,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: 26AT-AE210
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR036
     set_name: Code of the Duelist

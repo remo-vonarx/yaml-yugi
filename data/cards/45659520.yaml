@@ -140,6 +140,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR06-AE004
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
   ko:
   - set_number: DP22-KR014
     set_name: 'Duelist Pack: Legend Duelist 5'

@@ -109,6 +109,15 @@ sets:
     set_name: Tournament Pack 2025 Vol.3
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR10-AE052
+    set_name: Creation Pack 10
+    rarities:
+    - Super Rare
+  - set_number: CR10-AES21
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DBDS-KR023
     set_name: 'Deck-Build Pack: Dark Saviors'

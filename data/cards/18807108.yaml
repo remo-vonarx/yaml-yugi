@@ -360,6 +360,11 @@ sets:
     set_name: 'Memories of the Duel King: Battle City Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-006
+    set_name: Magic Ruler
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SRL-K006
     set_name: Spell Ruler

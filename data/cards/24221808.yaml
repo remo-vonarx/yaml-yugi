@@ -88,6 +88,11 @@ sets:
     rarities:
     - Ultra Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: 25AT-AE217
+    set_name: Tournament Pack 2025 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: EXVC-KR044
     set_name: Extreme Victory

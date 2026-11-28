@@ -312,6 +312,11 @@ sets:
     set_name: Starter Deck 2016
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-096
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR096
     set_name: Pharaonic Guardian

@@ -189,6 +189,18 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: CR05-AE104
+    set_name: Creation Pack 05
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR05-AES12
+    set_name: Creation Pack 05 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD23-KR002
     set_name: 'Structure Deck: Roar of the Sea Emperor'

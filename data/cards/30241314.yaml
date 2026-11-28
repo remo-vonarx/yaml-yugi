@@ -272,6 +272,18 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: EOJ-AE057
+    set_name: Enemy of Justice
+    rarities:
+    - Common
+  - set_number: ES01-AE072
+    set_name: Essential Selection 01
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Ultimate Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EOJ-KR057
     set_name: Enemy of Justice

@@ -142,6 +142,11 @@ sets:
     - Super Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR10-AE002
+    set_name: Creation Pack 10
+    rarities:
+    - Common
   ko:
   - set_number: CIBR-KR011
     set_name: Circuit Break

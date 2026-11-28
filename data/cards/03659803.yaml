@@ -315,6 +315,11 @@ sets:
     set_name: 'Limited Pack GX: Ra Yellow'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: ALIN-AE113
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: POTD-KR042
     set_name: Power of the Duelist

@@ -128,6 +128,11 @@ sets:
     set_name: Code of the Duelist
     rarities:
     - Rare
+  en-HK:
+  - set_number: CORI-AEC46
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: COTD-KR029
     set_name: Code of the Duelist

@@ -204,6 +204,16 @@ sets:
     set_name: 'Structure Deck: Lord of Magician'
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE020
+    set_name: Flaming Eternity
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+  - set_number: SD16-AE017
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
   ko:
   - set_number: FET-KR020
     set_name: Flaming Eternity

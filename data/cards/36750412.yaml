@@ -130,6 +130,11 @@ sets:
     set_name: Speed Start Deck Synchro Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: SSD2-AE011
+    set_name: Speed Start Deck Synchro Edition
+    rarities:
+    - Common
   ko:
   - set_number: YSD3-KR013
     set_name: Starter Deck 2008

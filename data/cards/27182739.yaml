@@ -111,6 +111,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: ALIN-AE087
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: DBMF-KR001
     set_name: 'Deck-Build Pack: Mystic Fighters'

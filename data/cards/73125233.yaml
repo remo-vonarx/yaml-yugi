@@ -279,6 +279,12 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR08-AE055
+    set_name: Creation Pack 08
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: FOTB-KR026
     set_name: Force of the Breaker

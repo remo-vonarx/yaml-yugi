@@ -125,6 +125,11 @@ sets:
     set_name: 'Structure Deck R: Advent of the True Monarch'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE072
+    set_name: Creation Pack 08
+    rarities:
+    - Common
   ko:
   - set_number: SR01-KR034
     set_name: 'Structure Deck R: Advent of the True Monarch'

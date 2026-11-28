@@ -101,6 +101,11 @@ sets:
     set_name: Rising Rampage
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: BN01-AE179
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: RIRA-KR037
     set_name: Rising Rampage

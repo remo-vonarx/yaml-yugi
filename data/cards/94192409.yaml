@@ -763,6 +763,20 @@ sets:
     set_name: 'Half Deck: Dragon-Type x Fusion Summon'
     rarities:
     - Common
+  en-HK:
+  - set_number: IOC-AE103
+    set_name: Invasion of Chaos
+    rarities:
+    - Rare
+  - set_number: RC04-AE070
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SD2-KR028
     set_name: 'Structure Deck: Zombie Madness'

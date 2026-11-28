@@ -108,6 +108,17 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR10-AE026
+    set_name: Creation Pack 10
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
+  - set_number: CR10-AES06
+    set_name: Creation Pack 10 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: PP06-KR009
     set_name: Premium Pack Vol.6

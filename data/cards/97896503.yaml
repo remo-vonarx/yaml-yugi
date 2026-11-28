@@ -248,6 +248,11 @@ sets:
     set_name: 'Structure Deck: Overlay Universe'
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC01
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: YSD6-KR005
     set_name: Starter Deck 2011

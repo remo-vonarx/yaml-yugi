@@ -146,6 +146,15 @@ sets:
     set_name: Tournament Pack 2023 Vol.1
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-067
+    set_name: Legacy of Darkness
+    rarities:
+    - Ultra Rare
+  - set_number: 25AT-AE400
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: LOD-KR067
     set_name: Legacy of Darkness

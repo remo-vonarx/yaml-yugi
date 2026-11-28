@@ -102,6 +102,11 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: EEN-AE057
+    set_name: Elemental Energy
+    rarities:
+    - Common
   ko:
   - set_number: DP2-KR029
     set_name: 'Duelist Pack: Chazz Princeton'

@@ -132,6 +132,15 @@ sets:
     set_name: Doom of Dimensions +1 Assist Pack
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR07-AE081
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
+  - set_number: CR07-AES21
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: MACR-KR020
     set_name: Maximum Crisis

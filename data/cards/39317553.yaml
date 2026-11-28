@@ -111,6 +111,12 @@ sets:
     set_name: Rise of the Duelist
     rarities:
     - Rare
+  en-HK:
+  - set_number: DBCB-AE057
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
   ko:
   - set_number: ROTD-KR047
     set_name: Rise of the Duelist

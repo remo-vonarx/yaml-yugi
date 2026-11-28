@@ -113,6 +113,15 @@ sets:
     set_name: Photon Hypernova
     rarities:
     - Rare
+  en-HK:
+  - set_number: LEDE-AE105
+    set_name: Legacy of Destruction
+    rarities:
+    - Rare
+  - set_number: CR09-AE100
+    set_name: Creation Pack 09
+    rarities:
+    - Super Rare
   ko:
   - set_number: PHHY-KR042
     set_name: Photon Hypernova

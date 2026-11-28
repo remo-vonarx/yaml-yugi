@@ -118,6 +118,15 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR06-AE035
+    set_name: Creation Pack 06
+    rarities:
+    - Super Rare
+  - set_number: LAVD-AES30
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: BOSH-KR049
     set_name: Breakers of Shadow

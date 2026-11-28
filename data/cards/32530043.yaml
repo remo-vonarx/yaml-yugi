@@ -169,6 +169,15 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: 25AT-AE402
+    set_name: Tournament Pack 2025 Vol.4 (Asian-English)
+    rarities:
+    - Super Rare
+  - set_number: LAVD-AEL37
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: CHIM-KR036
     set_name: Chaos Impact

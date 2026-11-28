@@ -76,6 +76,11 @@ sets:
     set_name: World Premiere Pack 2024
     rarities:
     - Common
+  en-HK:
+  - set_number: CR08-AE082
+    set_name: Creation Pack 08
+    rarities:
+    - Common
   ko:
   - set_number: WPP5-KR010
     set_name: World Premiere Pack 2024

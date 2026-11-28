@@ -260,6 +260,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE113
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: TAEV-KR057
     set_name: Tactical Evolution

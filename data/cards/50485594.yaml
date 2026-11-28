@@ -136,6 +136,11 @@ sets:
     set_name: The New Challengers
     rarities:
     - Rare
+  en-HK:
+  - set_number: CORI-AEC45
+    set_name: Chaos Origins Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: NECH-KR039
     set_name: The New Challengers

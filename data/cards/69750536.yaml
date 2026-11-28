@@ -84,6 +84,11 @@ sets:
     set_name: Booster Chronicle
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE082
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: TP1-K021
     set_name: 'Tournament Pack: 1st Season'

@@ -113,6 +113,11 @@ sets:
     set_name: Dark Neostorm
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AEC60
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DANE-KR042
     set_name: Dark Neostorm

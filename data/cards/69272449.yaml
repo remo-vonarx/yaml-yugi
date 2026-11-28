@@ -158,6 +158,12 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: DBCB-AE015
+    set_name: 'Deck-Build Pack: Crossover Breakers'
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: DBCB-KR015
     set_name: 'Deck-Build Pack: Crossover Breakers'

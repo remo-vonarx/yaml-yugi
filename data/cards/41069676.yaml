@@ -97,6 +97,13 @@ sets:
     - Common
     - Normal Parallel Rare
     - Secret Rare
+  en-HK:
+  - set_number: DBPR-AE038
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Common
+    - Normal Parallel Rare
+    - Collector's Rare
   ko:
   - set_number: DBPR-KR038
     set_name: 'Deck-Build Pack: Phantom Revengers'

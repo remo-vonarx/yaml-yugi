@@ -160,6 +160,11 @@ sets:
     set_name: "Structure Deck R: Tyranno's Rage"
     rarities:
     - Common
+  en-HK:
+  - set_number: 24AT-AE119
+    set_name: Tournament Pack 2024 Vol.1 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: POTD-KR058
     set_name: Power of the Duelist

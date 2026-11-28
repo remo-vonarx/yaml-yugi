@@ -207,6 +207,16 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: RC04-AE046
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Super Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP14-KRB28
     set_name: Premium Pack Vol.14 2nd Wave

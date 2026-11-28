@@ -258,6 +258,11 @@ sets:
     set_name: 'Memories of the Duel King: Duelist Kingdom Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-075
+    set_name: Metal Raiders
+    rarities:
+    - Super Rare
   ko:
   - set_number: MRD-K075
     set_name: Metal Raiders

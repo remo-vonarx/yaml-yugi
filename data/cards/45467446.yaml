@@ -266,6 +266,11 @@ sets:
     set_name: 'Structure Deck: Advent of the Eyes of Blue'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AEP02
+    set_name: 'Structure Deck: Rise of the Blue-Eyes Power-Up Pack'
+    rarities:
+    - Secret Rare
   ko:
   - set_number: SHVI-KR018
     set_name: Shining Victories

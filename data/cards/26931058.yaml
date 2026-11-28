@@ -123,6 +123,11 @@ sets:
     set_name: 'Structure Deck: Machiners Command'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-049
+    set_name: Magician's Force
+    rarities:
+    - Common
   ko:
   - set_number: MFC-KR049
     set_name: Magician's Force

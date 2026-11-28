@@ -78,6 +78,11 @@ sets:
     set_name: Judgment of the Light
     rarities:
     - Rare
+  en-HK:
+  - set_number: BETB-AEC24
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: JOTL-KR073
     set_name: Judgment of the Light

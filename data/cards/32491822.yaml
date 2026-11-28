@@ -285,6 +285,16 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SOI-AE002
+    set_name: Shadow of Infinity
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+  - set_number: CR03-AE002
+    set_name: Creation Pack 03
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: SOI-KR002
     set_name: Shadow of Infinity

@@ -118,6 +118,17 @@ sets:
     set_name: Secret Utility Box
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: ALIN-AE103
+    set_name: Alliance Insight
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+  - set_number: ALIN-AE103
+    set_name: Alliance Insight +1 Bonus Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBMF-KR008
     set_name: 'Deck-Build Pack: Mystic Fighters'

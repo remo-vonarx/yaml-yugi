@@ -217,6 +217,11 @@ sets:
     set_name: 'Structure Deck: Pendulum Evolution'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE015
+    set_name: Creation Pack 02
+    rarities:
+    - Rare
   ko:
   - set_number: ST14-KR009
     set_name: Starter Deck 2014

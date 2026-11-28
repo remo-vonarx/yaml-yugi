@@ -192,6 +192,11 @@ sets:
     set_name: Tournament Pack 2024 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: LEDE-AE109
+    set_name: Legacy of Destruction
+    rarities:
+    - Rare
   ko:
   - set_number: DANE-KR050
     set_name: Dark Neostorm

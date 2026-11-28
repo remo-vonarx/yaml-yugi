@@ -106,6 +106,16 @@ sets:
     set_name: Tournament Pack 2024 Vol.4
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR06-AE042
+    set_name: Creation Pack 06
+    rarities:
+    - Common
+  - set_number: LAVD-AES20
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
+    - Ultra Rare
   ko:
   - set_number: AC01-KR035
     set_name: Animation Chronicle 2021

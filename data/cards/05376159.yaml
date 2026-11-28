@@ -126,6 +126,11 @@ sets:
     set_name: 'Structure Deck: Pulse of the King'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR11-AE027
+    set_name: Creation Pack 11
+    rarities:
+    - Common
   ko:
   - set_number: ETCO-KR074
     set_name: Eternity Code

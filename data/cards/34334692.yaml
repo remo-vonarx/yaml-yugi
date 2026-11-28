@@ -120,6 +120,11 @@ sets:
     set_name: Tactical Evolution
     rarities:
     - Common
+  en-HK:
+  - set_number: 26AT-AE207
+    set_name: Tournament Pack 2026 Vol.2 (Asian-English)
+    rarities:
+    - Common
   ko:
   - set_number: TAEV-KR035
     set_name: Tactical Evolution

@@ -197,6 +197,16 @@ sets:
     - Secret Rare
     - Extra Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: RC04-AE011
+    set_name: Rarity Collection Quarter Century Edition
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Collector's Rare
+    - Secret Rare
+    - Extra Secret Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: EXFO-KR035
     set_name: Extreme Force

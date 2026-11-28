@@ -183,6 +183,13 @@ sets:
     - Normal Parallel Rare
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: ES02-AE067
+    set_name: Essential Selection 02
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: DBIC-KR007
     set_name: 'Deck-Build Pack: Infinity Chasers'

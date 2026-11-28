@@ -94,6 +94,18 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: ALIN-AE035
+    set_name: Alliance Insight
+    rarities:
+    - Super Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: ALIN-AE035
+    set_name: Alliance Insight +1 Bonus Pack
+    rarities:
+    - Super Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: ALIN-KR035
     set_name: Alliance Insight

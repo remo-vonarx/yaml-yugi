@@ -110,6 +110,11 @@ sets:
     set_name: Pharaoh's Servant (Japanese)
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-052
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K052
     set_name: Spell Ruler

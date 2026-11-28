@@ -226,6 +226,11 @@ sets:
     set_name: 'Structure Deck: Pegasus'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDK-008
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: SDK-K008
     set_name: 'Starter Deck: Kaiba'

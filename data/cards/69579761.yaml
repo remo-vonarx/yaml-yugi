@@ -206,6 +206,11 @@ sets:
     set_name: 'Limited Pack GX: Slifer Red'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MFC-077
+    set_name: Magician's Force
+    rarities:
+    - Rare
   ko:
   - set_number: MFC-KR077
     set_name: Magician's Force

@@ -144,6 +144,11 @@ sets:
     set_name: LINK VRAINS Pack 2
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AES09
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: DBLE-KR023
     set_name: Dimension Box Limited Edition

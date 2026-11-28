@@ -263,6 +263,11 @@ sets:
     set_name: Rise of the Duelist +1 Bonus Pack
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: LOB-125
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Secret Rare
   ko:
   - set_number: LOB-K125
     set_name: Legend of Blue Eyes White Dragon

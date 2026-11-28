@@ -93,6 +93,12 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  en-HK:
+  - set_number: BETB-AE047
+    set_name: Beyond the Brave
+    rarities:
+    - Rare
+    - Secret Rare
   ko:
   - set_number: BETB-KR047
     set_name: Beyond the Brave

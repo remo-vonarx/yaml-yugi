@@ -86,6 +86,11 @@ sets:
     set_name: 'Structure Deck: Yugi Muto'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BPRO-AES09
+    set_name: Burst Protocol +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: SDMY-KR041
     set_name: 'Structure Deck: Yugi Muto'

@@ -80,6 +80,11 @@ sets:
     set_name: Order of Chaos
     rarities:
     - Rare
+  en-HK:
+  - set_number: DOOD-AEC08
+    set_name: Doom of Dimensions Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ORCS-KR065
     set_name: Order of Chaos

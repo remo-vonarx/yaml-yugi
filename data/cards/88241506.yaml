@@ -206,6 +206,11 @@ sets:
     set_name: 'Duelist Pack: Legend Duelist 3'
     rarities:
     - Common
+  en-HK:
+  - set_number: SDRB-AE005
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Super Rare
   ko:
   - set_number: SD25-KR005
     set_name: "Structure Deck: The Blue-Eyed Dragon's Thundering Descent"

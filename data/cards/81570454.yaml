@@ -110,6 +110,11 @@ sets:
     set_name: Tournament Pack 2025 Vol.2
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR01-AE076
+    set_name: Creation Pack 01
+    rarities:
+    - Rare
   ko:
   - set_number: SR09-KR003
     set_name: "Structure Deck R: Warriors' Strike"

@@ -172,6 +172,11 @@ sets:
     set_name: Duelist Box 2012
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-015
+    set_name: Pharaonic Guardian
+    rarities:
+    - Super Rare
   ko:
   - set_number: PGD-KR015
     set_name: Pharaonic Guardian

@@ -170,6 +170,15 @@ sets:
     set_name: Duelist King Cup July 2025 prize card
     rarities:
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: LOD-000
+    set_name: Legacy of Darkness
+    rarities:
+    - Secret Rare
+  - set_number: 24AT-AE200
+    set_name: Tournament Pack 2024 Vol.2 (Asian-English)
+    rarities:
+    - Secret Rare (Special Blue Version)
   ko:
   - set_number: LOD-KR000
     set_name: Legacy of Darkness

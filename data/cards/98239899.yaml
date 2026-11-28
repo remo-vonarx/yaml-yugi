@@ -232,6 +232,11 @@ sets:
     set_name: Duel Royale Deck Set EX
     rarities:
     - Common
+  en-HK:
+  - set_number: LOD-088
+    set_name: Legacy of Darkness
+    rarities:
+    - Rare
   ko:
   - set_number: LOD-KR088
     set_name: Legacy of Darkness

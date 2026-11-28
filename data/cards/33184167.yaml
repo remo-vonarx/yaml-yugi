@@ -132,6 +132,11 @@ sets:
     set_name: 'Structure Deck: Powercode Link'
     rarities:
     - Common
+  en-HK:
+  - set_number: MFC-076
+    set_name: Magician's Force
+    rarities:
+    - Super Rare
   ko:
   - set_number: MFC-KR076
     set_name: Magician's Force

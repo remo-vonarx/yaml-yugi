@@ -89,6 +89,11 @@ sets:
     set_name: Chaos Origins
     rarities:
     - Common
+  en-HK:
+  - set_number: CORI-AE034
+    set_name: Chaos Origins
+    rarities:
+    - Common
   ko:
   - set_number: CORI-KR034
     set_name: Chaos Origins

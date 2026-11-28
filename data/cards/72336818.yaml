@@ -88,6 +88,13 @@ sets:
     set_name: Starter Deck 2018
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: SLF1-AE099
+    set_name: 'Selection 5: Quarter Century Edition'
+    rarities:
+    - Common
+    - Super Rare
+    - Secret Rare
   ko:
   - set_number: ST18-KR042
     set_name: Starter Deck 2018

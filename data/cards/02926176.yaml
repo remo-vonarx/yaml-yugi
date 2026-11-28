@@ -113,6 +113,11 @@ sets:
     set_name: Tournament Pack 2017 Vol.3
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-044
+    set_name: Pharaonic Guardian
+    rarities:
+    - Rare
   ko:
   - set_number: PGD-KR044
     set_name: Pharaonic Guardian

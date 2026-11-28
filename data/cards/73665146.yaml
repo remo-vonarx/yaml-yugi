@@ -201,6 +201,15 @@ sets:
     set_name: "Duelist Pack: Pharaoh's Memories"
     rarities:
     - Common
+  en-HK:
+  - set_number: SD16-AE005
+    set_name: 'Structure Deck: Lord of Magician'
+    rarities:
+    - Common
+  - set_number: CR04-AE005
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: SD16-KR005
     set_name: 'Structure Deck: Lord of Magician'

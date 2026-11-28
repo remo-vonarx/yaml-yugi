@@ -179,6 +179,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: CR01-AE028
+    set_name: Creation Pack 01
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: SR04-KR001
     set_name: "Structure Deck R: Tyranno's Rage"

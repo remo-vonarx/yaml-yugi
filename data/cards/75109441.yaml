@@ -54,6 +54,11 @@ sets:
     set_name: Duelist Legacy Volume.5
     rarities:
     - Common
+  en-HK:
+  - set_number: PGD-032
+    set_name: Pharaonic Guardian
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR032
     set_name: Pharaonic Guardian

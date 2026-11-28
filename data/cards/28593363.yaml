@@ -115,6 +115,11 @@ sets:
     set_name: Revival of Black Demons Dragon
     rarities:
     - Common
+  en-HK:
+  - set_number: MRD-038
+    set_name: Metal Raiders
+    rarities:
+    - Common
   ko:
   - set_number: MRD-K038
     set_name: Metal Raiders

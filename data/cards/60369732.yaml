@@ -98,6 +98,11 @@ sets:
     set_name: Expert Edition Volume 3
     rarities:
     - Common
+  en-HK:
+  - set_number: TLM-AE044
+    set_name: The Lost Millennium
+    rarities:
+    - Common
   ko:
   - set_number: TLM-KR044
     set_name: The Lost Millennium

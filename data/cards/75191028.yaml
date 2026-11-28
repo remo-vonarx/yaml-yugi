@@ -120,6 +120,11 @@ sets:
     rarities:
     - Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR12-AE072
+    set_name: Creation Pack 12
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: WPP7-KR034
     set_name: World Premiere Pack 2026

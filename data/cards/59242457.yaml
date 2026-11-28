@@ -217,6 +217,12 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: TT02-AEB23
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
+    - Ultra Rare
   ko:
   - set_number: DIFO-KR046
     set_name: Dimension Force

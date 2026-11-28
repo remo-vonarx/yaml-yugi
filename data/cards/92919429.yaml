@@ -218,6 +218,18 @@ sets:
     set_name: Yu-Gi-Oh! OCG Structures Volume 1 promotional card
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR04-AE147
+    set_name: Creation Pack 04
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: CR04-AES24
+    set_name: Creation Pack 04 +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: PP15-KR042
     set_name: Premium Pack Vol.15

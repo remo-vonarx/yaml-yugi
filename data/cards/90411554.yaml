@@ -225,6 +225,15 @@ sets:
     - Ultra Rare
     - Secret Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR07-AE066
+    set_name: Creation Pack 07
+    rarities:
+    - Ultimate Rare
+  - set_number: CR07-AES12
+    set_name: Creation Pack 07 +1 Bonus Pack
+    rarities:
+    - Quarter Century Secret Rare
   ko:
   - set_number: LTGY-KR038
     set_name: Lord of the Tachyon Galaxy

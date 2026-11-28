@@ -130,6 +130,20 @@ sets:
     rarities:
     - Ultra Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: SUDA-AE031
+    set_name: Supreme Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+    - Holographic Rare
+  - set_number: SUDA-AE031
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
   ko:
   - set_number: SUDA-KR031
     set_name: Supreme Darkness

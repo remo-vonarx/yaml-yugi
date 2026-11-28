@@ -82,6 +82,11 @@ sets:
     set_name: Cosmo Blazer
     rarities:
     - Rare
+  en-HK:
+  - set_number: CR07-AE053
+    set_name: Creation Pack 07
+    rarities:
+    - Super Rare
   ko:
   - set_number: CBLZ-KR015
     set_name: Cosmo Blazer

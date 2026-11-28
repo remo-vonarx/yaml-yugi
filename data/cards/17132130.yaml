@@ -205,6 +205,15 @@ sets:
     rarities:
     - Ultra Rare
     - Ultra Rare (Special Blue Version)
+  en-HK:
+  - set_number: CR13-AE026
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
+  - set_number: CR13-AES12
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: POTD-KR014
     set_name: Power of the Duelist

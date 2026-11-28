@@ -133,6 +133,11 @@ sets:
     set_name: 'Duelist Pack: Yusei 2'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: BLZD-AEC61
+    set_name: Blazing Dominion Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: DP09-KR016
     set_name: 'Duelist Pack: Yusei 2'

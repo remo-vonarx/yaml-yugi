@@ -104,6 +104,11 @@ sets:
     set_name: Judgment of the Light
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AE082
+    set_name: Beyond the Brave
+    rarities:
+    - Common
   ko:
   - set_number: JOTL-KR013
     set_name: Judgment of the Light

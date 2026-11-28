@@ -103,6 +103,11 @@ sets:
     set_name: Supreme Darkness
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE074
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: SUDA-KR074
     set_name: Supreme Darkness

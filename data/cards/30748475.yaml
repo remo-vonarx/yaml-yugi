@@ -242,6 +242,12 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Ultimate Rare
+  en-HK:
+  - set_number: DBPR-AE030
+    set_name: 'Deck-Build Pack: Phantom Revengers'
+    rarities:
+    - Super Rare
+    - Collector's Rare
   ko:
   - set_number: WPP4-KR061
     set_name: World Premiere Pack 2023

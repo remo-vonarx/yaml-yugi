@@ -341,6 +341,12 @@ sets:
     set_name: Starter Deck 2012
     rarities:
     - Common
+  en-HK:
+  - set_number: FET-AE021
+    set_name: Flaming Eternity
+    rarities:
+    - Rare
+    - Ultimate Rare
   ko:
   - set_number: FET-KR021
     set_name: Flaming Eternity

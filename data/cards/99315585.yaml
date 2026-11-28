@@ -106,6 +106,11 @@ sets:
     rarities:
     - Common
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR12-AE032
+    set_name: Creation Pack 12
+    rarities:
+    - Common
   ko:
   - set_number: SPWR-KR004
     set_name: 'Booster SP: Wing Raiders'

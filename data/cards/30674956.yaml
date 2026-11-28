@@ -249,6 +249,23 @@ sets:
     set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: SUDA-AE111
+    set_name: Supreme Darkness
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
+    - Secret Rare
+    - Quarter Century Secret Rare
+  - set_number: SUDA-AE111
+    set_name: Supreme Darkness +1 Bonus Pack
+    rarities:
+    - Ultra Rare
+    - Quarter Century Secret Rare
+  - set_number: CH02-AE044
+    set_name: 'THE CHRONICLES DECK: Spirit Charmers (All-Foil Edition)'
+    rarities:
+    - Normal Parallel Rare
   ko:
   - set_number: RIRA-KR046
     set_name: Rising Rampage

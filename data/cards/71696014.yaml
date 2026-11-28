@@ -198,6 +198,11 @@ sets:
     set_name: The Dark Illusion
     rarities:
     - Rare
+  en-HK:
+  - set_number: SDID-AE004
+    set_name: 'Structure Deck: Illusion of the Dark Magicians'
+    rarities:
+    - Common
   ko:
   - set_number: TDIL-KR018
     set_name: The Dark Illusion

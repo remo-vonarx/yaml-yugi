@@ -384,6 +384,15 @@ sets:
     set_name: 'Original Artwork Duel Set: Kaiba'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: PGD-000
+    set_name: Pharaonic Guardian
+    rarities:
+    - Secret Rare
+  - set_number: SDRB-AE039
+    set_name: 'Structure Deck: Rise of the Blue-Eyes'
+    rarities:
+    - Common
   ko:
   - set_number: PGD-KR000
     set_name: Pharaonic Guardian

@@ -286,6 +286,12 @@ sets:
     set_name: 20th Anniversary Pack 1st Wave
     rarities:
     - Normal Parallel Rare
+  en-HK:
+  - set_number: CR08-AE056
+    set_name: Creation Pack 08
+    rarities:
+    - Common
+    - Secret Rare
   ko:
   - set_number: SD14-KR001
     set_name: 'Structure Deck: Advent of the Emperor'

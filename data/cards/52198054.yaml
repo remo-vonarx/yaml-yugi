@@ -104,6 +104,11 @@ sets:
     set_name: 'Duelist Pack: Duelists of Explosion'
     rarities:
     - Common
+  en-HK:
+  - set_number: CR02-AE173
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
   ko:
   - set_number: SECE-KR077
     set_name: Secrets of Eternity

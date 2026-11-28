@@ -145,6 +145,15 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Quarter Century Secret Rare
+  en-HK:
+  - set_number: CR02-AE028
+    set_name: Creation Pack 02
+    rarities:
+    - Super Rare
+  - set_number: LAVD-AEO09
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: RC02-KR005
     set_name: Rarity Collection 20th Anniversary Edition

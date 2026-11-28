@@ -118,6 +118,19 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: 24AT-AE515
+    set_name: Tournament Pack 2024 Vol.5 (Asian-English)
+    rarities:
+    - Common
+  - set_number: CR13-AE059
+    set_name: Creation Pack 13
+    rarities:
+    - Super Rare
+  - set_number: CR13-AES24
+    set_name: Creation Pack 13 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: DBSS-KR008
     set_name: 'Deck-Build Pack: Secret Slayers'

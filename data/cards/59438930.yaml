@@ -561,6 +561,19 @@ sets:
     rarities:
     - Ultra Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: SDID-AEP03
+    set_name: 'Structure Deck: Illusion of the Dark Magicians Power-Up Pack'
+    rarities:
+    - Secret Rare
+  - set_number: TT02-AEB10
+    set_name: 'Tactical-Try Deck: Exosister'
+    rarities:
+    - Common
+  - set_number: 27UP-AE001
+    set_name: Ultimate Tournament Pack Vol.1
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: CROS-KR033
     set_name: Crossed Souls

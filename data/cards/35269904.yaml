@@ -333,6 +333,20 @@ sets:
     rarities:
     - Super Rare
     - Secret Rare
+  en-HK:
+  - set_number: SDSS-AEP11
+    set_name: 'Structure Deck: Salamangreat Sanctum Transcend Power-Up Pack'
+    rarities:
+    - Super Rare
+  - set_number: CH01-AE030
+    set_name: 'THE CHRONICLES DECK: The Fallen & The Virtuous (All-Foil Edition)'
+    rarities:
+    - Super Rare
+    - Secret Rare
+  - set_number: LAVD-AEL26
+    set_name: Legendary Arc-V Decks
+    rarities:
+    - Common
   ko:
   - set_number: PHHY-KR069
     set_name: Photon Hypernova

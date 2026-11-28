@@ -72,6 +72,11 @@ sets:
     set_name: Crimson Crisis
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: CRMS-AE037
+    set_name: Crimson Crisis
+    rarities:
+    - Normal Rare
   ko:
   - set_number: CRMS-KR037
     set_name: Crimson Crisis

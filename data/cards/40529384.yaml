@@ -117,6 +117,12 @@ sets:
     set_name: Duelist Edition Volume 3
     rarities:
     - Rare
+  en-HK:
+  - set_number: RGBT-AE040
+    set_name: Raging Battle
+    rarities:
+    - Ultra Rare
+    - Ultimate Rare
   ko:
   - set_number: RGBT-KR040
     set_name: Raging Battle

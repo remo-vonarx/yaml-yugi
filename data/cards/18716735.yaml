@@ -178,6 +178,11 @@ sets:
     set_name: LINK VRAINS Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: CR04-AE158
+    set_name: Creation Pack 04
+    rarities:
+    - Common
   ko:
   - set_number: INOV-KR022
     set_name: 'Invasion: Vengeance'

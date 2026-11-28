@@ -168,6 +168,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: DOOD-AES13
+    set_name: Doom of Dimensions +1 Assist Pack
+    rarities:
+    - Ultra Rare
   ko:
   - set_number: TSHD-KR043
     set_name: The Shining Darkness

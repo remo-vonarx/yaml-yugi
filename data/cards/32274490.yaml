@@ -356,6 +356,15 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: LOB-004
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
+  - set_number: CR04-AE122
+    set_name: Creation Pack 04
+    rarities:
+    - Super Rare
   ko:
   - set_number: LOB-K004
     set_name: Legend of Blue Eyes White Dragon

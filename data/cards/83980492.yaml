@@ -94,6 +94,11 @@ sets:
     set_name: Duelist Festival 2016 - Promotion Pack
     rarities:
     - Common
+  en-HK:
+  - set_number: BN01-AE157
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: AE07-KR014
     set_name: Advanced Event Pack 2015 Vol.1

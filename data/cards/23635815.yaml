@@ -136,6 +136,15 @@ sets:
     set_name: Expert Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: CRV-AE004
+    set_name: Cybernetic Revolution
+    rarities:
+    - Common
+  - set_number: BN01-AE129
+    set_name: 'Bonus Pack: Awakened by the Primites'
+    rarities:
+    - Common
   ko:
   - set_number: CRV-KR004
     set_name: Cybernetic Revolution

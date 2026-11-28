@@ -129,6 +129,11 @@ sets:
     set_name: Duelist Edition Volume 4
     rarities:
     - Common
+  en-HK:
+  - set_number: BETB-AEC48
+    set_name: Beyond the Brave Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ABPF-KR076
     set_name: Absolute Powerforce

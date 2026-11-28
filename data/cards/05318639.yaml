@@ -1607,6 +1607,17 @@ sets:
     set_name: 'Original Artwork Duel Set: Yugi'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: MRL-047
+    set_name: Magic Ruler
+    rarities:
+    - Ultra Rare
+  - set_number: DOOD-AE111
+    set_name: Doom of Dimensions
+    rarities:
+    - Ultimate Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: SRL-K047
     set_name: Spell Ruler

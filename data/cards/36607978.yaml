@@ -152,6 +152,11 @@ sets:
     set_name: 'Memories of the Duel King: Duelist Kingdom Arc'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-094
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K094
     set_name: Legend of Blue Eyes White Dragon

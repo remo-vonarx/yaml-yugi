@@ -217,6 +217,15 @@ sets:
     set_name: Speed Start Deck Link Edition
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-054
+    set_name: Magic Ruler
+    rarities:
+    - Rare
+  - set_number: SSD1-AE016
+    set_name: Speed Start Deck Link Edition
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K054
     set_name: Spell Ruler

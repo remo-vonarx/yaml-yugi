@@ -147,6 +147,11 @@ sets:
     set_name: 'Half Deck 2018: DARK'
     rarities:
     - Common
+  en-HK:
+  - set_number: LOB-099
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Rare
   ko:
   - set_number: LOB-K099
     set_name: Legend of Blue Eyes White Dragon

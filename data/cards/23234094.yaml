@@ -75,6 +75,11 @@ sets:
     set_name: Order of Chaos
     rarities:
     - Common
+  en-HK:
+  - set_number: CR01-AE102
+    set_name: Creation Pack 01
+    rarities:
+    - Common
   ko:
   - set_number: ORCS-KR027
     set_name: Order of Chaos

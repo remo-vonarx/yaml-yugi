@@ -250,6 +250,13 @@ sets:
     set_name: 'Structure Deck R: Curse of the Dark'
     rarities:
     - Common
+  en-HK:
+  - set_number: ES02-AE002
+    set_name: Essential Selection 02
+    rarities:
+    - Ultra Rare
+    - Secret Rare
+    - Prismatic Secret Rare
   ko:
   - set_number: CDIP-KR017
     set_name: Cyberdark Impact

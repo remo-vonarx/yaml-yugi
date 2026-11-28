@@ -76,6 +76,11 @@ sets:
     set_name: Dimension Force
     rarities:
     - Common
+  en-HK:
+  - set_number: SUDA-AE116
+    set_name: Supreme Darkness
+    rarities:
+    - Common
   ko:
   - set_number: DIFO-KR066
     set_name: Dimension Force

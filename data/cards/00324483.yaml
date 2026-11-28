@@ -95,6 +95,11 @@ sets:
     rarities:
     - Ultra Rare
     - Secret Rare
+  en-HK:
+  - set_number: CR08-AE076
+    set_name: Creation Pack 08
+    rarities:
+    - Ultimate Rare
   ko:
   - set_number: WPP5-KR004
     set_name: World Premiere Pack 2024

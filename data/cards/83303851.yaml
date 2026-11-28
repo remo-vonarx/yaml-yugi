@@ -104,6 +104,15 @@ sets:
     set_name: 'Structure Deck: Pendulum Domination'
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: CR09-AE013
+    set_name: Creation Pack 09
+    rarities:
+    - Common
+  - set_number: CR09-AES07
+    set_name: Creation Pack 09 +1 Bonus Pack
+    rarities:
+    - Secret Rare
   ko:
   - set_number: SD30-KR001
     set_name: 'Structure Deck: Pendulum Domination'

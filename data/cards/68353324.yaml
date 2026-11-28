@@ -156,6 +156,11 @@ sets:
     set_name: Tournament Pack 2022 Vol.2
     rarities:
     - Common
+  en-HK:
+  - set_number: 25AT-AE302
+    set_name: Tournament Pack 2025 Vol.3 (Asian-English)
+    rarities:
+    - Super Rare
   ko:
   - set_number: CIBR-KR040
     set_name: Circuit Break

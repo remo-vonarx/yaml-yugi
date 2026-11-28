@@ -90,6 +90,11 @@ sets:
     rarities:
     - Super Rare
     - Collector's Rare
+  en-HK:
+  - set_number: ROTA-AE103
+    set_name: Rage of the Abyss
+    rarities:
+    - Rare
   ko:
   - set_number: CP19-KR042
     set_name: 'Collection Pack: Duelist of Revolution Version'

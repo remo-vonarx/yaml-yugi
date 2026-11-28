@@ -89,6 +89,11 @@ sets:
     set_name: 'Deck-Build Pack: Mystic Fighters'
     rarities:
     - Super Rare
+  en-HK:
+  - set_number: ALIN-AE102
+    set_name: Alliance Insight
+    rarities:
+    - Common
   ko:
   - set_number: DBMF-KR007
     set_name: 'Deck-Build Pack: Mystic Fighters'

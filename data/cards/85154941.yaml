@@ -80,6 +80,11 @@ sets:
     set_name: Burst Protocol
     rarities:
     - Common
+  en-HK:
+  - set_number: BPRO-AE015
+    set_name: Burst Protocol
+    rarities:
+    - Common
   ko:
   - set_number: BPRO-KR015
     set_name: Burst Protocol

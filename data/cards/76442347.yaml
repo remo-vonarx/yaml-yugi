@@ -81,6 +81,11 @@ sets:
     set_name: Abyss Rising
     rarities:
     - Normal Rare
+  en-HK:
+  - set_number: BPRO-AEC56
+    set_name: Burst Protocol Complement Pack
+    rarities:
+    - Common
   ko:
   - set_number: ABYR-KR037
     set_name: Abyss Rising

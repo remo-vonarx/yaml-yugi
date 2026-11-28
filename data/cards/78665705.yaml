@@ -138,6 +138,11 @@ sets:
     - Secret Rare
     - Prismatic Secret Rare
     - Collector's Rare
+  en-HK:
+  - set_number: CR14-AE019
+    set_name: Creation Pack 14
+    rarities:
+    - Super Rare
   ko:
   - set_number: DP24-KR004
     set_name: 'Duelist Pack: Duelists of Gloom'

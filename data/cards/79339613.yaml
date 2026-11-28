@@ -79,6 +79,11 @@ sets:
     - Secret Rare
     - Ultimate Rare
     - Prismatic Secret Rare
+  en-HK:
+  - set_number: CR14-AE030
+    set_name: Creation Pack 14
+    rarities:
+    - Common
   ko:
   - set_number: HC01-KR007
     set_name: History Archive Collection

@@ -114,6 +114,11 @@ sets:
     set_name: Duelist Legacy Volume.1
     rarities:
     - Common
+  en-HK:
+  - set_number: MRL-084
+    set_name: Magic Ruler
+    rarities:
+    - Common
   ko:
   - set_number: SRL-K084
     set_name: Spell Ruler

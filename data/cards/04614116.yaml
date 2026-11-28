@@ -180,6 +180,15 @@ sets:
     set_name: 25th Anniversary Ultimate Kaiba Set
     rarities:
     - Ultra Rare
+  en-HK:
+  - set_number: LOB-088
+    set_name: Legend of Blue Eyes White Dragon
+    rarities:
+    - Short Print
+  - set_number: SDK-020
+    set_name: 'Starter Deck: Kaiba'
+    rarities:
+    - Common
   ko:
   - set_number: LOB-K088
     set_name: Legend of Blue Eyes White Dragon
